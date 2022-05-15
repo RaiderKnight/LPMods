@@ -3,7 +3,7 @@
 <br>
 <p>Only the best mods for LifePlay and those that are compatible with the Remake are added to this repo.</p>
 <p>A directory containing only unique, functional, well-built and maintained mods by these creators.<br>
-You won't have to choose between hundreds of overwritten or duplicated mods, lpscenes and other content. Only unique mods and addons!</p>
+You won't have to choose between hundreds of overwritten or duplicated mods, lpscenes and other content.<br>Only unique mods and addons!</p>
 <br>
 <hr>
 <br>
