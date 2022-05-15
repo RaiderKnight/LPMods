@@ -2,6 +2,8 @@
 <p>This is the mod repository for: https://github.com/RaiderKnight/RKModManager</p>
 <br>
 <p>Only the best mods for LifePlay and those that are compatible with the Remake are added to this repo.</p>
+<p>A directory containing only unique, functional, well-built and maintained mods by these creators.<br>
+You won't have to choose between hundreds of overwritten or duplicated mods, lpscenes and other content. Only unique mods and addons!</p>
 <br>
 <hr>
 <br>
@@ -12,6 +14,8 @@ You must send me your mod via <a href="https://discord.gg/d3U9E2wb4Y">Discord</a
 <li>Your mod must be functional.</li>
 <li>Your mod must contain a lpmod or lpaddon file.</li>
 <li>Your mod's content must be approved.</li></ul>
+<br>
+<p>The MODULE_VERSION tag is required for lpaddons and lpmods he RKLauncher only checks if the locally installed version is different from the repository version.</p>
 <br>
 <p><strong>Mods refused:</strong></p>
 <ul><li>Having illegal content</li>
