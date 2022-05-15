@@ -3,7 +3,6 @@
 <br>
 <p>Only the best mods for LifePlay and those that are compatible with the Remake are added to this repo.</p>
 <br>
-<br>
 <hr>
 <br>
 <h3>How to add your mod to this repo?</h3>
@@ -25,7 +24,7 @@ You must send me your mod via <a href="https://discord.gg/d3U9E2wb4Y">Discord</a
 <br>
 <p><strong>How to remove my mod from this directory?</strong><br>
 Just contact me "Raddeck" on my:</p>
-<ul><li>Website: https://raiderknight.com/</li>
+<ul><li>Website: https://raiderknight.com</li>
 <li>Forums: https://lifeplay.site</li>
 <li>Github: https://github.com/RaiderKnight</li>
 <li>Discord: https://discord.gg/d3U9E2wb4Y</li></ul>
