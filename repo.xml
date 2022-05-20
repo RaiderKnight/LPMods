@@ -3,6 +3,11 @@
     <!-- #Current Launcher Version: 1.4.4 -->
 
     <!-- NickNo's Mods -->
+    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire" Version="0.7 Beta"
+    Path="NickNo/nn_PornEmpire-0.7.zip"
+    Description="Run your own porn company in LifePlay."
+    Msg="Thanks for installing PornEmpire! If you find any bugs, please report on F95 or Discord. Thanks. - NickNo"/>
+
     <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
     Description="Manage NPCs, Relatives, Relationships etc. Use with care!"/>
@@ -10,6 +15,16 @@
     <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin" Version="0.2 Beta"
     Path="NickNo/nn_GangsOfLifePlay-0.2.zip"
     Description="You are the boss. The crime boss!"/>
+    
+    <Mod Id="nn_HomeExpander" Name="NickNo's Home Extensions" Version="0.4 Beta"
+    Path="NickNo/nn_HomeExpander-0.4.zip"
+    Description="Add more rooms and life to your home."/>
+    
+    <Mod Id="nn_VB_HomeExpander" Name="NickNo's Home Extensions for the Remake" Version="1.0.1"
+    Depends="rk_vin_Base"
+    Msg="The rk_vin_Base mod is required with this mod."
+    Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
+    Description="Have more rooms and life in your home"/>
 
     <!-- Raddeck's Mods -->
     <Mod Id="rk_Art_items_Shop" Name="Art Shop addon Module" Version="1.0.6" 
@@ -126,5 +141,46 @@
     Msg="The rk_Personal_Inventories mod is required with this mod."
     Path="Raddeck/rk_WeedShop-1.0.5.zip"
     Description="You can buy and smoke weed at different places!"/>
+    
+    <!-- Grimm's Mods -->
+    <Mod Id="grim_ReDress" Name="Grimm's Re-Dress" Version="1.0.1" 
+    Path="Grimm/grim_ReDress-1.0.1.zip"
+    Description="A utility mod that allows you to force companions to change their clothes"/>
+    
+    <Mod Id="grim_HomeAssignment" Name="Grimm's Home Assignment" Version="1.0.1" 
+    Path="Grimm/grim_HomeAssignment-1.0.1.zip"
+    Description="Adds an 'Assign Home' action to the PC menu which allows you to assign homes to NPCs"/>
+    
+    <Mod Id="grim_Dresser" Name="Grimm's Dresser" Version="1.0.1" 
+    Path="Grimm/grim_Dresser-1.0.1.zip"
+    Description="Allows you to dress NPCs in clothes you select"/>
 
+    <!-- Yarla's Mods -->
+    <Mod Id="yarla_CharacterPack1" Name="Yarla's Character Pack"
+    Description="20 male and female character presets"
+    Version="1.1" Path="Yarla/yarla_characterpack.zip"/>
+
+    <Mod Id="yarla_CharacterPack2" Name="Yarla's Character Pack 2" Version="1.0"
+    Path="Yarla/yarla_characterpack2.zip"
+    Description="28 male and female character presets"/>
+
+    <!-- n1ck's mods -->
+    <Mod Id="n1ck_DazPresets" Name="n1ck's character presets" Version="1.0"
+    Path="n1ck/n1ck_DazPresets.zip"
+    Description="13 male and female characters and 44 presets"/>
+
+    <!-- Medievalover's mods -->
+    <Mod Id="ml_Medievalover_Presets" Name="Medievalover Presets Collection" Version="0.3"
+    Path="Medievalover/ml_Medievalover_Presets-0.3.zip"
+    Description="My collection of character presets for LifePlay."/>
+    
+    <Mod Id="mlv_Project_EVA_Android_Sex_Doll" Name="Medievalover Poject EVA - Android Sex Doll" Version="0.15"
+    Path="Medievalover/mlv_Project_EVA_Android_Sex_Doll-0.15.zip"
+    Description="Become an android sex dolls by joining the Lust-Corp Industries, with immersive sex scenes, custom characters, custom locations, new stats, new consumables and much more."/>
+
+    <!-- RDL's mods -->
+    <Mod Id="rdl_timber" Name="RDL's Timber Dating" Version="0.1.0"
+    Path="RDL/rdl_timber-0.1.0.zip"
+    Description="Tinder style dynamic dating"/>
+    
 </Repo>
