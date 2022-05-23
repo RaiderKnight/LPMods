@@ -5,182 +5,181 @@
     <!-- NickNo's Mods -->
     <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire" Version="0.7.1"
     Path="NickNo/nn_PornEmpire-0.7.1.zip"
-    Description="Run your own porn company in LifePlay."
-    Msg="Thanks for installing PornEmpire! If you find any bugs, please report on F95 or Discord. Thanks. - NickNo"/>
+    Description="Dirigez votre propre société pornographique dans LifePlay."
+    Msg="Merci d'avoir installé PornEmpire ! Si vous trouvez des bugs, veuillez les signaler sur F95 ou Discord. Merci. - NickNo"/>
 
     <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
-    Description="Manage NPCs, Relatives, Relationships etc. Use with care!"/>
+    Description="Gérez les NPCs, les parents, les relations, etc. A utiliser avec précaution !"/>
 
     <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin" Version="0.2 Beta"
     Path="NickNo/nn_GangsOfLifePlay-0.2.zip"
-    Description="You are the boss. The crime boss!"/>
+    Description="Vous êtes le patron. Le patron du crime !"/>
     
     <Mod Id="nn_HomeExpander" Name="NickNo's Home Extensions" Version="0.4.1"
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
-    Description="Add more rooms and life to your home."/>
+    Description="Ajoutez des pièces et de la vie à votre maison."/>
     
     <Mod Id="nn_VB_HomeExpander" Name="NickNo's Home Extensions for the Remake" Version="1.0.1"
     Depends="rk_vin_Base"
-    Msg="The rk_vin_Base mod is required with this mod."
+    Msg="Le mod rk_vin_Base est requis avec ce mod."
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
-    Description="Have more rooms and life in your home"/>
+    Description="Ajoutez des pièces et de la vie à votre maison."/>
 
     <!-- Raddeck's Mods -->
     <Mod Id="rk_Art_items_Shop" Name="Art Shop addon Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_Art_items_Shop-1.0.6.zip"
-    Description="Give the option to buy/trade/sell art items!"/>
+    Description="Donne la possibilité d'acheter/échanger/vendre des objets d'art !"/>
     
     <Mod Id="rk_BakeryShop" Name="Bakery Shop Module" Version="1.0.8" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_BakeryShop-1.0.8.zip"
-    Description="Add options to buy/eat pastry and bread !"/>
+    Description="Ajoute des options pour acheter/manger des pâtisseries et du pain !"/>
     
     <Mod Id="rk_Bank_shop" Name="Bank Module" Version="1.0.5" 
-    Depends=""
     Path="Raddeck/rk_Bank_shop-1.0.5.zip"
-    Description="Money deposit/withdrawn!"/>
+    Description="Dépôt/retrait d'argent !"/>
     
     <Mod Id="rk_CigarsShop" Name="Cigars Shop Module" Version="1.0.5" 
     Depends="rk_Personal_Inventories"
-    Msg="The rk_Personal_Inventories mod is required with this mod."
+    Msg="Le mod rk_Personal_Inventories est requis avec ce mod."
     Path="Raddeck/rk_CigarsShop-1.0.5.zip"
-    Description="Add options to buy/smoke cigars !"/>
+    Description="Ajoute des options pour acheter/fumer des cigares !"/>
     
     <Mod Id="rk_Computer_Shop" Name="Computer Shop Module" Version="1.0.7" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_Computer_Shop-1.0.7.zip"
-    Description="Add option to buy computers,... at some stores !"/>
+    Description="Ajoute la possibilité d'acheter des ordinateurs,... dans certains magasins !"/>
     
     <Mod Id="rk_ConfectioneryShop" Name="Confectionery Shop Module" Version="1.0.6" 
     Depends="rk_Personal_Inventories"
-    Msg="The rk_Personal_Inventories mod is required with this mod."
+    Msg="Le mod rk_Personal_Inventories est requis avec ce mod."
     Path="Raddeck/rk_ConfectioneryShop-1.0.6.zip"
-    Description="Add options to buy/eat candy !"/>
+    Description="Ajoute des options pour acheter/manger des bonbons !"/>
     
     <Mod Id="rk_EroticShop" Name="Erotic Shop Module" Version="1.0.8" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_EroticShop-1.0.8.zip"
-    Description="Add options to buy erotic products such as: dildo, fleshlight,...!"/>
+    Description="Ajoute des options pour acheter des produits érotiques tels que : gode, fleshlight,... !"/>
     
     <Mod Id="rk_God_Mod" Name="God Mod Module" Version="1.0.5" 
     Depends=""
     Path="Raddeck/rk_God_Mod-1.0.5.zip"
-    Description="Cheat all the way inside LifePlay!"/>
+    Description="Trichez à l'intérieur de LifePlay !"/>
     
     <Mod Id="rk_Home_Inventories" Name="Home Inventories Mod" Version="1.0.8" 
     Depends=""
     Path="Raddeck/rk_Home_Inventories-1.0.8.zip"
-    Description="Better way to store your items - Focused on my mods items!"/>
+    Description="Une meilleure façon de ranger vos articles - Concentré sur mes articles mods !"/>
     
     <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_IceCreamShop-1.0.6.zip"
-    Description="Add options to buy/eat ice cream desserts !"/>
+    Description="Ajoute des options pour acheter/manger des desserts glacés !"/>
     
     <Mod Id="rk_JewelryShop" Name="Jewelry Shop Module" Version="1.0.5" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_JewelryShop-1.0.5.zip"
-    Description="Buy,trade or sell jewelry and few extras !"/>
+    Description="Achetez, échangez ou vendez des bijoux et quelques extras !"/>
     
     <Mod Id="rk_lp_worlds" Name="Raddeck's background Addon" Version="1.0.1" 
     Depends=""
     Path="Raddeck/rk_lp_worlds-1.0.1.zip"
-    Description="6 different background presets"/>
+    Description="6 differents backgrounds"/>
     
     <Mod Id="rk_MeatShop" Name="Meat Shop Module" Version="1.0.5" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_MeatShop-1.0.5.zip"
-    Description="Add options to buy/eat meat dishes !"/>
+    Description="Ajoute des options pour acheter/manger des plats de viande !"/>
     
     <Mod Id="rk_Mobile_Shop" Name="Mobile Shop Module" Version="1.0.8" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_Mobile_Shop-1.0.8.zip"
-    Description="Add option to buy mobile phone,... at some stores !"/>
+    Description="Ajoute la possibilité d'acheter un téléphone portable,... dans certains magasins !"/>
     
     <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Mod" Version="1.0.8" 
     Depends=""
     Path="Raddeck/rk_Personal_Inventories-1.0.8.zip"
-    Description="Better way to store your personal items - Focused on my mods items!"/>
+    Description="Une meilleure façon de ranger vos objets personnels - Concentré sur mes mods !"/>
     
     <Mod Id="rk_PopCornsShop" Name="Popcorns Shop Module" Version="1.0.5" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_PopCornsShop-1.0.5.zip"
-    Description="Add options to buy/eat Popcorns !"/>
+    Description="Ajoute des options pour acheter/manger des popcorns !"/>
     
     <Mod Id="rk_SeaFoodShop" Name="Seafood Shop Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_SeaFoodShop-1.0.6.zip"
-    Description="Add options to buy/eat seafoods !"/>
+    Description="Ajoute des options pour acheter/manger des fruits de mer !"/>
     
     <Mod Id="rk_VapeShop" Name="Vape Shop Module" Version="1.0.5" 
     Depends="rk_Personal_Inventories"
-    Msg="The rk_Personal_Inventories mod is required with this mod."
+    Msg="Le mod rk_Personal_Inventories est requis avec ce mod."
     Path="Raddeck/rk_VapeShop-1.0.5.zip"
-    Description="Add options to buy/smoke vape juices !"/>
+    Description="Ajoute des options pour acheter/fumer des jus de vape !"/>
     
     <Mod Id="rk_VeganShop" Name="Vegan Shop Module" Version="1.0.7" 
     Depends="rk_Home_Inventories"
-    Msg="The rk_Home_Inventories mod is required with this mod."
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_VeganShop-1.0.7.zip"
-    Description="Add options to buy/eat vegan meals !"/>
+    Description="Ajoute des options pour acheter/manger des repas végétaliens !"/>
     
     <Mod Id="rk_WeedShop" Name="Weed Shop Module" Version="1.0.5" 
     Depends="rk_Personal_Inventories"
-    Msg="The rk_Personal_Inventories mod is required with this mod."
+    Msg="Le mod rk_Personal_Inventories est requis avec ce mod."
     Path="Raddeck/rk_WeedShop-1.0.5.zip"
-    Description="You can buy and smoke weed at different places!"/>
+    Description="Vous pouvez acheter et fumer de l'herbe à différents endroits !"/>
     
     <!-- Grimm's Mods -->
     <Mod Id="grim_ReDress" Name="Grimm's Re-Dress" Version="1.0.1" 
     Path="Grimm/grim_ReDress-1.0.1.zip"
-    Description="A utility mod that allows you to force companions to change their clothes"/>
+    Description="Un mod utilitaire qui vous permet de forcer les compagnons à changer de vêtements"/>
     
     <Mod Id="grim_HomeAssignment" Name="Grimm's Home Assignment" Version="1.0.1" 
     Path="Grimm/grim_HomeAssignment-1.0.1.zip"
-    Description="Adds an 'Assign Home' action to the PC menu which allows you to assign homes to NPCs"/>
+    Description="Ajout d'une action 'Attribuer une maison' au menu PC qui vous permet d'attribuer des maisons aux NPCs."/>
     
     <Mod Id="grim_Dresser" Name="Grimm's Dresser" Version="1.0.1" 
     Path="Grimm/grim_Dresser-1.0.1.zip"
-    Description="Allows you to dress NPCs in clothes you select"/>
+    Description="Permet d'habiller les NPCs avec les vêtements de votre choix."/>
 
     <!-- Yarla's Mods -->
     <Mod Id="yarla_CharacterPack1" Name="Yarla's Character Pack"
-    Description="20 male and female character presets"
+    Description="20 présélections de personnages masculins et féminins"
     Version="1.1" Path="Yarla/yarla_characterpack.zip"/>
 
     <Mod Id="yarla_CharacterPack2" Name="Yarla's Character Pack 2" Version="1.0"
     Path="Yarla/yarla_characterpack2.zip"
-    Description="28 male and female character presets"/>
+    Description="28 présélections de personnages masculins et féminins"/>
 
     <!-- n1ck's mods -->
     <Mod Id="n1ck_DazPresets" Name="n1ck's character presets" Version="1.0"
     Path="n1ck/n1ck_DazPresets.zip"
-    Description="13 male and female characters and 44 presets"/>
+    Description="13 personnages masculins et féminins et 44 présélections"/>
 
     <!-- Medievalover's mods -->
     <Mod Id="ml_Medievalover_Presets" Name="Medievalover Presets Collection" Version="0.3"
     Path="Medievalover/ml_Medievalover_Presets-0.3.zip"
-    Description="My collection of character presets for LifePlay."/>
+    Description="Ma collection de présélections de personnages pour LifePlay."/>
     
     <Mod Id="mlv_Project_EVA_Android_Sex_Doll" Name="Medievalover Poject EVA - Android Sex Doll" Version="0.15"
     Path="Medievalover/mlv_Project_EVA_Android_Sex_Doll-0.15.zip"
-    Description="Become an android sex dolls by joining the Lust-Corp Industries, with immersive sex scenes, custom characters, custom locations, new stats, new consumables and much more."/>
+    Description="Devenez une poupée sexuelle androïde en rejoignant les industries de Lust-Corp, avec des personnages personnalisés, des lieux personnalisés, de nouvelles stats, de nouveaux consommables et bien plus encore."/>
 
     <!-- RDL's mods -->
     <Mod Id="rdl_timber" Name="RDL's Timber Dating" Version="0.1.0"
     Path="RDL/rdl_timber-0.1.0.zip"
-    Description="Tinder style dynamic dating"/>
+    Description="Rencontres dynamiques de type Tinder"/>
     
 </Repo>
