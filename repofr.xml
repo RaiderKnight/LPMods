@@ -67,14 +67,12 @@
     Path="Raddeck/rk_EroticShop-1.0.9.zip"
     Description="Ajoute des options pour acheter des produits érotiques tels que : gode, fleshlight,... !"/>
     
-    <Mod Id="rk_God_Mod" Name="God Mod Module" Version="1.0.5" 
-    Depends=""
-    Path="Raddeck/rk_God_Mod-1.0.5.zip"
+    <Mod Id="rk_God_Mod" Name="God Mod Module" Version="1.0.6" 
+    Path="Raddeck/rk_God_Mod-1.0.6.zip"
     Description="Trichez à l'intérieur de LifePlay !"/>
     
-    <Mod Id="rk_Home_Inventories" Name="Home Inventories Mod" Version="1.0.8" 
-    Depends=""
-    Path="Raddeck/rk_Home_Inventories-1.0.8.zip"
+    <Mod Id="rk_Home_Inventories" Name="Home Inventories Mod" Version="1.0.9" 
+    Path="Raddeck/rk_Home_Inventories-1.0.9.zip"
     Description="Une meilleure façon de ranger vos articles - Concentré sur mes articles mods !"/>
     
     <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.6" 
@@ -90,7 +88,6 @@
     Description="Achetez, échangez ou vendez des bijoux et quelques extras !"/>
     
     <Mod Id="rk_lp_worlds" Name="Raddeck's background Addon" Version="1.0.1" 
-    Depends=""
     Path="Raddeck/rk_lp_worlds-1.0.1.zip"
     Description="6 differents backgrounds"/>
     
@@ -107,7 +104,6 @@
     Description="Ajoute la possibilité d'acheter un téléphone portable,... dans certains magasins !"/>
     
     <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Mod" Version="1.0.8" 
-    Depends=""
     Path="Raddeck/rk_Personal_Inventories-1.0.8.zip"
     Description="Une meilleure façon de ranger vos objets personnels - Concentré sur mes mods !"/>
     

@@ -40,7 +40,6 @@
     Description="Add options to buy/eat pastry and bread !"/>
     
     <Mod Id="rk_Bank_shop" Name="Bank Module" Version="1.0.6" 
-    Depends=""
     Path="Raddeck/rk_Bank_shop-1.0.6.zip"
     Description="Money deposit/withdrawn!"/>
     
@@ -68,14 +67,12 @@
     Path="Raddeck/rk_EroticShop-1.0.9.zip"
     Description="Add options to buy erotic products such as: dildo, fleshlight,...!"/>
     
-    <Mod Id="rk_God_Mod" Name="God Mod Module" Version="1.0.5" 
-    Depends=""
-    Path="Raddeck/rk_God_Mod-1.0.5.zip"
+    <Mod Id="rk_God_Mod" Name="God Mod Module" Version="1.0.6" 
+    Path="Raddeck/rk_God_Mod-1.0.6.zip"
     Description="Cheat all the way inside LifePlay!"/>
     
-    <Mod Id="rk_Home_Inventories" Name="Home Inventories Mod" Version="1.0.8" 
-    Depends=""
-    Path="Raddeck/rk_Home_Inventories-1.0.8.zip"
+    <Mod Id="rk_Home_Inventories" Name="Home Inventories Mod" Version="1.0.9" 
+    Path="Raddeck/rk_Home_Inventories-1.0.9.zip"
     Description="Better way to store your items - Focused on my mods items!"/>
     
     <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.6" 
@@ -91,7 +88,6 @@
     Description="Buy,trade or sell jewelry and few extras !"/>
     
     <Mod Id="rk_lp_worlds" Name="Raddeck's background Addon" Version="1.0.1" 
-    Depends=""
     Path="Raddeck/rk_lp_worlds-1.0.1.zip"
     Description="6 different background presets"/>
     
@@ -108,7 +104,6 @@
     Description="Add option to buy mobile phone,... at some stores !"/>
     
     <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Mod" Version="1.0.8" 
-    Depends=""
     Path="Raddeck/rk_Personal_Inventories-1.0.8.zip"
     Description="Better way to store your personal items - Focused on my mods items!"/>
     
