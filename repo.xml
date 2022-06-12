@@ -2,7 +2,7 @@
     <!-- #Current LifePlay Version: 5.0.3 -->
     <!-- #Current Launcher Version: 1.4.4 -->
 
-    <!-- NickNo's Mods -->
+    <!-- NickNo's Mods (5) -->
     <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire" Version="0.7.1"
     Path="NickNo/nn_PornEmpire-0.7.1.zip"
     Description="Run your own porn company in LifePlay."
@@ -26,7 +26,7 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Have more rooms and life in your home"/>
 
-    <!-- Raddeck's Mods -->
+    <!-- Raddeck's Mods (21) -->
     <Mod Id="rk_Art_items_Shop" Name="Art Shop addon Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
@@ -91,17 +91,23 @@
     Path="Raddeck/rk_lp_worlds-1.0.2.zip"
     Description="6 different background presets"/>
     
-    <Mod Id="rk_MeatShop" Name="Meat Shop Module" Version="1.0.5" 
+    <Mod Id="rk_MeatShop" Name="Meat Shop Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
-    Path="Raddeck/rk_MeatShop-1.0.5.zip"
+    Path="Raddeck/rk_MeatShop-1.0.6.zip"
     Description="Add options to buy/eat meat dishes !"/>
     
-    <Mod Id="rk_Mobile_Shop" Name="Mobile Shop Module" Version="1.0.8" 
+    <Mod Id="rk_Mobile_Shop" Name="Mobile Shop Module" Version="1.0.9" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
-    Path="Raddeck/rk_Mobile_Shop-1.0.8.zip"
-    Description="Add option to buy mobile phone,... at some stores !"/>
+    Path="Raddeck/rk_Mobile_Shop-1.0.9.zip"
+    Description="Add option to buy mobile phone,... at some stores!"/>
+    
+    <Mod Id="rk_MoneyMaker" Name="Money Maker Module" Version="1.0.9" 
+    Depends="rk_Home_Inventories"
+    Msg="The rk_Home_Inventories and vim_RoomPresets are required with this mod."
+    Path="Raddeck/rk_MoneyMaker-1.0.9.zip"
+    Description="Money deposit/withdrawn, buy/trade/sell jewelry/arts!"/>
     
     <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Mod" Version="1.0.8" 
     Path="Raddeck/rk_Personal_Inventories-1.0.8.zip"
@@ -111,25 +117,25 @@
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
     Path="Raddeck/rk_PopCornsShop-1.0.5.zip"
-    Description="Add options to buy/eat Popcorns !"/>
+    Description="Add options to buy/eat Popcorns!"/>
     
     <Mod Id="rk_SeaFoodShop" Name="Seafood Shop Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
     Path="Raddeck/rk_SeaFoodShop-1.0.6.zip"
-    Description="Add options to buy/eat seafoods !"/>
+    Description="Add options to buy/eat seafoods!"/>
     
     <Mod Id="rk_VapeShop" Name="Vape Shop Module" Version="1.0.5" 
     Depends="rk_Personal_Inventories"
     Msg="The rk_Personal_Inventories mod is required with this mod."
     Path="Raddeck/rk_VapeShop-1.0.5.zip"
-    Description="Add options to buy/smoke vape juices !"/>
+    Description="Add options to buy/smoke vape juices!"/>
     
     <Mod Id="rk_VeganShop" Name="Vegan Shop Module" Version="1.0.7" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
     Path="Raddeck/rk_VeganShop-1.0.7.zip"
-    Description="Add options to buy/eat vegan meals !"/>
+    Description="Add options to buy/eat vegan meals!"/>
     
     <Mod Id="rk_WeedShop" Name="Weed Shop Module" Version="1.0.5" 
     Depends="rk_Personal_Inventories"
@@ -137,7 +143,7 @@
     Path="Raddeck/rk_WeedShop-1.0.5.zip"
     Description="You can buy and smoke weed at different places!"/>
     
-    <!-- Grimm's Mods -->
+    <!-- Grimm's Mods (3) -->
     <Mod Id="grim_ReDress" Name="Grimm's Re-Dress" Version="1.0.1" 
     Path="Grimm/grim_ReDress-1.0.1.zip"
     Description="A utility mod that allows you to force companions to change their clothes"/>
@@ -150,7 +156,7 @@
     Path="Grimm/grim_Dresser-1.0.1.zip"
     Description="Allows you to dress NPCs in clothes you select"/>
 
-    <!-- Yarla's Mods -->
+    <!-- Yarla's Mods (2) -->
     <Mod Id="yarla_CharacterPack1" Name="Yarla's Character Pack"
     Description="20 male and female character presets"
     Version="1.1" Path="Yarla/yarla_characterpack.zip"/>
@@ -159,21 +165,21 @@
     Path="Yarla/yarla_characterpack2.zip"
     Description="28 male and female character presets"/>
 
-    <!-- n1ck's mods -->
+    <!-- n1ck's mods (1) -->
     <Mod Id="n1ck_DazPresets" Name="n1ck's character presets" Version="1.0"
     Path="n1ck/n1ck_DazPresets.zip"
     Description="13 male and female characters and 44 presets"/>
 
-    <!-- Medievalover's mods -->
+    <!-- Medievalover's mods (2) -->
     <Mod Id="ml_Medievalover_Presets" Name="Medievalover Presets Collection" Version="0.3"
     Path="Medievalover/ml_Medievalover_Presets-0.3.zip"
     Description="My collection of character presets for LifePlay."/>
     
     <Mod Id="mlv_Project_EVA_Android_Sex_Doll" Name="Medievalover Poject EVA - Android Sex Doll" Version="0.15"
     Path="Medievalover/mlv_Project_EVA_Android_Sex_Doll-0.15.zip"
-    Description="Become an android sex dolls by joining the Lust-Corp Industries, with immersive sex scenes, custom characters, custom locations, new stats, new consumables and much more."/>
+    Description="Become an android sex dolls by joining the Lust-Corp Industries, immersive sex scenes, custom characters, custom locations, new stats, new consumables and much more."/>
 
-    <!-- RDL's mods -->
+    <!-- RDL's mods (1) -->
     <Mod Id="rdl_timber" Name="RDL's Timber Dating" Version="0.1.0"
     Path="RDL/rdl_timber-0.1.0.zip"
     Description="Tinder style dynamic dating"/>
