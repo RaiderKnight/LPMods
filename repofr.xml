@@ -75,10 +75,10 @@
     Path="Raddeck/rk_Home_Inventories-1.0.9.zip"
     Description="Une meilleure façon de ranger vos articles - Concentré sur mes articles mods!"/>
     
-    <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.7" 
+    <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.8" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_IceCreamShop-1.0.7.zip"
+    Path="Raddeck/rk_IceCreamShop-1.0.8.zip"
     Description="Ajoute des options pour acheter/manger des desserts glacés!"/>
     
     <Mod Id="rk_JewelryShop" Name="Jewelry Shop Module" Version="1.0.6" 
@@ -103,10 +103,10 @@
     Path="Raddeck/rk_Mobile_Shop-1.0.9.zip"
     Description="Ajoute la possibilité d'acheter un téléphone portable,... dans certains magasins!"/>
     
-    <Mod Id="rk_MoneyMaker" Name="Money Maker Module" Version="1.0.9" 
+    <Mod Id="rk_MoneyMaker" Name="Money Maker Module" Version="1.0.10" 
     Depends="rk_Home_Inventories"
     Msg="Les mods rk_Home_Inventories et vim_RoomPresets sont requis avec ce mod."
-    Path="Raddeck/rk_MoneyMaker-1.0.9.zip"
+    Path="Raddeck/rk_MoneyMaker-1.0.10.zip"
     Description="Ajoute la possibilité de déposer/retirer/emprunter votre argent à la banque!"/>
     
     <Mod Id="rk_MoreRides" Name="More Rides Module" Version="1.0.8" 
