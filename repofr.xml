@@ -55,16 +55,16 @@
     Path="Raddeck/rk_Computer_Shop-1.0.8.zip"
     Description="Ajoute la possibilité d'acheter des ordinateurs,... dans certains magasins !"/>
     
-    <Mod Id="rk_ConfectioneryShop" Name="Confectionery Shop Module" Version="1.0.6" 
+    <Mod Id="rk_ConfectioneryShop" Name="Confectionery Shop Module" Version="1.0.7" 
     Depends="rk_Personal_Inventories"
     Msg="Le mod rk_Personal_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_ConfectioneryShop-1.0.6.zip"
+    Path="Raddeck/rk_ConfectioneryShop-1.0.7.zip"
     Description="Ajoute des options pour acheter/manger des bonbons !"/>
     
-    <Mod Id="rk_EroticShop" Name="Erotic Shop Module" Version="1.0.8" 
+    <Mod Id="rk_EroticShop" Name="Erotic Shop Module" Version="1.0.9" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_EroticShop-1.0.8.zip"
+    Path="Raddeck/rk_EroticShop-1.0.9.zip"
     Description="Ajoute des options pour acheter des produits érotiques tels que : gode, fleshlight,... !"/>
     
     <Mod Id="rk_God_Mod" Name="God Mod Module" Version="1.0.5" 
