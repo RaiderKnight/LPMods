@@ -75,20 +75,20 @@
     Path="Raddeck/rk_Home_Inventories-1.0.9.zip"
     Description="Better way to store your items - Focused on my mods items!"/>
     
-    <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.6" 
+    <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.7" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
-    Path="Raddeck/rk_IceCreamShop-1.0.6.zip"
+    Path="Raddeck/rk_IceCreamShop-1.0.7.zip"
     Description="Add options to buy/eat ice cream desserts !"/>
     
-    <Mod Id="rk_JewelryShop" Name="Jewelry Shop Module" Version="1.0.5" 
+    <Mod Id="rk_JewelryShop" Name="Jewelry Shop Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
-    Path="Raddeck/rk_JewelryShop-1.0.5.zip"
+    Path="Raddeck/rk_JewelryShop-1.0.6.zip"
     Description="Buy,trade or sell jewelry and few extras !"/>
     
-    <Mod Id="rk_lp_worlds" Name="Raddeck's background Addon" Version="1.0.1" 
-    Path="Raddeck/rk_lp_worlds-1.0.1.zip"
+    <Mod Id="rk_lp_worlds" Name="Raddeck's background Addon" Version="1.0.2" 
+    Path="Raddeck/rk_lp_worlds-1.0.2.zip"
     Description="6 different background presets"/>
     
     <Mod Id="rk_MeatShop" Name="Meat Shop Module" Version="1.0.5" 
