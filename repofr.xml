@@ -43,16 +43,16 @@
     Path="Raddeck/rk_Bank_shop-1.0.6.zip"
     Description="Dépôt/retrait d'argent !"/>
     
-    <Mod Id="rk_CigarsShop" Name="Cigars Shop Module" Version="1.0.5" 
+    <Mod Id="rk_CigarsShop" Name="Cigars Shop Module" Version="1.0.6" 
     Depends="rk_Personal_Inventories"
     Msg="Le mod rk_Personal_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_CigarsShop-1.0.5.zip"
+    Path="Raddeck/rk_CigarsShop-1.0.6.zip"
     Description="Ajoute des options pour acheter/fumer des cigares !"/>
     
-    <Mod Id="rk_Computer_Shop" Name="Computer Shop Module" Version="1.0.7" 
+    <Mod Id="rk_Computer_Shop" Name="Computer Shop Module" Version="1.0.8" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_Computer_Shop-1.0.7.zip"
+    Path="Raddeck/rk_Computer_Shop-1.0.8.zip"
     Description="Ajoute la possibilité d'acheter des ordinateurs,... dans certains magasins !"/>
     
     <Mod Id="rk_ConfectioneryShop" Name="Confectionery Shop Module" Version="1.0.6" 
