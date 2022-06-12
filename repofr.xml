@@ -131,22 +131,22 @@
     Path="Raddeck/rk_SeaFoodShop-1.0.7.zip"
     Description="Ajoute des options pour acheter/manger des fruits de mer!"/>
     
-    <Mod Id="rk_VapeShop" Name="Vape Shop Module" Version="1.0.5" 
+    <Mod Id="rk_VapeShop" Name="Vape Shop Module" Version="1.0.6" 
     Depends="rk_Personal_Inventories"
     Msg="Le mod rk_Personal_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_VapeShop-1.0.5.zip"
+    Path="Raddeck/rk_VapeShop-1.0.6.zip"
     Description="Ajoute des options pour acheter/fumer des jus de vape!"/>
     
-    <Mod Id="rk_VeganShop" Name="Vegan Shop Module" Version="1.0.7" 
+    <Mod Id="rk_VeganShop" Name="Vegan Shop Module" Version="1.0.8" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_VeganShop-1.0.7.zip"
+    Path="Raddeck/rk_VeganShop-1.0.8.zip"
     Description="Ajoute des options pour acheter/manger des repas végétaliens!"/>
     
-    <Mod Id="rk_WeedShop" Name="Weed Shop Module" Version="1.0.5" 
+    <Mod Id="rk_WeedShop" Name="Weed Shop Module" Version="1.0.6" 
     Depends="rk_Personal_Inventories"
     Msg="Le mod rk_Personal_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_WeedShop-1.0.5.zip"
+    Path="Raddeck/rk_WeedShop-1.0.6.zip"
     Description="Vous pouvez acheter et fumer de l'herbe à différents endroits!"/>
     
     <!-- Grimm's Mods (3) -->
