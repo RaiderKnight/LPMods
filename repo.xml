@@ -26,7 +26,7 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Have more rooms and life in your home"/>
 
-    <!-- Raddeck's Mods (21) -->
+    <!-- Raddeck's Mods (22) -->
     <Mod Id="rk_Art_items_Shop" Name="Art Shop addon Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
@@ -109,20 +109,26 @@
     Path="Raddeck/rk_MoneyMaker-1.0.9.zip"
     Description="Money deposit/withdrawn, buy/trade/sell jewelry/arts!"/>
     
-    <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Mod" Version="1.0.8" 
-    Path="Raddeck/rk_Personal_Inventories-1.0.8.zip"
+    <Mod Id="rk_MoreRides" Name="More Rides Module" Version="1.0.8" 
+    Depends="rk_Home_Inventories"
+    Msg="The rk_Home_Inventories is required with this mod."
+    Path="Raddeck/rk_MoreRides-1.0.8.zip"
+    Description="Buy/sell/trade a bike and/or motorcycle!"/>
+    
+    <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Mod" Version="1.0.9" 
+    Path="Raddeck/rk_Personal_Inventories-1.0.9.zip"
     Description="Better way to store your personal items - Focused on my mods items!"/>
     
-    <Mod Id="rk_PopCornsShop" Name="Popcorns Shop Module" Version="1.0.5" 
+    <Mod Id="rk_PopCornsShop" Name="Popcorns Shop Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
-    Path="Raddeck/rk_PopCornsShop-1.0.5.zip"
+    Path="Raddeck/rk_PopCornsShop-1.0.6.zip"
     Description="Add options to buy/eat Popcorns!"/>
     
-    <Mod Id="rk_SeaFoodShop" Name="Seafood Shop Module" Version="1.0.6" 
+    <Mod Id="rk_SeaFoodShop" Name="Seafood Shop Module" Version="1.0.7" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
-    Path="Raddeck/rk_SeaFoodShop-1.0.6.zip"
+    Path="Raddeck/rk_SeaFoodShop-1.0.7.zip"
     Description="Add options to buy/eat seafoods!"/>
     
     <Mod Id="rk_VapeShop" Name="Vape Shop Module" Version="1.0.5" 
