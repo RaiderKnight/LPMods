@@ -33,14 +33,14 @@
     Path="Raddeck/rk_Art_items_Shop-1.0.6.zip"
     Description="Donne la possibilité d'acheter/échanger/vendre des objets d'art !"/>
     
-    <Mod Id="rk_BakeryShop" Name="Bakery Shop Module" Version="1.0.8" 
+    <Mod Id="rk_BakeryShop" Name="Bakery Shop Module" Version="1.0.9" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_BakeryShop-1.0.8.zip"
+    Path="Raddeck/rk_BakeryShop-1.0.9.zip"
     Description="Ajoute des options pour acheter/manger des pâtisseries et du pain !"/>
     
-    <Mod Id="rk_Bank_shop" Name="Bank Module" Version="1.0.5" 
-    Path="Raddeck/rk_Bank_shop-1.0.5.zip"
+    <Mod Id="rk_Bank_shop" Name="Bank Module" Version="1.0.6" 
+    Path="Raddeck/rk_Bank_shop-1.0.6.zip"
     Description="Dépôt/retrait d'argent !"/>
     
     <Mod Id="rk_CigarsShop" Name="Cigars Shop Module" Version="1.0.5" 
