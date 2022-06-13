@@ -26,7 +26,7 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Ajoutez des pièces et de la vie à votre maison."/>
 
-    <!-- Raddeck's Mods (22) -->
+    <!-- Raddeck's Mods (23) -->
     <Mod Id="rk_Art_items_Shop" Name="Art Shop addon Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
@@ -124,6 +124,12 @@
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_PopCornsShop-1.0.6.zip"
     Description="Ajoute des options pour acheter/manger des popcorns!"/>
+    
+    <Mod Id="rk_ShopAddons" Name="Shop Add-On Module" Version="1.0.8" 
+    Depends="rk_Home_Inventories"
+    Msg="Les modules rk_Home_Inventories et rk_Personal_Inventories sont requis avec ce mod. Ce mod contient tous mes mods de mini-boutique."
+    Path="Raddeck/rk_ShopAddons-1.0.8.zip"
+    Description="Ajoute plus d'options aux magasins pour acheter des articles et quelques extras!"/>
     
     <Mod Id="rk_SeaFoodShop" Name="Seafood Shop Module" Version="1.0.7" 
     Depends="rk_Home_Inventories"
