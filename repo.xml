@@ -87,7 +87,7 @@
     Path="Raddeck/rk_JewelryShop-1.0.6.zip"
     Description="Buy,trade or sell jewelry and few extras !"/>
     
-    <Mod Id="rk_lp_worlds" Name="Raddeck's background Addon" Version="1.0.2" 
+    <Mod Id="rk_lp_worlds" Name="Raddeck's background Addon" Version="1.0.3" 
     Path="Raddeck/rk_lp_worlds-1.0.2.zip"
     Description="6 different background presets"/>
     
