@@ -205,4 +205,8 @@
     Path="Raddeck/rk_additional_activities-1.0.1.zip"
     Description="Ajoute des scènes supplémentaires pendant certains types d'activités"/>
     
+    <Mod Id="rk_WeightAndFitness" Name="Raddeck's Body Weight & Fitness" Version="1.0.1"
+    Path="Raddeck/rk_WeightAndFitness-1.0.1.zip"
+    Description="Ajout d'une prise et d'une perte de poids pour les joueurs et les NPCs."/>
+    
 </Repo>

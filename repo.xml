@@ -20,7 +20,7 @@
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
     Description="Add more rooms and life to your home."/>
     
-    <Mod Id="nn_VB_HomeExpander" Name="NickNo's Home Extensions for the Remake" Version="1.0.1"
+    <Mod Id="nn_VB_HomeExpander" Name="NickNo's Home Extensions [For the Remake]" Version="1.0.1"
     Depends="rk_vin_Base"
     Msg="The rk_vin_Base mod is required with this mod."
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
@@ -204,5 +204,9 @@
     <Mod Id="rk_additional_activities" Name="Raddeck's Additional activities" Version="1.0.1"
     Path="Raddeck/rk_additional_activities-1.0.1.zip"
     Description="Adds extra scenes during certain types of activities"/>
+    
+    <Mod Id="rk_WeightAndFitness" Name="Raddeck's Body Weight & Fitness" Version="1.0.1"
+    Path="Raddeck/rk_WeightAndFitness-1.0.1.zip"
+    Description="Adds weight gain and loss for player & NPCs"/>
     
 </Repo>
