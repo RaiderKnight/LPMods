@@ -1,6 +1,6 @@
 <Repo>
     <!-- #Current LifePlay Version: 5.0.3 -->
-    <!-- #Current Launcher Version: 1.4.4 -->
+    <!-- #Current Launcher Version: 1.4.7 -->
 
     <!-- NickNo's Mods (5) -->
     <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire" Version="0.7.1"
@@ -205,8 +205,8 @@
     Path="Raddeck/rk_additional_activities-1.0.1.zip"
     Description="Adds extra scenes during certain types of activities"/>
     
-    <Mod Id="rk_WeightAndFitness" Name="Raddeck's Body Weight & Fitness" Version="1.0.1"
+    <Mod Id="rk_WeightAndFitness" Name="Raddeck's Body Weight and Fitness" Version="1.0.1"
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip"
-    Description="Adds weight gain and loss for player & NPCs"/>
+    Description="Adds weight gain and loss for player and NPCs"/>
     
 </Repo>
