@@ -196,6 +196,15 @@
     Path="RDL/rdl_timber-0.1.0.zip"
     Description="Rencontres dynamiques de type Tinder"/>
     
+    <!-- Vamos69's mods (1) -->
+    <Mod Id="co_NPC_Relationship" Name="Vamos69's NPC Relationship Module" Version="1.0.3"
+    Path="Vamos69/co_NPC_Relationship-1.0.3.zip"
+    Description="Modifier les relations entre les NPCs en utilisant le menu PC. Créé par CaseyOmah edité par Vamos69"/>
+    
+    <Mod Id="v69_MoreEvents" Name="Vamos69's More Events Module" Version="1.0.0"
+    Path="Vamos69/v69_MoreEvents-1.0.0.zip"
+    Description="Ajoute des évènements de plus à l'intérieur du jeu."/>
+    
     <!-- Mods from other -->
     <Mod Id="rk_breaking_not_bad" Name="Raddeck's Random Breakups" Version="1.0.1"
     Path="Raddeck/rk_random_breakup-1.0.1.zip"
