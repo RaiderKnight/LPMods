@@ -6,38 +6,38 @@
     <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire" Version="0.7.1"
     Path="NickNo/nn_PornEmpire-0.7.1.zip"
     Description="Dirigez votre propre société pornographique dans LifePlay."
-    Msg="Merci d'avoir installé PornEmpire ! Si vous trouvez des bugs, veuillez les signaler sur F95 ou Discord. Merci. - NickNo"/>
+    Msg="Merci d'avoir installé PornEmpire! Si vous trouvez des bugs, veuillez les signaler sur F95 ou Discord. Merci. - NickNo"/>
 
     <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
-    Description="Gérez les NPCs, les parents, les relations, etc. A utiliser avec précaution !"/>
+    Description="Gérez les NPCs, les parents, les relations, etc. A utiliser avec précaution!"/>
 
     <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin" Version="0.2 Beta"
     Path="NickNo/nn_GangsOfLifePlay-0.2.zip"
-    Description="Vous êtes le patron. Le patron du crime !"/>
+    Description="Vous êtes le patron. Le patron du crime!"/>
     
     <Mod Id="nn_HomeExpander" Name="NickNo's Home Extensions" Version="0.4.1"
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
     Description="Ajoutez des pièces et de la vie à votre maison."/>
     
-    <Mod Id="nn_VB_HomeExpander" Name="NickNo's Home Extensions for the Remake" Version="1.0.1"
+    <Mod Id="nn_VB_HomeExpander" Name="NickNo's Home Extensions [For the Remake]" Version="1.0.1"
     Depends="rk_vin_Base"
     Msg="Le mod rk_vin_Base est requis avec ce mod."
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Ajoutez des pièces et de la vie à votre maison."/>
 
-    <!-- Raddeck's Mods (23) -->
+    <!-- Raddeck's Mods (24) -->
     <Mod Id="rk_Art_items_Shop" Name="Raddeck's Art Shop addon Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_Art_items_Shop-1.0.6.zip"
-    Description="Donne la possibilité d'acheter/échanger/vendre des objets d'art !"/>
+    Description="Donne la possibilité d'acheter/échanger/vendre des objets d'art!"/>
     
     <Mod Id="rk_BakeryShop" Name="Raddeck's Bakery Shop Module" Version="1.0.9" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_BakeryShop-1.0.9.zip"
-    Description="Ajoute des options pour acheter/manger des pâtisseries et du pain !"/>
+    Description="Ajoute des options pour acheter/manger des pâtisseries et du pain!"/>
     
     <Mod Id="rk_Bank_shop" Name="Raddeck's Bank Module" Version="1.0.6" 
     Path="Raddeck/rk_Bank_shop-1.0.6.zip"
@@ -67,8 +67,8 @@
     Path="Raddeck/rk_EroticShop-1.0.9.zip"
     Description="Ajoute des options pour acheter des produits érotiques tels que : gode, fleshlight,...!"/>
     
-    <Mod Id="rk_God_Mod" Name="Raddeck's God Mod Module" Version="1.0.6" 
-    Path="Raddeck/rk_God_Mod-1.0.6.zip"
+    <Mod Id="rk_God_Mod" Name="Raddeck's God Mod Module" Version="1.0.7" 
+    Path="Raddeck/rk_God_Mod-1.0.7.zip"
     Description="Trichez à l'intérieur de LifePlay !"/>
     
     <Mod Id="rk_Home_Inventories" Name="Raddeck's Home Inventories Mod" Version="1.0.9" 
@@ -114,6 +114,12 @@
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_MoreRides-1.0.8.zip"
     Description="Ajoute la possibilité d'acheter/vendre/échanger vos vélos, voitures et motos!"/>
+    
+    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbors Module" Version="1.0.8" 
+    Depends="rk_Home_Inventories"
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
+    Path="Raddeck/rk_My_Neighbors-1.0.8.zip"
+    Description="Ajoute de nouvelles histoires avec vos voisins!"/>
     
     <Mod Id="rk_Personal_Inventories" Name="Raddeck's Personal Inventories Mod" Version="1.0.9" 
     Path="Raddeck/rk_Personal_Inventories-1.0.9.zip"
@@ -196,7 +202,7 @@
     Path="RDL/rdl_timber-0.1.0.zip"
     Description="Rencontres dynamiques de type Tinder"/>
     
-    <!-- Vamos69's mods (1) -->
+    <!-- Vamos69's mods (2) -->
     <Mod Id="co_NPC_Relationship" Name="Vamos69's NPC Relationship Module" Version="1.0.3"
     Path="Vamos69/co_NPC_Relationship-1.0.3.zip"
     Description="Modifier les relations entre les NPCs en utilisant le menu PC. Créé par CaseyOmah edité par Vamos69"/>
@@ -205,7 +211,7 @@
     Path="Vamos69/v69_MoreEvents-1.0.0.zip"
     Description="Ajoute des évènements de plus à l'intérieur du jeu."/>
     
-    <!-- Mods from other -->
+    <!-- Mods from other (3) -->
     <Mod Id="rk_breaking_not_bad" Name="Raddeck's Random Breakups" Version="1.0.1"
     Path="Raddeck/rk_random_breakup-1.0.1.zip"
     Description="Ajoute des événements de rupture amoureuse."/>
