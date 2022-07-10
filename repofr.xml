@@ -161,10 +161,10 @@
     Path="Raddeck/rk_VeganShop-1.0.8.zip"
     Description="Ajoute des options pour acheter/manger des repas végétaliens!"/>
     
-    <Mod Id="rk_WeedShop" Name="Raddeck's Weed Shop Module" Version="1.0.6" 
+    <Mod Id="rk_WeedShop" Name="Raddeck's Weed Shop Module" Version="1.0.7" 
     Depends="rk_Personal_Inventories"
     Msg="Le mod rk_Personal_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_WeedShop-1.0.6.zip"
+    Path="Raddeck/rk_WeedShop-1.0.7.zip"
     Description="Vous pouvez acheter et fumer de l'herbe à différents endroits!"/>
     
     <!-- Grimm's Mods (3) -->
