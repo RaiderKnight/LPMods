@@ -26,7 +26,7 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Have more rooms and life in your home"/>
 
-    <!-- Raddeck's Mods (24) -->
+    <!-- Raddeck's Mods (25) -->
     <Mod Id="rk_Art_items_Shop" Name="Raddeck's Art Shop addon Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
@@ -120,6 +120,12 @@
     Msg="The rk_Home_Inventories is required with this mod."
     Path="Raddeck/rk_My_Neighbors-1.0.8.zip"
     Description="New stories with your neighbors!"/>
+    
+    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module" Version="1.0.3" 
+    Depends="rk_Home_Inventories"
+    Msg="The rk_Home_Inventories is required with this mod."
+    Path="Raddeck/rk_OnlineFoodShop-1.0.3.zip"
+    Description="Lets you buy food online - Focused on my mods!"/>
     
     <Mod Id="rk_Personal_Inventories" Name="Raddeck's Personal Inventories Mod" Version="1.0.9" 
     Path="Raddeck/rk_Personal_Inventories-1.0.9.zip"
