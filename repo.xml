@@ -155,10 +155,10 @@
     Path="Raddeck/rk_VapeShop-1.0.6.zip"
     Description="Add options to buy/smoke vape juices!"/>
     
-    <Mod Id="rk_VeganShop" Name="Raddeck's Vegan Shop Module" Version="1.0.8" 
+    <Mod Id="rk_VeganShop" Name="Raddeck's Vegan Shop Module" Version="1.0.9" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
-    Path="Raddeck/rk_VeganShop-1.0.8.zip"
+    Path="Raddeck/rk_VeganShop-1.0.9.zip"
     Description="Add options to buy/eat vegan meals!"/>
     
     <Mod Id="rk_WeedShop" Name="Raddeck's Weed Shop Module" Version="1.0.7" 
