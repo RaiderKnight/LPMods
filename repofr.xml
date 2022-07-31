@@ -67,7 +67,7 @@
     Path="Raddeck/rk_EroticShop-1.0.9.zip"
     Description="Ajoute des options pour acheter des produits érotiques tels que : gode, fleshlight,...!"/>
     
-    <Mod Id="rk_God_Mod" Name="Raddeck's God Mod Module" Version="1.0.7" 
+    <Mod Id="rk_God_Mod" Name="Raddeck's God Mod Module [Ready for Remake]" Version="1.0.7" 
     Path="Raddeck/rk_God_Mod-1.0.7.zip"
     Description="Trichez à l'intérieur de LifePlay !"/>
     
@@ -115,13 +115,13 @@
     Path="Raddeck/rk_MoreRides-1.0.8.zip"
     Description="Ajoute la possibilité d'acheter/vendre/échanger vos vélos, voitures et motos!"/>
     
-    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbors Module" Version="1.0.8" 
+    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbors Module [Ready for Remake]" Version="1.0.8" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_My_Neighbors-1.0.8.zip"
     Description="Ajoute de nouvelles histoires avec vos voisins!"/>
     
-    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module" Version="1.0.3" 
+    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module [Ready for Remake]" Version="1.0.3" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories is required with this mod."
     Path="Raddeck/rk_OnlineFoodShop-1.0.3.zip"
@@ -168,34 +168,34 @@
     Description="Vous pouvez acheter et fumer de l'herbe à différents endroits!"/>
     
     <!-- Grimm's Mods (3) -->
-    <Mod Id="grim_ReDress" Name="Grimm's Re-Dress" Version="1.0.1" 
+    <Mod Id="grim_ReDress" Name="Grimm's Re-Dress [Ready for Remake]" Version="1.0.1" 
     Path="Grimm/grim_ReDress-1.0.1.zip"
     Description="Un mod utilitaire qui vous permet de forcer les compagnons à changer de vêtements"/>
     
-    <Mod Id="grim_HomeAssignment" Name="Grimm's Home Assignment" Version="1.0.1" 
+    <Mod Id="grim_HomeAssignment" Name="Grimm's Home Assignment [Ready for Remake]" Version="1.0.1" 
     Path="Grimm/grim_HomeAssignment-1.0.1.zip"
     Description="Ajout d'une action 'Attribuer une maison' au menu PC qui vous permet d'attribuer des maisons aux NPCs."/>
     
-    <Mod Id="grim_Dresser" Name="Grimm's Dresser" Version="1.0.1" 
+    <Mod Id="grim_Dresser" Name="Grimm's Dresser [Ready for Remake]" Version="1.0.1" 
     Path="Grimm/grim_Dresser-1.0.1.zip"
     Description="Permet d'habiller les NPCs avec les vêtements de votre choix."/>
 
     <!-- Yarla's Mods (2) -->
-    <Mod Id="yarla_CharacterPack1" Name="Yarla's Character Pack"
+    <Mod Id="yarla_CharacterPack1" Name="Yarla's Character Pack [Ready for Remake]"
     Description="20 présélections de personnages masculins et féminins"
     Version="1.1" Path="Yarla/yarla_characterpack.zip"/>
 
-    <Mod Id="yarla_CharacterPack2" Name="Yarla's Character Pack 2" Version="1.0"
+    <Mod Id="yarla_CharacterPack2" Name="Yarla's Character Pack 2 [Ready for Remake]" Version="1.0"
     Path="Yarla/yarla_characterpack2.zip"
     Description="28 présélections de personnages masculins et féminins"/>
 
     <!-- n1ck's mods (1) -->
-    <Mod Id="n1ck_DazPresets" Name="n1ck's character presets" Version="1.0"
+    <Mod Id="n1ck_DazPresets" Name="n1ck's character presets [Ready for Remake]" Version="1.0"
     Path="n1ck/n1ck_DazPresets.zip"
     Description="13 personnages masculins et féminins et 44 présélections"/>
 
     <!-- Medievalover's mods (2) -->
-    <Mod Id="ml_Medievalover_Presets" Name="Medievalover Presets Collection" Version="0.3"
+    <Mod Id="ml_Medievalover_Presets" Name="Medievalover Presets Collection [Ready for Remake]" Version="0.3"
     Path="Medievalover/ml_Medievalover_Presets-0.3.zip"
     Description="Ma collection de présélections de personnages pour LifePlay."/>
     
