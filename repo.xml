@@ -121,10 +121,10 @@
     Path="Raddeck/rk_My_Neighbors-1.0.8.zip"
     Description="New stories with your neighbors!"/>
     
-    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module [Ready for Remake]" Version="1.0.3" 
+    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module [Ready for Remake]" Version="1.0.4" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories is required with this mod."
-    Path="Raddeck/rk_OnlineFoodShop-1.0.3.zip"
+    Path="Raddeck/rk_OnlineFoodShop-1.0.4.zip"
     Description="Lets you buy food online - Focused on my mods!"/>
     
     <Mod Id="rk_Personal_Inventories" Name="Raddeck's Personal Inventories Mod" Version="1.0.9" 
