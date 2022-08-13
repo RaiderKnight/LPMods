@@ -26,7 +26,7 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Ajoutez des pièces et de la vie à votre maison."/>
 
-    <!-- Raddeck's Mods (25) -->
+    <!-- Raddeck's Mods (26) -->
     <Mod Id="rk_Art_items_Shop" Name="Raddeck's Art Shop addon Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
@@ -141,13 +141,19 @@
     Depends="rk_Home_Inventories"
     Msg="Les modules rk_Home_Inventories et rk_Personal_Inventories sont requis avec ce mod. Ce mod contient tous mes mods de mini-boutique."
     Path="Raddeck/rk_ShopAddons-1.0.8.zip"
-    Description="Ajoute plus d'options aux magasins pour acheter des articles et quelques extras!"/>
+    Description="Ajoute plus d'options aux magasins pour acheter des articles et quelques extras! Comtient toutes les mini-boutiques."/>
     
     <Mod Id="rk_SeaFoodShop" Name="Raddeck's Seafood Shop Module" Version="1.0.7" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
     Path="Raddeck/rk_SeaFoodShop-1.0.7.zip"
     Description="Ajoute des options pour acheter/manger des fruits de mer!"/>
+    
+    <Mod Id="rk_Sex_Guru" Name="Raddeck's Sex Guru Module [Ready for Remake]" Version="1.0.4" 
+    Depends="rk_Home_Inventories"
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
+    Path="Raddeck/rk_Sex_Guru-1.0.4.zip"
+    Description="Créez votre propre communauté religieuse!"/>
     
     <Mod Id="rk_VapeShop" Name="Raddeck's Vape Shop Module" Version="1.0.6" 
     Depends="rk_Personal_Inventories"

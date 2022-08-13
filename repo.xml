@@ -26,7 +26,7 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Have more rooms and life in your home"/>
 
-    <!-- Raddeck's Mods (25) -->
+    <!-- Raddeck's Mods (26) -->
     <Mod Id="rk_Art_items_Shop" Name="Raddeck's Art Shop addon Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
@@ -142,6 +142,12 @@
     Msg="The rk_Home_Inventories mod is required with this mod."
     Path="Raddeck/rk_SeaFoodShop-1.0.7.zip"
     Description="Add options to buy/eat seafoods!"/>
+    
+    <Mod Id="rk_Sex_Guru" Name="Raddeck's Sex Guru Module [Ready for Remake]" Version="1.0.4" 
+    Depends="rk_Home_Inventories"
+    Msg="Le mod rk_Home_Inventories est requis avec ce mod."
+    Path="Raddeck/rk_Sex_Guru-1.0.4.zip"
+    Description="Start your own religious community!"/>
     
     <Mod Id="rk_ShopAddons" Name="Raddeck's Shop Add-On Module" Version="1.0.8" 
     Depends="rk_Home_Inventories"
