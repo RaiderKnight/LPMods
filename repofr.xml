@@ -149,10 +149,10 @@
     Path="Raddeck/rk_SeaFoodShop-1.0.7.zip"
     Description="Ajoute des options pour acheter/manger des fruits de mer!"/>
     
-    <Mod Id="rk_Sex_Guru" Name="Raddeck's Sex Guru Module [Ready for Remake]" Version="1.0.4" 
+    <Mod Id="rk_Sex_Guru" Name="Raddeck's Sex Guru Module [Ready for Remake]" Version="1.0.5" 
     Depends="rk_Home_Inventories"
     Msg="Le mod rk_Home_Inventories est requis avec ce mod."
-    Path="Raddeck/rk_Sex_Guru-1.0.4.zip"
+    Path="Raddeck/rk_Sex_Guru-1.0.5.zip"
     Description="Créez votre propre communauté religieuse!"/>
     
     <Mod Id="rk_VapeShop" Name="Raddeck's Vape Shop Module" Version="1.0.6" 
