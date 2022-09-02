@@ -26,7 +26,7 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Have more rooms and life in your home"/>
 
-    <!-- Raddeck's Mods (26) -->
+    <!-- Raddeck's Mods (27) -->
     <Mod Id="rk_Art_items_Shop" Name="Raddeck's Art Shop addon Module" Version="1.0.6" 
     Depends="rk_Home_Inventories"
     Msg="The rk_Home_Inventories mod is required with this mod."
@@ -66,6 +66,10 @@
     Msg="The rk_Home_Inventories mod is required with this mod."
     Path="Raddeck/rk_EroticShop-1.0.9.zip"
     Description="Add options to buy erotic products such as: dildo, fleshlight,...!"/>
+    
+    <Mod Id="rk_Exclusive_Swinger_Club" Name="Raddeck's Exclusive Swinger Club Module" Version="1.0.0" 
+    Path="Raddeck/rk_Exclusive_Swinger_Club-1.0.0.zip"
+    Description="Take a membership to an exclusive swingers club related to your ethnicity"/>
     
     <Mod Id="rk_God_Mod" Name="Raddeck's God Mod Module [Ready for Remake]" Version="1.0.7" 
     Path="Raddeck/rk_God_Mod-1.0.7.zip"
