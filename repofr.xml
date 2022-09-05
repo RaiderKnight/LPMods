@@ -227,17 +227,21 @@
     Path="Vamos69/v69_MoreEvents-1.0.0.zip"
     Description="Ajoute des évènements de plus à l'intérieur du jeu."/>
     
-    <!-- Mods from other (3) -->
-    <Mod Id="rk_breaking_not_bad" Name="Raddeck's Random Breakups" Version="1.0.1"
+    <!-- Mods from other (4) -->
+    <Mod Id="rk_breaking_not_bad" Name="Raddeck's Random Breakups Module" Version="1.0.1"
     Path="Raddeck/rk_random_breakup-1.0.1.zip"
     Description="Ajoute des événements de rupture amoureuse."/>
     
-    <Mod Id="rk_additional_activities" Name="Raddeck's Additional activities" Version="1.0.1"
+    <Mod Id="rk_additional_activities" Name="Raddeck's Additional activities Module" Version="1.0.1"
     Path="Raddeck/rk_additional_activities-1.0.1.zip"
     Description="Ajoute des scènes supplémentaires pendant certains types d'activités"/>
     
-    <Mod Id="rk_WeightAndFitness" Name="Raddeck's Body Weight et Fitness" Version="1.0.1"
+    <Mod Id="rk_WeightAndFitness" Name="SB-Raddeck's Body Weight et Fitness Module" Version="1.0.1"
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip"
     Description="Ajout d'une prise et d'une perte de poids pour les joueurs et les NPCs."/>
+    
+    <Mod Id="sbrk_BeautyExpansion" Name="SB-Raddeck's Beauty Expansion Module [Ready for Remake]" Version="1.4"
+    Path="Raddeck/sbrk_BeautyExpansion-1.4.zip"
+    Description="Refonte du mod Beauty Expansion. Ajoute des traitements de beauté pour votre compagnon"/>
     
 </Repo>
