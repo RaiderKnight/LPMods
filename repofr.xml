@@ -211,8 +211,8 @@
     Description="13 personnages masculins et féminins et 44 présélections"/>
 
     <!-- Medievalover's mods (2) -->
-    <Mod Id="ml_Medievalover_Presets" Name="Medievalover Presets Collection [Ready for Remake]" Version="0.3"
-    Path="Medievalover/ml_Medievalover_Presets-0.3.zip"
+    <Mod Id="ml_Medievalover_Presets" Name="Medievalover Presets Collection [Ready for Remake]" Version="0.31"
+    Path="Medievalover/ml_Medievalover_Presets-0.31.zip"
     Description="Ma collection de présélections de personnages pour LifePlay."/>
     
     <Mod Id="mlv_Project_EVA_Android_Sex_Doll" Name="Medievalover Poject EVA - Android Sex Doll" Version="0.15"
