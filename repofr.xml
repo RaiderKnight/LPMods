@@ -1,18 +1,18 @@
 <Repo>
-    <!-- #Current LifePlay Version: 5.9 -->
+    <!-- #Current LifePlay Version: 5.10 -->
     <!-- #Current Launcher Version: 1.4.9 -->
 
     <!-- NickNo's Mods (5) -->
-    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire" Version="0.7.1"
+    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire [Ready for Remake]" Version="0.7.1"
     Path="NickNo/nn_PornEmpire-0.7.1.zip"
     Description="Dirigez votre propre société pornographique dans LifePlay."
     Msg="Merci d'avoir installé PornEmpire! Si vous trouvez des bugs, veuillez les signaler sur F95 ou Discord. Merci. - NickNo"/>
 
-    <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager" Version="1.6"
+    <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager [Ready for Remake]" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
     Description="Gérez les NPCs, les parents, les relations, etc. A utiliser avec précaution!"/>
 
-    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin" Version="0.2 Beta"
+    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2 Beta"
     Path="NickNo/nn_GangsOfLifePlay-0.2.zip"
     Description="Vous êtes le patron. Le patron du crime!"/>
     
@@ -210,11 +210,7 @@
     Path="n1ck/n1ck_DazPresets.zip"
     Description="13 personnages masculins et féminins et 44 présélections"/>
 
-    <!-- Medievalover's mods (2) -->
-    <Mod Id="ml_Medievalover_Presets" Name="Medievalover Presets Collection [Ready for Remake]" Version="0.31"
-    Path="Medievalover/ml_Medievalover_Presets-0.31.zip"
-    Description="Ma collection de présélections de personnages pour LifePlay."/>
-    
+    <!-- Medievalover's mods (1) -->
     <Mod Id="mlv_Project_EVA_Android_Sex_Doll" Name="Medievalover Poject EVA - Android Sex Doll" Version="0.15"
     Path="Medievalover/mlv_Project_EVA_Android_Sex_Doll-0.15.zip"
     Description="Devenez une poupée sexuelle androïde en rejoignant les industries Lust-Corp, des personnages et lieux personnalisés, nouvelles stats, nouveaux consommables et bien plus encore."/>

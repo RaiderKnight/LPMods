@@ -1,18 +1,18 @@
 <Repo>
-    <!-- #Current LifePlay Version: 5.9 -->
+    <!-- #Current LifePlay Version: 5.10 -->
     <!-- #Current Launcher Version: 1.4.9 -->
 
     <!-- NickNo's Mods (5) -->
-    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire" Version="0.7.1"
+    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire [Ready for Remake]" Version="0.7.1"
     Path="NickNo/nn_PornEmpire-0.7.1.zip"
     Description="Run your own porn company in LifePlay."
     Msg="Thanks for installing PornEmpire! If you find any bugs, please report on F95 or Discord. Thanks. - NickNo"/>
 
-    <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager" Version="1.6"
+    <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager [Ready for Remake]" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
     Description="Manage NPCs, Relatives, Relationships etc. Use with care!"/>
 
-    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin" Version="0.2 Beta"
+    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2 Beta"
     Path="NickNo/nn_GangsOfLifePlay-0.2.zip"
     Description="You are the boss. The crime boss!"/>
     
@@ -205,11 +205,7 @@
     Path="Yarla/yarla_characterpack2.zip"
     Description="28 male and female character presets"/>
 
-    <!-- Medievalover's mods (2) -->
-    <Mod Id="ml_Medievalover_Presets" Name="Medievalover Presets Collection [Ready for Remake]" Version="0.31"
-    Path="Medievalover/ml_Medievalover_Presets-0.31.zip"
-    Description="My collection of character presets for LifePlay."/>
-    
+    <!-- Medievalover's mods (1) -->
     <Mod Id="mlv_Project_EVA_Android_Sex_Doll" Name="Medievalover Poject EVA - Android Sex Doll" Version="0.15"
     Path="Medievalover/mlv_Project_EVA_Android_Sex_Doll-0.15.zip"
     Description="Become an android sex dolls by joining the Lust-Corp Industries, immersive sex scenes, custom characters, custom locations, new stats, new consumables and much more."/>
