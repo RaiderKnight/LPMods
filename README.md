@@ -1,4 +1,4 @@
-# LPMods
+# LPMods - ABANDONED
 <p>This is the mod repository for: https://github.com/RaiderKnight/RKModManager</p>
 <br>
 <p>Only the best mods for LifePlay and those that are compatible with the Remake are added to this repo.</p>
