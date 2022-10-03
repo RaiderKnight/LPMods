@@ -1,0 +1,89 @@
+// Information
+INFO Is_Male: 100% true
+INFO Interested_In_Men: 100% false
+INFO Interested_In_Women: 100% false
+INFO Interested_In_Transgender: 100% false
+INFO First_Name: 100% Bob
+INFO Last_Name: 100% Woods
+INFO Race: 100% Daz
+INFO Genital: 100% Penis
+
+// Morphs
+MORPH Genesis8Female__Nose Style Nordic: 100% 0.538325
+MORPH Genesis8Female__Nose Style Germanic: 100% 0.377889
+MORPH Genesis8Female__FBMHeavy: 100% 0.01865
+MORPH Genesis8Female__FBMBodySize: 100% 0.146898
+MORPH XY__Penis length: 100% -0.058716
+MORPH XY__Plums size: 100% -0.132746
+MORPH XY__Penis size: 100% -0.035456
+MORPH Landis__FBMHeavy: 100% 0.01865
+MORPH Landis__FBMBodySize: 100% 0.146898
+SCALE X: 100% 1.0
+SCALE Y: 100% 1.0
+SCALE Z: 100% 1.0
+
+//Hair
+HAIR Hairstyle: 100% Landis
+HAIR Hair_Thickness: 100% 1.573675
+HAIR Hair_Color_R: 100% 0.07
+HAIR Hair_Color_G: 100% 0.001
+HAIR Hair_Color_B: 100% 0.0
+HAIR Hair_Color_A: 100% 0.85
+
+HAIR Brow_Color_R: 100% 0.0
+HAIR Brow_Color_G: 100% 0.0
+HAIR Brow_Color_B: 100% 0.0
+HAIR Brow_Color_A: 100% 1.0
+
+// Skin
+SKIN Eye_Color_R: 100% 0.0
+SKIN Eye_Color_G: 100% 0.0
+SKIN Eye_Color_B: 100% 0.0
+SKIN Eye_Color_A: 100% 1.0
+SKIN Skin_Color_R: 100% 0.83
+SKIN Skin_Color_G: 100% 0.62
+SKIN Skin_Color_B: 100% 0.53
+SKIN Skin_Color_A: 100% 1.0
+SKIN BHairColor_R: 100% 0.026
+SKIN BHairColor_G: 100% 0.009
+SKIN BHairColor_B: 100% 0.0
+SKIN BHairColor_A: 100% 0.85
+SKIN Skin_Roughness: 100% 0.0
+SKIN Skin_Oil: 100% 0.25
+SKIN Skin_Fresnel: 100% 0.0
+SKIN Skin_Age: 100% 0.0
+SKIN Skin_Sagging: 100% 0.0
+SKIN Muscle_Tone: 100% 0.0
+SKIN BHairThickness: 100% 0.933714
+SKIN BHairstyle: 100% JPBH78-TorsoNG-04
+SKIN FHairstyle: 100% Facial_Hair__6_
+
+// Stats
+STAT modelfame: 100% 4465162715136.0
+STAT instaglamfollowers: 100% 8385875935232.0
+STAT prostitutechildfather: 100% 7677846487040.0
+STAT prostitutechildren: 100% 1928159428608.0
+STAT prostitutefame: 100% 1932431982592.0
+STAT totalcustomers: 100% 1244544761856.0
+STAT totalincome: 100% 7554856910848.0
+STAT totalmovies: 100% 4220404629504.0
+STAT pornfame: 100% 13.000004
+STAT stock_sexyphoto: 100% 0.0
+STAT stock_sexyvideo: 100% 0.0
+STAT age: 100% 33.0
+STAT attractiveness: 100% 41.999992
+STAT cooking: 100% 97.225868
+STAT dance: 100% 34.049503
+STAT fitness: 100% 31.487778
+STAT intelligence: 100% 72.228157
+STAT interpersonal: 100% 70.497757
+STAT martial: 100% 5.29191
+STAT masochist: 100% -35.999966
+STAT muscle: 100% 34.227119
+STAT music: 100% 40.751366
+STAT perversion: 100% 52.0
+STAT sneak: 100% 48.390152
+STAT attractiontoplayer: 100% -100.0
+STAT rapportwithplayer: 100% 100.0
+STAT arousal: 100% 59.404583
+STAT intoxication: 100% 16.782129

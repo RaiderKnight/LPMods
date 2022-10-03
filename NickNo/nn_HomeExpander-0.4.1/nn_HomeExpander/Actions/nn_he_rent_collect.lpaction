@@ -1,0 +1,12 @@
+ACTION_UNIQUEID: nn_he_rent_collect
+ACTION_NAME: Collect rental fee (HE)
+WHERE: home
+WHEN: 6 - 22
+MINUTES: 
+TIMEOUT_MINUTES: 
+ALSO_TIMEOUT: 
+EFFECTS: 
+CONDITIONS:
+MOVE_FIRST: false
+SCENE_ALWAYS: nn_he_rent_collect
+ANIMATION: 

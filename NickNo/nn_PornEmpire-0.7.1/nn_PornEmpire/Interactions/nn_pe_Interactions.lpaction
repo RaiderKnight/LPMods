@@ -1,0 +1,13 @@
+ACTION_UNIQUEID: nn_pe_Interactions
+ACTION_NAME: Talk about lewd things (PE)
+WHERE: interaction
+WHEN: 0 - 24
+MINUTES:
+TIMEOUT_MINUTES: 0
+ALSO_TIMEOUT: 
+EFFECTS:
+CONDITIONS:
+MOVE_FIRST: false
+SCENE_ALWAYS: nn_pe_interactions
+ANIMATION:
+WHO: Actor = getTarget(); If !Actor.isCreature() && WHERE != home && WHERE != PC

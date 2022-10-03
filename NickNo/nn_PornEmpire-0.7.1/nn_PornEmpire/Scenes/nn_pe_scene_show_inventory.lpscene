@@ -1,0 +1,69 @@
+WHAT: none
+WHERE: none
+WHEN: 0 - 24
+WHO: none
+OTHER: none
+
+    SceneStart()
+    
+    debugModeEnabled = Player.getActorVar(pe_DebugModeEnabled)
+    
+    // Go to the office if any
+    officeSize = Player.getActorVar(pe_PlayerOfficeLocationSize)
+    If officeSize > 0
+        moveTo(Home)
+        setBackground3D(Modules/nn_PornEmpire/Rooms/nn_pe_office_1.lpworld)
+    EndIf
+    
+    sumAmateur = Player.getActorVar(pe_AmateurShootingsInStock)
+    sumGay = Player.getActorVar(pe_GayShootingsInStock)
+    sumLesbian = Player.getActorVar(pe_LesbianShootingsInStock)
+    sumSolo = Player.getActorVar(pe_SoloShootingsInStock)
+    sumGangBang = Player.getActorVar(pe_GangBangShootingsInStock)
+    sumRevGangBang = Player.getActorVar(pe_RevGangBangShootingsInStock)
+    sumThreesome = Player.getActorVar(pe_ThreesomeShootingsInStock)
+    
+    sumModels = 0
+    sumVideos = 0
+    
+    MainActor = getPerson(tag_PEModel)  // iterate over all models
+    While MainActor.isValid()
+        hasDoneShootings = MainActor.getActorVar(pe_HasDoneShootings)
+        
+        If hasDoneShootings > 0
+            sumModels += 1
+            
+            cntSets = MainActor.getActorVar(pe_VideoCount)                  // number of videos of this MainActor
+            cntPendingSets = MainActor.getActorVar(pe_VideoCountPending)           // pending video uploads
+            sumVideos += [ cntSets+cntPendingSets ]
+            
+            If debugModeEnabled > 0
+                asv = actorShootVal*100
+                "DEBUG: <MainActor.Name>: cntSets=<cntSets> cntPendingSets=<cntPendingSets> sumVideos=<sumVideos>"
+            EndIf
+        EndIf
+        
+        MainActor = getPerson(tag_PEModel)
+    EndWhile
+    
+    sumCamModels = 0
+    MainActor = getPerson(tag_PEWebCam)  // iterate over all cam models
+    While MainActor.isValid()
+        camState = MainActor.getActorVar(pe_DeclinedDoingWebCam)    // 99 = agreed to do camming
+        
+        If camState == 99
+            sumCamModels += 1
+        EndIf
+        
+        MainActor = getPerson(tag_PEWebCam)
+    EndWhile
+    
+    0:: "We have <sumModels> models, <sumCamModels> cam models and a total of <sumVideos> videos."
+    0:: "This includes <sumAmateur> amateur videos and <sumSolo> solo videos."
+    0:: "As well as <sumLesbian> lesbian, <sumGay> gay and <sumThreesome> threesome videos."
+    0:: "Also <sumGangBang> gang bang and <sumRevGangBang> reverse gang bang videos."
+    0:: "Click to continue..."
+    
+    followUp(nn_pe_scene_manage_business)
+    
+    SceneEnd()

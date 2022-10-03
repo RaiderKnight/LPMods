@@ -1,0 +1,73 @@
+WHAT: none
+WHERE: none
+WHEN: 0 - 24
+WHO: none
+OTHER: none
+
+    SceneStart()
+    //setBackground(street)
+    
+    // Check LifePlay version...
+    If version_main < 3 // && version_sub < 18
+        "Ohhh sorry... This mod requires LifePlay 3.0 or newer to function properly."
+    Else
+    
+        price = 5000
+        priceLocal = price.convertToLocalCurrency(true)
+        "Should I start to work professionally in the porn industry and open my own porn business?"
+        0:: money>price::"Yes (<priceLocal>)"
+        1:: "No"
+        
+        If 0
+            // generate the person now, because it takes some time and the player likely will 
+            // click around and skip some important text if we load the actor below...
+            AgencyBoss = generatePersonTemporary(nn_pe_AgencyBoss)
+            dressFormal()
+            AgencyBoss.dress()
+            dressFormal()
+            AgencyBoss.show(3)
+            AgencyBoss.hide()
+            
+            Player(Excited)::"Why not? This is a porn game and I got nothing else to do right now..."
+            Player(Excited)::"'<Player.Name>'s Porn Empire' sounds like the perfect business title!"
+            
+            Player:nnOpenedPornEmpire => 1
+            
+            // Set the next possible reporting date to today
+            daysSinceBirth = (Player:Age * 365)
+            Player.setActorVar(pe_LastBusinessCheck, daysSinceBirth)
+            
+            money -= price
+            
+            Player(Serene):: "Will this be my main job from now on?"
+            0:: "No, I will do my regular job as well"
+            1:: "Yes, no other job needed"
+            
+            If 1
+                salary = 1  // setting the salary to 1 will disable "need to find a job" nag screens
+                Player.setBoss()
+            EndIf
+            
+            AgencyBoss.show(1)
+            AgencyBoss(Happy)::"Howdy! My name is *Henk*. I am the proud owner of the world famous 'PornAgency'."
+            AgencyBoss.show(2)
+            AgencyBoss(Happy)::"I have some very superb models available for you. Real pros and amateurs as well. Check my catalogue before doing any shootings!"
+            AgencyBoss.show(3)
+            AgencyBoss(Happy)::"My agency also offers model head hunting services. - So if you need to find a certain model: I'm your man."
+            AgencyBoss.show(4)
+            AgencyBoss(Wink)::"By the way: Thanks for playing PornEmpire! If you happen to be stuck somewhere in the game, try reading the 'readme.txt' file."
+            AgencyBoss.show(2)
+            AgencyBoss(Serene)::"All right buddy. Now get your business up and running. See you later!"
+            AgencyBoss.hide()
+            
+            Player(Serene):: "Ehh, 'Henk', what a crazy guy... Think I will remember him. Probably..."
+            Player(Serene):: "Now I should set up a web site and find someone to do a first shooting with."
+            
+            // Add stock agency models to the game
+            followUp(nn_pe_scene_add_pornagency_models)
+        Else
+            "Not at the moment. Maybe later, when I got the balls to do so."
+        EndIf
+    EndIf
+    
+    SceneEnd()

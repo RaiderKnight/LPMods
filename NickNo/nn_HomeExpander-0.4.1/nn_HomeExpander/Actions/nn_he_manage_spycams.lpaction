@@ -1,0 +1,12 @@
+ACTION_UNIQUEID: nn_he_manage_spycams
+ACTION_NAME: Manage spy cams (HE)
+WHERE: home
+WHEN: 
+MINUTES: 
+TIMEOUT_MINUTES: 
+ALSO_TIMEOUT: 
+EFFECTS: 
+CONDITIONS: 
+MOVE_FIRST: false
+SCENE_ALWAYS: nn_he_manage_spycams
+ANIMATION: 

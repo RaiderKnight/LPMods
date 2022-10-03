@@ -1,0 +1,18 @@
+// Morphs
+MORPH Genesis8Female__RFMC_Face Slim: 100% 0=>0.5
+MORPH Genesis8Female__RFMC_Face Skinny: 100% 0=>0.5
+MORPH Genesis8Female__FBMEmaciated: 100% 0=>0.3
+MORPH Genesis8Female__FBMThin: 100% 0.0=>0.2
+MORPH Genesis8Female__FBMHeavy: 100% 0.0=>0.15
+MORPH Genesis8Female__FBMBodySize: 100% 0=>0.3
+MORPH Genesis8Female__FBMPearFigure: 100% 0=>0.3
+MORPH Genesis8Female__FBMVoluptuous: 100% 0=>0.2
+
+MORPH SavageBraid_38588__RFMC_Face Slim: 100% 0=>0.5
+MORPH SavageBraid_38588__RFMC_Face Skinny: 100% 0=>0.5
+MORPH SavageBraid_38588__FBMEmaciated: 100% 0=>0.3
+MORPH SavageBraid_38588__FBMThin: 100% 0.0=>0.3
+MORPH SavageBraid_38588__FBMHeavy: 100% 0.0=>0.15
+MORPH SavageBraid_38588__FBMBodySize: 100% 0=>0.3
+MORPH SavageBraid_38588__FBMPearFigure: 100% 0=>0.3
+MORPH SavageBraid_38588__FBMVoluptuous: 100% 0=>0.2

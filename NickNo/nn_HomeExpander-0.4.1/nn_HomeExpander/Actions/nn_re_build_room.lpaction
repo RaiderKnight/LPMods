@@ -1,0 +1,12 @@
+ACTION_UNIQUEID: nn_re_build_new_room
+ACTION_NAME: Build a new room (HE)
+WHERE: home
+WHEN: 7 - 16
+MINUTES: 
+TIMEOUT_MINUTES: 
+ALSO_TIMEOUT: 
+EFFECTS: 
+CONDITIONS: 
+MOVE_FIRST: false
+SCENE_ALWAYS: nn_re_build_new_room
+ANIMATION: 

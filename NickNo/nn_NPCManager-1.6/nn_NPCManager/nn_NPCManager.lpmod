@@ -1,0 +1,7 @@
+MODULE_UNIQUEID: nn_NPCManager
+MODULE_NAME: NickNo's NPC-Manager
+MODULE_AUTHOR: NickNo
+MODULE_LINK: https://github.com/NickNo-dev/LP-Mods
+MODULE_DESCRIPTION: Manage NPC-NPC or NPC-Player relationships
+MODULE_REQUIREMENTS: 
+MODULE_VERSION: 1.6

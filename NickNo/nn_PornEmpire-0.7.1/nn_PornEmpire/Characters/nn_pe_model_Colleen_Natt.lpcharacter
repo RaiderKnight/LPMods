@@ -1,0 +1,108 @@
+// Information
+INFO Is_Male: 100% false
+INFO Interested_In_Men: 100% true
+INFO Interested_In_Women: 100% true
+INFO Interested_In_Transgender: 100% false
+INFO First_Name: 100% Colleen
+INFO Last_Name: 100% Natt
+INFO Race: 100% Daz
+INFO Genital: 100% Vagina
+
+// Morphs
+MORPH Genesis8Female__CTRLFaceOlderHD: 100% 0.017923
+MORPH Genesis8Female__CTRLFitness: 100% 0.255278
+MORPH Genesis8Female__Olga Head: 100% 0.601907
+MORPH Genesis8Female__Nose Style Greek: 100% 0.759292
+MORPH Genesis8Female__Nose Style Asian B: 100% 0.957949
+MORPH Genesis8Female__Cynthia Head: 100% 0.099447
+MORPH Genesis8Female__PBMNipplesLarge: 100% 0.125858
+MORPH Genesis8Female__PBMGlutesSize: 100% 0.159734
+MORPH Genesis8Female__PBMBreastsShape08: 100% 0.846858
+MORPH Genesis8Female__PBMBreastsDownwardSlope: 100% 0.064089
+MORPH Genesis8Female__FBMThin: 100% 0.992419
+MORPH Genesis8FemaleEyelashes__Olga Head: 100% 0.601907
+MORPH Genesis8FemaleEyelashes__Cynthia Head: 100% 0.099447
+MORPH SWAM_26HR_73381__CTRLFaceOlderHD: 100% 0.017923
+MORPH SWAM_26HR_73381__SCLNeckLength: 100% 0.7
+MORPH SWAM_26HR_73381__CTRLFitness: 100% 0.255278
+MORPH SWAM_26HR_73381__PBMBreastsSize: 100% 0.382857
+MORPH SWAM_26HR_73381__FBMVoluptuous: 100% 0.686169
+MORPH SWAM_26HR_73381__FBMThin: 100% 0.992419
+SCALE X: 100% 1.0
+SCALE Y: 100% 1.0
+SCALE Z: 100% 1.0
+
+//Hair
+HAIR Hairstyle: 100% SWAM_26HR_73381
+HAIR Hair_Thickness: 100% 1.154936
+HAIR Hair_Color_R: 100% 0.7
+HAIR Hair_Color_G: 100% 0.6
+HAIR Hair_Color_B: 100% 0.4
+HAIR Hair_Color_A: 100% 0.85
+
+HAIR Brow_Color_R: 100% 0.0
+HAIR Brow_Color_G: 100% 0.0
+HAIR Brow_Color_B: 100% 0.0
+HAIR Brow_Color_A: 100% 1.0
+
+// Skin
+SKIN Eye_Color_R: 100% 0.08
+SKIN Eye_Color_G: 100% 0.02
+SKIN Eye_Color_B: 100% 0.0
+SKIN Eye_Color_A: 100% 0.8
+SKIN Face_Texture: 100% Audrey
+SKIN Skin_Color_R: 100% 0.5
+SKIN Skin_Color_G: 100% 0.22
+SKIN Skin_Color_B: 100% 0.12
+SKIN Skin_Color_A: 100% 1.0
+SKIN BHairColor_R: 100% 0.005
+SKIN BHairColor_G: 100% 0.001
+SKIN BHairColor_B: 100% 0.0
+SKIN BHairColor_A: 100% 0.85
+SKIN Skin_Roughness: 100% 0.664479
+SKIN Skin_Oil: 100% 0.25
+SKIN Skin_Fresnel: 100% 0.538316
+SKIN Skin_Age: 100% 0.017923
+SKIN Skin_Sagging: 100% 0.0
+SKIN Muscle_Tone: 100% 0.0
+SKIN BHairThickness: 100% 0.62711
+SKIN BHairstyle: 100% NoHair
+SKIN Tattoo_Arm: 100% arm_05
+SKIN Tattoo_Torso: 100% torso_08
+SKIN Tattoo_Leg: 100% NoHair
+
+// Stats
+STAT age: 100% 28.516373
+STAT attractiveness: 100% 86.0
+STAT cooking: 100% 24.808496
+STAT dance: 100% 65.126495
+STAT fitness: 100% 61.999989
+STAT intelligence: 100% 63.0
+STAT interpersonal: 100% 40.0
+STAT martial: 100% 3.534044
+STAT masochist: 100% 47.331161
+STAT muscle: 100% 80.495621
+STAT music: 100% 21.198156
+STAT perversion: 100% 36.828533
+STAT pornfame: 100% 79.342781
+STAT sneak: 100% 5.426191
+STAT attractiontoplayer: 100% 100.0
+STAT rapportwithplayer: 100% 100.0
+STAT likes_anal: 100% 82.162537
+STAT likes_boobjob: 100% 79.774765
+STAT likes_cowgirl: 100% -14.173409
+STAT likes_doggy: 100% -36.600845
+STAT likes_handjob: 100% -33.80291
+STAT likes_missionary: 100% -36.971954
+STAT likes_oral: 100% -38.510086
+STAT likes_public: 100% 65.428627
+STAT likes_rcowgirl: 100% -22.884609
+STAT likes_rough: 100% 7.106537
+STAT likes_sidefuck: 100% 35.339821
+STAT likes_toys: 100% -4.04126
+STAT likes_tribadism: 100% -21.629688
+STAT likes_vaginal: 100% 22.043518
+STAT prone_to_orgasm: 100% 39.020966
+STAT arousal: 100% 34.049
+STAT intoxication: 100% 0.13422
+STAT fertility_npc: 100% 2.949767

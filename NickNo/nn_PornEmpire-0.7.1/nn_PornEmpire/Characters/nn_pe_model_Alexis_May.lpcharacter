@@ -1,0 +1,79 @@
+// Information
+INFO Is_Male: 100% false
+INFO Interested_In_Men: 100% true
+INFO Interested_In_Women: 100% true
+INFO Interested_In_Transgender: 100% false
+INFO First_Name: 100% Alexis
+INFO Last_Name: 100% May
+INFO Race: 100% Daz
+INFO Genital: 100% Vagina
+
+// Morphs
+MORPH Genesis8Female__CTRLFaceOlderHD: 100% 0.005278
+MORPH Genesis8Female__CTRLFitness: 100% 0.460267
+MORPH Genesis8Female__Sabina Head: 100% 0.003089
+MORPH Genesis8Female__Rameesha Head: 100% 0.09414
+MORPH Genesis8Female__Nose Style Asian C: 100% 0.678072
+MORPH Genesis8Female__Faiza Head: 100% 0.001842
+MORPH Genesis8Female__Diane Head: 100% 0.692667
+MORPH Genesis8Female__FBMEmaciated: 100% 0.618487
+MORPH Genesis8Female__FBMBodybuilderDetails: 100% 0.308346
+MORPH Genesis8Female__PBMGlutesSize: 100% 0.517838
+MORPH Genesis8Female__PBMBreastsUnderCurve: 100% 0.927152
+MORPH Genesis8Female__PBMBreastsSmall: 100% 0.620958
+MORPH Genesis8Female__PBMBreastsSize: 100% 0.238983
+MORPH Genesis8Female__PBMBreastsShape07: 100% 0.052639
+MORPH Genesis8Female__PBMBreastsShape04: 100% 0.059921
+MORPH Genesis8Female__PBMBreastsPerkSide: 100% 0.387616
+MORPH Genesis8Female__PBMBreastsImplantsL: 100% 0.1
+MORPH Genesis8Female__PBMAreolaePerk: 100% 0.322408
+MORPH Genesis8Female__PBMAreolaeDiameter: 100% 0.397795
+MORPH Genesis8Female__PBMAreolaeDepth: 100% 0.303853
+MORPH Genesis8Female__FBMFitnessSize: 100% 0.549349
+MORPH Genesis8Female__FBMThin: 100% 0.729478
+MORPH Genesis8Female__FBMPearFigure: 100% 0.069917
+MORPH Genesis8Female__FBMBodybuilderSize: 100% 0.117577
+MORPH Genesis8FemaleEyelashes__Sabina Head: 100% 0.003089
+MORPH Genesis8FemaleEyelashes__Rameesha Head: 100% 0.09414
+MORPH Genesis8FemaleEyelashes__Faiza Head: 100% 0.001842
+MORPH Genesis8FemaleEyelashes__Diane Head: 100% 0.692667
+MORPH FaithHair__FBMBodybuilderSize: 100% 0.117577
+SCALE X: 100% 1.0
+SCALE Y: 100% 1.0
+SCALE Z: 100% 1.0
+
+//Hair
+HAIR Hairstyle: 100% FaithHair
+HAIR Hair_Thickness: 100% 1.209088
+HAIR Hair_Color_R: 100% 0.8
+HAIR Hair_Color_G: 100% 0.8
+HAIR Hair_Color_B: 100% 0.8
+HAIR Hair_Color_A: 100% 0.85
+
+HAIR Brow_Color_R: 100% 0.0
+HAIR Brow_Color_G: 100% 0.0
+HAIR Brow_Color_B: 100% 0.0
+HAIR Brow_Color_A: 100% 1.0
+
+// Skin
+SKIN Eye_Color_R: 100% 0.05
+SKIN Eye_Color_G: 100% 0.01
+SKIN Eye_Color_B: 100% 0.0
+SKIN Eye_Color_A: 100% 0.8
+SKIN Face_Texture: 100% Xia
+SKIN Skin_Color_R: 100% 0.73
+SKIN Skin_Color_G: 100% 0.48
+SKIN Skin_Color_B: 100% 0.33
+SKIN Skin_Color_A: 100% 1.0
+SKIN BHairColor_R: 100% 0.026
+SKIN BHairColor_G: 100% 0.009
+SKIN BHairColor_B: 100% 0.0
+SKIN BHairColor_A: 100% 0.85
+SKIN Skin_Roughness: 100% 0.747546
+SKIN Skin_Oil: 100% 0.25
+SKIN Skin_Fresnel: 100% 0.118227
+SKIN Skin_Age: 100% 0.005278
+SKIN Skin_Sagging: 100% 0.0
+SKIN Muscle_Tone: 100% 0.0
+SKIN BHairThickness: 100% 0.106861
+SKIN BHairstyle: 100% Pubes01

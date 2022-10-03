@@ -1,0 +1,12 @@
+ACTION_UNIQUEID: nn_organize_shooting
+ACTION_NAME: Organize a shooting (PE)
+WHERE: sexwork
+WHEN: 8 - 2
+MINUTES: 30 - 60
+TIMEOUT_MINUTES: 0
+ALSO_TIMEOUT: 
+EFFECTS: energy -10 (DURATION), mood -15 (INTERRUPTED)
+CONDITIONS: nnOpenedPornEmpire >= 1 (STAT_COMPARE), energy >= 15 (STAT_COMPARE)
+MOVE_FIRST: false
+SCENE_ALWAYS: nn_pe_scene_organize_shooting
+ANIMATION: 

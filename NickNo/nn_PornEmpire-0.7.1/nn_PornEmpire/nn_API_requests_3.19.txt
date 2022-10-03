@@ -1,0 +1,258 @@
+NN API Requests
+****************
+
+This is a list of API calls that would help making LP modding easier / better.      
+
+*******************************************************************************
+#22 
+
+setBackground3D(what, permanent, waitForComplete)
+setBackgroundCustom(bedroom)
+
+We need a way to permanently set a 3D background to the current location.
+As the 3D Background loading triggers some events when finished I need a way to wait for it to complete.
+Without this I won't have enough control over what the NPCs do (visibility, position, animation / clothing).
+
+If this is added we will also need a way to go back to the Default 3D background 
+or to explicitly adress the players bedroom.
+
+*******************************************************************************
+#3
+
+getWeekday() -> I need an API to get the current weekday (0-6)
+
+*******************************************************************************
+#5
+
+animate(sit) -> Missing
+
+I can now make an actor walk towards a sofa/chair etc. but I cannot make him sit down - what is that I would like to do.
+
+The intended behaviour is that the actor sits down on the sofa/chair next to him.
+
+(NN) Pls see problem #6 below! vv
+
+===> Vinfamy: Something for v3.19, time for v3.18 is tight. Not so much because of adding 'sit', 
+but because of the x,y,z and the loop to search for the furniture specified, then search 
+for appropriate sitting animations, etc
+
+*******************************************************************************
+#6
+
+animate(what, x,y,z) -> We need a way to tell the game engine to make a person move somewhere and then play a specic animation with the furniture found at the given position
+
+Atm a scene could look like this:
+
+actor.show(40,30,0) // move next to chair
+actor.animate(sit)
+-> When played this will effectively skip the movement triggered by the show command as the animation looks for its own place somewhere else.
+
+So the idea is to combine both:
+actor.animate(sit, 40,30,0)
+
+NN: Having a show command automatically play animations after the movement was done is not suitable (as it will take modders control to make the actor do something specific (or nothing).
+
+NN: Alternatively a scripted "actor.waitForMovementComplete()", that blocks scene execution until movement is done would be fine as well.
+
+===> Vinfamy: Something for v3.19, time for v3.18 is tight. Not so much because of adding 'sit', 
+but because of the x,y,z and the loop to search for the furniture specified, then search 
+for appropriate sitting animations, etc
+
+*******************************************************************************
+#8
+
+cameraLock() / cameraUnlock() -> Prevent camera movement
+
+I want to write scenes like 
+- peeking through a key hole 
+- watching something trough a security/spy camera
+- watching a movie
+- having a fixed cinematic szene
+
+For these scenes preventing the camera movement would increase immersion a lot.
+This must also fix the camera in possible sex() scenes.
+
+The camera can be unlocked in a SceneEnd() call.
+
+*******************************************************************************
+#9
+
+screenEffect(type) -> Have a screen filter to simulate certain scenes
+
+Having a screen effect / filter that simulates
+- a rounded vignette 
+- a security camera
+- a key hole
+
+Would greatly improve immersion for certain scenes.
+The vignette would be a good start.
+Like: https://www.publicdomainpictures.net/pictures/150000/velka/vignette-frame-2.jpg
+
+*******************************************************************************
+#10
+
+sexNotInteractive(bool) -> Automatically let the actors choose sex positions
+
+I want to have NPC only or NPC/NPC sex scenes that the Player cannot control.
+
+eg. on spy cams or when peeking through the keyhole.
+
+used like sexAtPoint() or filter() before the sex() call.
+
+*******************************************************************************
+#11
+
+SceneEnd() -> keep Background after a scene ends
+
+analog to setNoRedress and addToPersonHere we need a way to keep a previously set 3D Background 
+(eg. other room in the same building etc.)
+
+The currently suggested way (use no scenestart/end) works only very limited:
+- No user interaction
+- No followUp
+- If a random scene triggers while in the current scene game may lock up (Emergency text is working)
+
+
+*******************************************************************************
+#12
+
+sexAtPoint() -> sex() sometimes teleports to another position while in action
+seems to be caused by pending moves or something.
+See discord bug channel. https://discord.com/channels/487481384990933023/595383333689491467/792268705793835008
+
+===> Vinfamy: That's how it works for scenes where there's a change of the 3d background immediately before Sex() is called, the actors are only positioned (bed or point specified) once all the furniture finishes loading
+
+(NN): Nah the background was loaded. I have a break ("TEXT") between the calls.
+What I see is that the actors are still moving due to some random animations triggering after show().
+
+*******************************************************************************
+#14
+
+Could we get a WHEN: (or WHAT:) that triggers a scene when:
+- the user moves out of its current home (WHEN: looseHome)
+- the user changes its location (WHEN: changeLocation)
+- the user looses its job (WHEN: looseJob)
+- 24hrs passed/its midnight (WHEN: newDay) -> used for timed calculations like rent / salary etc.
+
+-> All scenes that have that WHEN sould be executed once the event happens.
+-> Most of the scenes won't have a UI (in my case): They will just set some internal stats for other scenes.
+
+
+*******************************************************************************
+#15
+
+ON HOLD - Add something like include(filename) to pull certain centralized code into a lpscene at the position of the statement. (Like a preprocessor include in C)
+>> May be solved by https://github.com/Rizean/lp-builder/issues/7 or https://github.com/Rizean/lp-builder/issues/8
+
+Example:
+
+File nn_pe_setBackground.lpinclude:
+
+If nn_pe_currentBackground == 1
+    setBackground3D(...)
+Else...
+
+EndIf
+
+File nn_pe_do_shooting.lpscene
+
+SceneStart()
+// Some code
+include(nn_PornEmpire\includes\nn_pe_setBackground.lpinclude)
+// Some more code
+SceneEnd()
+
+Remarks:
+
+(NN) I have many scenes that share like 10-40% code. Currently I have to duplicate it.
+folowUp() cannot be used as I would loose all variables / objects.
+
+*******************************************************************************
+#16
+
+How about giving the room editor some love with one of the next versions? 
+just hat a short chat with @Vima  and tried myself to edit the restaurant to look mor real life then disney world and we are both having a hard time with that current editor. especially if you have many items in a room.
+- Disable (or "hotkey") the "auto-select" feature that triggers just by clicking on something (usually you accidentally select the wrong item) 
+- Add a way to highlight the currently selected item in the scene (so you know which "ls_window_xyz" you are editing)
+- Instead of left/right arrows to navigate through the items display a list and sort this list alphabetically
+- Allow grouping items, and move them together
+- Allow copying of items / groups
+- Allow to add comments to an item / group like "left entrance door"
+- Having coordinates "snap" at a 0.25 or 0.1 increments might be handy
+
+And while editing some stuff I thought I could use:
+- a metal / glass / mirror texture that really reflects 
+- a "Light" source object (without a 3D Model!)
+
+===> Vinfamy: It's a whole update worth of work, not gonna happen to be honest until 
+at least June since it's just KOTM and the overhaul from now till the end of May.
+
+*******************************************************************************
+#17
+
+Allow the modder to take control of certain locations on a map. (=Buildings?)
+
+Eg: If the player goes into the locations "Yo Sushi" (ID=xyz) I want to trigger a scene from my mod.
+This scene will set its own 3D background (so the location will become unique).
+
+So we need:
+- A WHERE that accepts a location ID 
+    -> To specify that Actions/Scenes are only available there
+- A WHEN that accepts something like "ENTER_LOCATION"/"LEAVE_LOCATION"
+    -> To specify it shall trigger on "Go Here" and when leaving.
+- An easy way for a modder to get the current location ID
+- A function to control if the location shall be populated by # AI driven NPCs or not
+
+==> Vinfamy: too complex to do for now, something for the future
+
+*******************************************************************************
+#18
+
+As addon to the prev. request #17:
+
+Allow using own 3D models / materials for buildings in the new map view. 
+Thid way a mod can add / change a building to look different.
+
+*******************************************************************************
+#19
+
+playSound(file), playMusic(file, permanently), playMusic() -> Add API to play own sounds / background music
+
+Sound files (WAV, OGG, MP3?) will stay in the mods folder like character or room presets
+
+A sound is played once, music will loop. If "permanently" is true it will continue to play if the scene ends. (eg if followUp is used)
+
+Multiple sounds can be playing at once.
+
+To stop the music a call with no arument is required.
+
+@Vinfamy: If this is also affected by UE4s limitation to not being able to load assets at runtime it would still be cool to add some basic musics to the game and give the modder the control to play build in sounds and musics.
+
+(NN): I feel music - for example in a strip club or bar - really forms an atmosphere.
+
+==> Vinfamy: Let's wait if I succeed in making my own runtime import thing for v4.0
+
+*******************************************************************************
+#20
+
+LPACTIONs: 
+
+CONDITIONS: Player.getActorVar(xx)>=2 || GlobalVar.getGlobal()>=2
+Think we need a better condition check, so that you can have at least Player/Companion actor vars or global vars checked for certain values.
+Currently we need to use stats which is quite ugly.
+
+*******************************************************************************
+#21
+
+LPACTIONs: 
+
+HIDE_IF_CONDITION_NOT_MET: true/false  __or__
+VISIBLE_CONDITION: 
+
+Add a way to completely hide Actions from the menus. 
+
+
+*******************************************************************************
+Next #23
+
+EOF

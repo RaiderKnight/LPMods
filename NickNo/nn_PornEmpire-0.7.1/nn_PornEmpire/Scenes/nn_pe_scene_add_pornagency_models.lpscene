@@ -1,0 +1,208 @@
+WHAT: none
+WHERE: none
+WHEN: 0 - 24
+WHO: none
+OTHER: none
+
+    // This scene will install 20 female and 10 male PornAgency models
+    avail = Player.getActorVar(pe_StockModelsAvailable)
+    If avail == 0
+        Actor = generatePerson(nn_pe_model_Alexis_May)
+        If !Actor.isValid()
+            SceneStart()
+                "PANIC!! Cannot create PornAgency models!"
+            SceneEnd()
+        EndIf
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(75,100)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Colleen_Natt)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(75,100)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Courtney_Lex)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(75,100)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Danielle_Wind)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(75,100)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Diamond_Fox)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(75,100)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Diana_Wilde)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(75,100)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Emily_Wank)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(75,100)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Erica_Coon)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(75,100)
+        
+        Actor = generatePerson(nn_pe_model_Haily_Sue)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(75,100)
+        Actor:age => Random(18,35)
+        
+        // amateurs
+        Actor = generatePerson(nn_pe_model_Julia_Zan)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(5,20)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Kathleen_Anderson)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(5,20)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Lauren_Lee)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(5,20)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Megan_Joy)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(5,20)
+        Actor:age => Random(18,35)
+        
+        Actor = generatePerson(nn_pe_model_Syndney_Cooper)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(5,20)
+        Actor:age => Random(18,35)
+        
+        // Cousins
+        Actor = generatePerson(nn_pe_model_Jasmine_Tylor)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(55,90)
+        Actor:age => Random(18,35)
+        
+        Actor2 = generatePerson(nn_pe_model_Michelle_Fay)
+        Actor2.setActorVar(pe_IsAgencyModel, 1)
+        Actor2.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor2:pornfame => Random(55,90)
+        Actor2:age => Random(18,35)
+        addNpcRelationship(Cousins, Actor, Actor2)
+        
+        Actor = generatePerson(nn_pe_model_Nancy_Raynor)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:pornfame => Random(55,90)
+        Actor:age => Random(18,35)
+        
+        Actor2 = generatePerson(nn_pe_model_Nicole_Petty)
+        Actor2.setActorVar(pe_IsAgencyModel, 1)
+        Actor2.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor2:pornfame => Random(55,90)
+        Actor2:age => Random(18,35)
+        addNpcRelationship(Cousins, Actor, Actor2)
+        
+        // Sisters
+        Actor = generatePerson(nn_pe_model_Rebecca_Dee)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor2 = generatePerson(nn_pe_model_Sarah_Dee)
+        Actor2.setActorVar(pe_IsAgencyModel, 1)
+        Actor2.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor2:pornfame => Random(55,90)
+        Actor2:age => Random(18,35)
+        addNpcRelationship(Siblings, Actor, Actor2)
+        
+        Player.setActorVar(pe_StockModelsAvailable, 1)
+    EndIf
+    
+    // Males
+    avail = Player.getActorVar(pe_MaleStockModelsAvailable)
+    If avail == 0
+        Actor = generatePerson(nn_ModelM_Ace_Roam)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor = generatePerson(nn_ModelM_Andrew_Quest)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor = generatePerson(nn_ModelM_Bob_Woods)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor = generatePerson(nn_ModelM_Daniel_Collins)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor = generatePerson(nn_ModelM_David_Deep)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor = generatePerson(nn_ModelM_Jake_Linn)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor = generatePerson(nn_ModelM_Jhonny_Long)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor = generatePerson(nn_ModelM_Nathan_Sewer)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor = generatePerson(nn_ModelM_Noel_Slong)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Actor = generatePerson(nn_ModelM_Omar_Bounce)
+        Actor.setActorVar(pe_IsAgencyModel, 1)
+        Actor.setActorVar(pe_IsStockAgencyModel, 1)
+        Actor:age => Random(18,35)
+        Actor:pornfame => Random(55,90)
+        
+        Player.setActorVar(pe_MaleStockModelsAvailable, 1)
+    EndIf
+    

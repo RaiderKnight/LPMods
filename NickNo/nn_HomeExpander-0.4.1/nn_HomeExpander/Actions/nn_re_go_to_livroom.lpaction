@@ -1,0 +1,12 @@
+ACTION_UNIQUEID: nn_re_go_to_livroom
+ACTION_NAME: Go to the living room (HE)
+WHERE: home
+WHEN: 0 - 24
+MINUTES: 1 - 2
+TIMEOUT_MINUTES: 
+ALSO_TIMEOUT: 
+EFFECTS: energy -1 (DURATION)
+CONDITIONS: 
+MOVE_FIRST: false
+SCENE_ALWAYS: nn_re_go_to_livroom
+ANIMATION: 

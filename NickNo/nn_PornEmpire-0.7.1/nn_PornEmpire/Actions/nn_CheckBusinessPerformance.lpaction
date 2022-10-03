@@ -1,0 +1,12 @@
+ACTION_UNIQUEID: nn_pe_checkBusinessPerformance
+ACTION_NAME: Check business performance (PE)
+WHERE: sexwork
+WHEN: 0 - 24
+MINUTES: 5 - 20
+TIMEOUT_MINUTES: 0
+ALSO_TIMEOUT: 
+EFFECTS: energy -1 (DURATION), mood -5 (INTERRUPTED)
+CONDITIONS: nnOpenedPornEmpire >= 1 (STAT_COMPARE), energy >= 5 (STAT_COMPARE)
+MOVE_FIRST: false
+SCENE_ALWAYS: nn_pe_scene_business_report
+ANIMATION: 

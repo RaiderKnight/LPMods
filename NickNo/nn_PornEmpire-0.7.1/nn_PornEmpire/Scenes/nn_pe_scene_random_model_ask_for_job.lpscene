@@ -1,0 +1,127 @@
+WHAT: all
+WHERE: art, bag, bakery, bank, bar, beauty, beverages, bicycle, biergarten, books, butcher, cafe, car, chemist, cinema, clothes, coffee, community_centre, computer, confectionery, convenience, copyshop, cosmestics, deli, dentist, department_store, doctor, doityourself, electronics, fast_food, florist, furniture, garden_centre, gift, greengrocer, hairdresser, hospital, hotel, ice_cream, jewellery, laundry, library, marketplace, mobile_phone, motorcycle, musical_instrument, newsagent, nightclub, office, optician, outdoor, pet, pharmacy, photo, place_of_worship, police, post_office, prison, pub, residential, restaurant, seafood, shoes, sports, sports_centre, stationery, supermarket, tea, theatre, tobacco, toilets, toys, travel_agency, variety_store, veterinary, work
+WHEN: 6 - 24
+WHO: none
+OTHER: none
+
+    // This is a randomly triggered scene
+    // A randomly generated model asks for a casting
+    
+    candidate = nnPE_NextCastingCandidate.getGlobal()
+    
+    If Player:nnOpenedPornEmpire >= 1 && Player:pornfame >= Random(35,65) && candidate == 0
+        
+        sceneStart()
+        
+        // Generate a model
+        Actor = 0
+        
+        forceModelGender = Player.getActorVar(pe_ForceModelGender)
+        allowTransModels = Player.getActorVar(pe_AllowTransModels)
+        
+        modelFound = false
+        While !modelFound
+            Actor = generatePersonTemporary()
+            If forceModelGender == 1    // female
+                If !Actor.isMale()
+                    modelFound = true
+                    
+                    If Actor.isTrans() && allowTransModels < 1
+                        modelFound = false
+                    EndIf
+                EndIf
+            ElseIf forceModelGender == 2 // male
+                If Actor.isMale()
+                    modelFound = true
+                    
+                    // following is not necessary as isMale is only true if *not* trans
+                    // If Actor.isTrans() && allowTransModels < 1
+                    //    modelFound = false
+                    // EndIf
+                EndIf
+            Else
+                modelFound = true
+                
+                If Actor.isTrans() && allowTransModels < 1
+                    modelFound = false
+                EndIf
+            EndIf
+        EndWhile
+        
+        Actor.dress()
+        Actor.show(1)
+        Actor.moveToPersonStand(Player, 80)
+        
+        Random
+            Actor(Excited):: "Hello, my name is <Actor.Name> <Actor.name_last>. You are <Player.name> <Player.name_last>, the owner of PornEmpire right??"
+            Actor(Excited):: "Hey, I was looking for you! You are <Player.Name> <Player.name_last>, right? My name is <Actor.Name>."
+            Actor(Flirty):: "Wow! <Player.Name> <Player.name_last>! It's a pleasure to meet you. My name is <Actor.Name>."
+            Actor(Flirty):: "Excuse me. Are you <Player.Name> <Player.name_last>? Cool! I'm <Actor.Name> <Actor.name_last>."
+            Actor(Flirty):: "Oh wow! You must be <Player.Name> <Player.name_last>! Glad to meet you! I am <Actor.Name>!"
+        EndRandom
+        
+        Random
+            Player(Serene)::"Nice to meet you <Actor.Name>."
+            Player(Serene)::"<Actor.Name>, nice to meet you!"
+            Player(Serene)::"Pleasure meeting you, <Actor.Name>!"
+            Player(Serene)::"Yes, you just met <Player.name> <Player.name_last>. Today is your lucky day!"
+            Player(Serene)::"Hi <Actor.Name>! Just call me <Player.Name>, ok?"
+            Player(Serene)::"Hey <Actor.Name>. What can I do for you?"
+            Player(Serene)::"Hey cutie, whats up?"
+        EndRandom
+        
+        Random
+            Actor(Excited)::"I saw some of your videos lately and thought I'd like to be starred in one of them as well."
+            Actor(Excited)::"Great! Do you happen to look for new models?"
+            Actor(Excited)::"So, erm... How much money could I earn, if I participate in one of your videos?"
+            Actor(Excited)::"I was looking for a way to start my porn career. Can you help me?"
+            Actor(Excited)::""
+        EndRandom
+            
+        0:: "Invite <Actor.Name> to a private casting."
+        1:: "Decline the request."
+        
+        If 0
+            Random
+                Player(Serene)::"Listen <Actor.Name> I'd like to know more about you. Visit me for a casting at my office!"
+                Player(Serene)::"Well <Actor.Name>, I think we can do something together. Here is my address. Visit me for a casting asap."
+                Player(Serene)::"I think that might work out <Actor.Name>. Come visit me at my office some time later <Actor.Name>."
+                Player(Serene)::"Okay <Actor.Name> - We'll do a casting and see where this takes us. Here is the address."
+            EndRandom
+            
+            Random
+                Actor(Excited)::"Wow! Great! I'll be there tomorrow!"
+                Actor(Excited)::"Awesome, I'll show you how good I am!"
+                Actor(Excited)::"Yes! I'll visit you this week!"
+                Actor(Excited)::"Cool! I'll pass by by the end of the week."
+                Actor(Excited)::"Great! You don't mind if I bring one of my friends right?"
+            EndRandom
+            
+            Actor.makePermanent()
+            id = Actor.getId()
+            
+            nnPE_NextCastingCandidate.setGlobal(id)
+        Else
+            Random
+                Player()::"Listen <Actor.Name> currently I am not looking for new models. Just ask again in some weeks."
+                Player()::"Oh <Actor.Name>, honestly I don't know if you have what a porn star needs. Sorry."
+                Player()::"Well <Actor.Name>, I think you should try some other job. I'm not sure the porn biz is the right place for you."
+                Player()::"Sorry <Actor.Name> I'm not looking for new models at the moment."
+            EndRandom
+            
+            Random
+                Actor(Sad)::"What? Then I'll go find another porn producer."
+                Actor(Sad)::"Sure. Just say that I am too ugly for you. I'll find someone interested in me!"
+                Actor(Sad)::"Bah, you don't know what your audence is waiting for!"
+                Actor(Furious)::"You'll regret this one day. See you later. Looser!"
+                Actor(Furious)::"Seriously? You are rejecting me? Fuck you and your damn company! I'll get famous without you!"
+            EndRandom
+        EndIf
+        
+        Actor.hide()
+        
+        passTime(1, 2)
+        
+        sceneEnd()
+    EndIf
+    

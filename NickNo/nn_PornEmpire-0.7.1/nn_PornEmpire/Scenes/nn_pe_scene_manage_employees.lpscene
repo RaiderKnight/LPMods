@@ -1,0 +1,41 @@
+WHAT: none
+WHERE: none
+WHEN: 0 - 24
+WHO: none
+OTHER: none
+
+    SceneStart()
+    
+    debugModeEnabled = Player.getActorVar(pe_DebugModeEnabled)
+    
+    If Player.isNaked()
+        Player.dress()
+    EndIf
+    Player.show()
+    
+    // Go to the office if any
+    officeSize = Player.getActorVar(pe_PlayerOfficeLocationSize)
+    If officeSize > 0
+        moveTo(Home)
+        setBackground3D(Modules/nn_PornEmpire/Rooms/nn_pe_office_1.lpworld)
+    EndIf
+    
+    Player(Serene):: "Which employees do I want to manage?"
+    90:: "Models"
+    80:: "Web-Cam models"
+    2:: "Cam operator"
+    3:: "Scene assistant"
+    20:: "Web administrator"
+    99:: "All done"
+    // 1:: "Photographer"
+    
+    If 1 || 2 || 3 || 20
+        PEManageEmployeeJobType.setGlobal(choice)
+        followUp(nn_pe_scene_manage_employee)
+    ElseIf 80
+        followUp( nn_pe_scene_manage_web_cam_models )
+    ElseIf 90
+        followUp( nn_pe_scene_manage_models )
+    EndIf
+    
+    SceneEnd()

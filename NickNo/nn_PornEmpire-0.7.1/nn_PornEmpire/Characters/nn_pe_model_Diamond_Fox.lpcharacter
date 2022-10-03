@@ -1,0 +1,114 @@
+// Information
+INFO Is_Male: 100% false
+INFO Interested_In_Men: 100% true
+INFO Interested_In_Women: 100% true
+INFO Interested_In_Transgender: 100% false
+INFO First_Name: 100% Diamond
+INFO Last_Name: 100% Fox
+INFO Race: 100% Daz
+INFO Genital: 100% Vagina
+
+// Morphs
+MORPH Genesis8Female__CTRLFaceOlderHD: 100% 0.001657
+MORPH Genesis8Female__Nose Style Greek: 100% 0.339962
+MORPH Genesis8Female__Nose Style Asian B: 100% 0.637312
+MORPH Genesis8Female__Kumiko Head: 100% 0.732469
+MORPH Genesis8Female__Julia Head: 100% 0.099054
+MORPH Genesis8Female__Diane Head: 100% 0.743985
+MORPH Genesis8Female__FBMEmaciated: 100% 0.81681
+MORPH Genesis8Female__PBMNipplesSize: 100% 0.608936
+MORPH Genesis8Female__PBMGlutesSize: 100% 0.583818
+MORPH Genesis8Female__PBMBreastsUpwardSlope: 100% 0.461562
+MORPH Genesis8Female__PBMBreastsSmall: 100% 0.936716
+MORPH Genesis8Female__PBMBreastsImplantsR: 100% 0.35
+MORPH Genesis8Female__PBMBreastsImplantsL: 100% 0.35
+MORPH Genesis8Female__PBMAreolaeDepth: 100% 1.0
+MORPH Genesis8Female__FBMThin: 100% 0.386616
+MORPH Genesis8Female__FBMPearFigure: 100% 0.154319
+MORPH Genesis8FemaleEyelashes__Kumiko Head: 100% 0.732469
+MORPH Genesis8FemaleEyelashes__Julia Head: 100% 0.099054
+MORPH Genesis8FemaleEyelashes__Diane Head: 100% 0.743985
+MORPH SavageBraid_38588__SCLPropagatingHead: 100% 0.08
+MORPH SavageBraid_38588__CTRLFaceOlderHD: 100% 0.001657
+MORPH SavageBraid_38588__FBMEmaciated: 100% 0.81681
+MORPH SavageBraid_38588__PBMBreastsImplantsR: 100% 0.35
+MORPH SavageBraid_38588__FBMThin: 100% 0.386616
+MORPH SavageBraid_38588__FBMPearFigure: 100% 0.154319
+SCALE X: 100% 1.0
+SCALE Y: 100% 1.0
+SCALE Z: 100% 1.0
+
+//Hair
+HAIR Hairstyle: 100% SavageBraid_38588
+HAIR Hair_Thickness: 100% 1.328184
+HAIR Hair_Color_R: 100% 0.026
+HAIR Hair_Color_G: 100% 0.009
+HAIR Hair_Color_B: 100% 0.0
+HAIR Hair_Color_A: 100% 0.85
+
+HAIR Brow_Color_R: 100% 0.0
+HAIR Brow_Color_G: 100% 0.0
+HAIR Brow_Color_B: 100% 0.0
+HAIR Brow_Color_A: 100% 1.0
+
+// Skin
+SKIN Eye_Color_R: 100% 0.05
+SKIN Eye_Color_G: 100% 0.01
+SKIN Eye_Color_B: 100% 0.0
+SKIN Eye_Color_A: 100% 0.8
+SKIN Face_Texture: 100% Bellerose
+SKIN Skin_Color_R: 100% 0.63
+SKIN Skin_Color_G: 100% 0.38
+SKIN Skin_Color_B: 100% 0.23
+SKIN Skin_Color_A: 100% 1.0
+SKIN BHairColor_R: 100% 0.015
+SKIN BHairColor_G: 100% 0.003
+SKIN BHairColor_B: 100% 0.0
+SKIN BHairColor_A: 100% 0.85
+SKIN Skin_Roughness: 100% 0.596026
+SKIN Skin_Oil: 100% 0.25
+SKIN Skin_Fresnel: 100% 0.790857
+SKIN Skin_Age: 100% 0.001657
+SKIN Skin_Sagging: 100% 0.0
+SKIN Muscle_Tone: 100% 0.0
+SKIN BHairThickness: 100% 0.639256
+SKIN BHairstyle: 100% Pubes04
+SKIN Tattoo_Arm: 100% arm_24
+SKIN Tattoo_Torso: 100% torso_05
+SKIN Tattoo_Leg: 100% NoHair
+
+// Stats
+STAT age: 100% 19.436079
+STAT attractiveness: 100% 53.000023
+STAT cooking: 100% 72.301399
+STAT dance: 100% 92.486343
+STAT fitness: 100% 36.81448
+STAT intelligence: 100% 99.472031
+STAT interpersonal: 100% 43.675037
+STAT martial: 100% 7.263406
+STAT masochist: 100% 99.389618
+STAT muscle: 100% 7.348857
+STAT music: 100% 76.000244
+STAT perversion: 100% 54.000004
+STAT pornfame: 100% 51.000004
+STAT sneak: 100% 28.992584
+STAT attractiontoplayer: 100% 96.039909
+STAT rapportwithplayer: 100% -3.071923
+STAT likes_anal: 100% 82.162537
+STAT likes_boobjob: 100% 79.774765
+STAT likes_cowgirl: 100% -14.173409
+STAT likes_doggy: 100% -36.600845
+STAT likes_handjob: 100% -33.80291
+STAT likes_missionary: 100% -36.971954
+STAT likes_oral: 100% -38.510086
+STAT likes_public: 100% 65.428627
+STAT likes_rcowgirl: 100% -22.884609
+STAT likes_rough: 100% 7.106537
+STAT likes_sidefuck: 100% 35.339821
+STAT likes_toys: 100% -4.04126
+STAT likes_tribadism: 100% -21.629688
+STAT likes_vaginal: 100% 22.043518
+STAT prone_to_orgasm: 100% 39.020966
+STAT arousal: 100% 2.830637
+STAT intoxication: 100% 0.153227
+STAT fertility_npc: 100% 2.949767
