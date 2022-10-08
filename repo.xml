@@ -166,9 +166,9 @@
     Description="You can buy and smoke weed at different places!" 
     Msg="rk_Personal_Inventories needed"/>
 
-    <Mod Id="rk_WeightAndFitness" Name="Raddeck's Body Weight & Fitness Module" Version="1.0.1" 
+    <Mod Id="rk_WeightAndFitness" Name="Raddeck's Body Weight - Fitness Module" Version="1.0.1" 
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
-    Description="Adds weight gain and loss for player & NPCs"/>
+    Description="Adds weight gain and loss for player - NPCs"/>
 
     <Mod Id="sbrk_BeautyExpansion" Name="Raddeck's Beauty Expansion Module [Remake - OK]" Version="1.5" 
     Path="Raddeck/sbrk_BeautyExpansion-1.5.zip" 
