@@ -34,6 +34,15 @@
     Description="Add additional scenes during all type of activities."
     Path="tkwas/r8kie_additional_activities.zip"/>
     
+    <!-- Vamos69 (2) -->
+    <!--  <Mod Id="co_NPC_Relationship" Name="CaseyOmah's NPC Relationship Module" Version="1.0.3"
+    Description="Modify Relationships Between NPCs using PC menu - Edited by Vamos69"
+    Path="Vamos69/co_NPC_Relationship-1.0.3.zip"/> -->
+    
+    <!--  <Mod Id="v69_MoreEvents" Name="Vamos69's Better Breakups" Version="1.0.0"
+    Description="Add some events at work and other place inside the game."
+    Path="Vamos69/v69_MoreEvents-1.0.0.zip"/> -->
+    
     <!-- VinnyB's mods (1) -->
     <Mod Id="breaking_not_bad" Name="VinnyB's Better Breakups" Version="v2"
     Description="Adds and modifies some events so that NPC breakups happen with or without you."
