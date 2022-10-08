@@ -24,6 +24,40 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Add more rooms and life to your home."/>
     
+    <!-- Raddeck's Mods (32) -->
+    <Mod Id="rk_additional_activities" Name="Raddeck's Additional activities Module" Version="1.0.1" 
+    Path="Raddeck/rk_additional_activities-1.0.1.zip" 
+    Description="Add additional scenes during all type of activities"/>
+
+    <Mod Id="rk_Art_items_Shop" Name="Raddeck's Art Shop addon Module" Version="1.0.6" 
+    Path="Raddeck/rk_Art_items_Shop-1.0.6.zip" 
+    Description="Give the option to buy/trade/sell art items!" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_BakeryShop" Name="Raddeck's Bakery Shop Module" Version="1.0.9" 
+    Path="Raddeck/rk_BakeryShop-1.0.9.zip" 
+    Description="Add options to buy/eat pastry and bread !" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_Bank_shop" Name="Raddeck's Bank Module" Version="1.0.6" 
+    Path="Raddeck/rk_Bank_shop-1.0.6.zip" 
+    Description="Money deposit/withdrawn!"/>
+
+    <Mod Id="rk_CigarsShop" Name="Raddeck's Cigars Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_CigarsShop-1.0.6.zip" 
+    Description="Add options to buy/smoke cigars !" 
+    Msg="rk_Personal_Inventories needed"/>
+
+    <Mod Id="rk_Computer_Shop" Name="Raddeck's Computer Shop Module" Version="1.0.8" 
+    Path="Raddeck/rk_Computer_Shop-1.0.8.zip" 
+    Description="Add option to buy computers,... at some stores !" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_ConfectioneryShop" Name="Raddeck's Confectionery Shop Module" Version="1.0.7" 
+    Path="Raddeck/rk_ConfectioneryShop-1.0.7.zip" 
+    Description="Add options to buy/eat candy !" 
+    Msg="rk_Personal_Inventories needed"/>
+    
     <!-- RDL' mods (1) -->
     <Mod Id="rdl_timber" Name="RDL's Tinder style module" Version="0.1.0"
     Path="RDL/rdl_timber-0.1.0.zip"
