@@ -3,12 +3,12 @@
     <!-- #Current Launcher Version: 1.4.9 -->
 
     <!-- NickNo's Mods (5) -->
-    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire" Version="0.7.1"
+    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire [Remake - OK]" Version="0.7.1"
     Path="NickNo/nn_PornEmpire-0.7.1.zip"
     Description="Run your own porn company in LifePlay."
     Msg="Thanks for installing PornEmpire! If you find any bugs, please report on F95 or Discord. Thanks. - NickNo"/>
 
-    <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager" Version="1.6"
+    <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager [Remake - OK]" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
     Description="Manage NPCs, Relatives, Relationships etc. Use with care!"/>
 
@@ -16,7 +16,7 @@
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
     Description="Add more rooms and life to your home."/>
 
-    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin" Version="0.2 Beta"
+    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Remake - OK]" Version="0.2 Beta"
     Path="NickNo/nn_GangsOfLifePlay-0.2.zip"
     Description="You are the boss. The crime boss!"/>
 
@@ -58,33 +58,130 @@
     Description="Add options to buy/eat candy !" 
     Msg="rk_Personal_Inventories needed"/>
     
+    <Mod Id="rk_EroticShop" Name="Raddeck's Erotic Shop Module" Version="1.0.9" 
+    Path="Raddeck/rk_EroticShop-1.0.9.zip" 
+    Description="Add options to buy erotic products such as: dildo, fleshlight,...!" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_Exclusive_Swinger_Club" Name="Raddeck's Exclusive Swinger Club Module" Version="1.0.1" 
+    Path="Raddeck/rk_Exclusive_Swinger_Club-1.0.1.zip" 
+    Description="Take a membership to an exclusive swingers club related to your ethnicity!"/>
+
+    <Mod Id="rk_God_Mod" Name="Raddeck's God Mod Module [Remake - OK]" Version="1.0.9" 
+    Path="Raddeck/rk_God_Mod-1.0.9.zip" 
+    Description="Cheat all the way inside LifePlay!" />
+
+    <Mod Id="rk_Home_Inventories" Name="Raddeck's Home Inventories Module" Version="1.0.9" 
+    Path="Raddeck/rk_Home_Inventories-1.0.9.zip" 
+    Description="Better way to store your items - Focused on my mods items!"/>
+
+    <Mod Id="rk_IceCreamShop" Name="Raddeck's Ice Cream Shop Module" Version="1.0.8" 
+    Path="Raddeck/rk_IceCreamShop-1.0.8.zip" 
+    Description="Add options to buy/eat ice cream desserts !" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_JewelryShop" Name="Raddeck's Jewelry Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_JewelryShop-1.0.6.zip" 
+    Description="Buy,trade or sell jewelry and few extras !" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_lp_worlds" Name="Raddeck's backgrounds Collection" Version="1.0.3" 
+    Path="Raddeck/rk_lp_worlds-1.0.3.zip" 
+    Description="28 different background presets" />
+
+    <Mod Id="rk_MeatShop" Name="Raddeck's Meat Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_MeatShop-1.0.6.zip" 
+    Description="Add options to buy/eat meat dishes !" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_Mobile_Shop" Name="Raddeck's Mobile Shop Module" Version="1.0.9" 
+    Path="Raddeck/rk_Mobile_Shop-1.0.9.zip" 
+    Description="Add option to buy mobile phone,... at some stores !" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_MoneyMaker" Name="Raddeck's Money Maker Module" Version="1.0.10" 
+    Path="Raddeck/rk_MoneyMaker-1.0.10.zip" 
+    Description="Money deposit/withdrawn, buy/trade/sell jewelry/arts!" 
+    Msg="vim_RoomPresets, rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_MoreRides" Name="Raddeck's More Rides Module" Version="1.0.8" 
+    Path="Raddeck/rk_MoreRides-1.0.8.zip" 
+    Description="Buy/sell/trade a bike and/or motorcycle!" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbors Module [Remake - OK]" Version="1.0.8" 
+    Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
+    Description="New stories with your neighbors!"/>
+
+    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module [Remake - OK]" Version="1.0.5" 
+    Path="Raddeck/rk_OnlineFoodShop-1.0.5.zip" 
+    Description="Buy drinks and meals online - Focused on my mods!" 
+    Msg="rk_Home_Inventories needed or the Remake"/>
+
+    <Mod Id="rk_Personal_Inventories" Name="Raddeck's Personal Inventories Module" Version="1.0.9" 
+    Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
+    Description="Better way to store your personal items - Focused on my mods items!"/>
+
+    <Mod Id="rk_PopCornsShop" Name="Raddeck's Popcorns Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
+    Description="Add options to buy/eat Popcorns !" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_random_breakup" Name="Raddeck's Random Breakups Module"  Version="1.0.1" 
+    Path="Raddeck/rk_random_breakup-1.0.1.zip" 
+    Description="Add and modify some events so that breakups happen without you - and actually frees the person - or you can be more proactive into causing them." />
+
+    <Mod Id="rk_SeaFoodShop" Name="Raddeck's Seafood Shop Module" Version="1.0.7" 
+    Path="Raddeck/rk_SeaFoodShop-1.0.7.zip" 
+    Description="Add options to buy/eat seafoods !" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_Sex_Guru" Name="Raddeck's Sex-Guru Module [Remake - OK]" Version="1.0.5" 
+    Path="Raddeck/rk_Sex_Guru-1.0.5.zip" 
+    Description="Start your own religious community!" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_ShopAddons" Name="Raddeck's Shop Addons Module" Version="1.0.8" 
+    Path="Raddeck/rk_ShopAddons-1.0.8.zip" 
+    Description="Add more options to stores for buying items and few extras! All my mini shops in one mod!" 
+    Msg="rk_Home_Inventories and rk_Personal_Inventories needed"/>
+
+    <Mod Id="rk_VapeShop" Name="Raddeck's Vape Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_VapeShop-1.0.6.zip" 
+    Description="Add options to buy/smoke vape juices !" 
+    Msg="rk_Personal_Inventories needed"/>
+
+    <Mod Id="rk_VeganShop" Name="Raddeck's Vegan Shop Module" Version="1.0.9" 
+    Path="Raddeck/rk_VeganShop-1.0.9.zip" 
+    Description="Add options to buy/eat vegan meals !" 
+    Msg="rk_Home_Inventories needed"/>
+
+    <Mod Id="rk_Weed_biz" Name="Raddeck's Weed Business Module [Remake - OK]" Version="1.0.8" 
+    Path="Raddeck/rk_Weed_biz-1.0.8.zip" 
+    Description="Start your own weed business, make more money!" 
+    Msg="nn_GangsOfLifePlay, rk_Personal_Inventories needed"/>
+
+    <Mod Id="rk_WeedShop" Name="Raddeck's Weed Shop Module" Version="1.0.7" 
+    Path="Raddeck/rk_WeedShop-1.0.7.zip" 
+    Description="You can buy and smoke weed at different places!" 
+    Msg="rk_Personal_Inventories needed"/>
+
+    <Mod Id="rk_WeightAndFitness" Name="Raddeck's Body Weight & Fitness Module" Version="1.0.1" 
+    Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
+    Description="Adds weight gain and loss for player & NPCs"/>
+
+    <Mod Id="sbrk_BeautyExpansion" Name="Raddeck's Beauty Expansion Module [Remake - OK]" Version="1.5" 
+    Path="Raddeck/sbrk_BeautyExpansion-1.5.zip" 
+    Description="Rework of the mod Beauty Expansion. Beauty Additions for your companion"/>
+    
     <!-- RDL' mods (1) -->
     <Mod Id="rdl_timber" Name="RDL's Tinder style module" Version="0.1.0"
     Path="RDL/rdl_timber-0.1.0.zip"
     Description="Tinder style dynamic dating"/>
     
-    <!-- tkwas' mods (1) -->
-    <Mod Id="r8kie_additional_activities" Name="r8kie's Additional Scenes" Version="31.10.2019"
-    Description="Add additional scenes during all type of activities."
-    Path="tkwas/r8kie_additional_activities.zip"/>
-    
-    <!-- Vamos69 (2) -->
-    <!--  <Mod Id="co_NPC_Relationship" Name="CaseyOmah's NPC Relationship Module" Version="1.0.3"
-    Description="Modify Relationships Between NPCs using PC menu - Edited by Vamos69"
-    Path="Vamos69/co_NPC_Relationship-1.0.3.zip"/> -->
-    
-    <!--  <Mod Id="v69_MoreEvents" Name="Vamos69's Better Breakups" Version="1.0.0"
-    Description="Add some events at work and other place inside the game."
-    Path="Vamos69/v69_MoreEvents-1.0.0.zip"/> -->
-    
-    <!-- VinnyB's mods (1) -->
-    <Mod Id="breaking_not_bad" Name="VinnyB's Better Breakups" Version="v2"
-    Description="Adds and modifies some events so that NPC breakups happen with or without you."
-    Path="VinnyB/breaking_not_bad.zip"/>
-    
     <!-- Vima's Mods (1) -->
     <Mod Id="vim_RoomPresets" Name="Vima's Bedroom Presets" Version="1.1"
-    Description="10 bed room presets for you (updated: 23.01.2020)"
+    Description="10 bed room presets for you"
     Path="Vima/vim_RoomPresets.zip"/>
 
     <!-- Yarla's Mods (2) -->
