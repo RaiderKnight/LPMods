@@ -16,8 +16,8 @@
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
     Description="Add more rooms and life to your home."/>
 
-    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Remake - OK]" Version="0.2 Beta"
-    Path="NickNo/nn_GangsOfLifePlay-0.2.zip"
+    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Remake - OK]" Version="0.2.2"
+    Path="NickNo/nn_GangsOfLifePlay-0.2.2.zip"
     Description="You are the boss. The crime boss!"/>
 
     <Mod Id="nn_VB_HomeExpander-1.0.1" Name="NickNo's Home Extensions [Remake Only]" Version="1.0.1"

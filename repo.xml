@@ -16,8 +16,8 @@
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
     Description="Add more rooms and life to your home."/>
 
-    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Remake - OK]" Version="0.2 Beta"
-    Path="NickNo/nn_GangsOfLifePlay-0.2.zip"
+    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Remake - OK]" Version="0.2.2"
+    Path="NickNo/nn_GangsOfLifePlay-0.2.2.zip"
     Description="You are the boss. The crime boss!"/>
 
     <Mod Id="nn_VB_HomeExpander-1.0.1" Name="NickNo's Home Extensions [Remake Only]" Version="1.0.1"
@@ -80,9 +80,9 @@
     Description="Add options to buy/eat ice cream desserts !" 
     Msg="rk_Home_Inventories needed"/>
 
-    <Mod Id="rk_JewelryShop" Name="Raddeck's Jewelry Shop Module" Version="1.0.6" 
+    <Mod Id="rk_JewelryShop" Name="Raddeck's Jewellery Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_JewelryShop-1.0.6.zip" 
-    Description="Buy,trade or sell jewelry and few extras !" 
+    Description="Buy,trade or sell jewellery and few extras !" 
     Msg="rk_Home_Inventories needed"/>
 
     <Mod Id="rk_lp_worlds" Name="Raddeck's backgrounds Collection" Version="1.0.3" 
@@ -101,7 +101,7 @@
 
     <Mod Id="rk_MoneyMaker" Name="Raddeck's Money Maker Module" Version="1.0.10" 
     Path="Raddeck/rk_MoneyMaker-1.0.10.zip" 
-    Description="Money deposit/withdrawn, buy/trade/sell jewelry/arts!" 
+    Description="Money deposit/withdrawn, buy/trade/sell jewellery/arts!" 
     Msg="vim_RoomPresets, rk_Home_Inventories needed"/>
 
     <Mod Id="rk_MoreRides" Name="Raddeck's More Rides Module" Version="1.0.8" 
@@ -109,11 +109,11 @@
     Description="Buy/sell/trade a bike and/or motorcycle!" 
     Msg="rk_Home_Inventories needed"/>
 
-    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbors Module [Remake - OK]" Version="1.0.8" 
+    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbours Module [Remake - OK]" Version="1.0.8" 
     Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
     Description="New stories with your neighbors!"/>
 
-    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module [Remake - OK]" Version="1.0.5" 
+    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Food shop Module [Remake - OK]" Version="1.0.5" 
     Path="Raddeck/rk_OnlineFoodShop-1.0.5.zip" 
     Description="Buy drinks and meals online - Focused on my mods!" 
     Msg="rk_Home_Inventories needed or the Remake"/>
@@ -122,9 +122,9 @@
     Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
     Description="Better way to store your personal items - Focused on my mods items!"/>
 
-    <Mod Id="rk_PopCornsShop" Name="Raddeck's Popcorns Shop Module" Version="1.0.6" 
+    <Mod Id="rk_PopCornsShop" Name="Raddeck's Pop corns Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
-    Description="Add options to buy/eat Popcorns !" 
+    Description="Add options to buy/eat Pop corns !" 
     Msg="rk_Home_Inventories needed"/>
 
     <Mod Id="rk_random_breakup" Name="Raddeck's Random Breakups Module"  Version="1.0.1" 
