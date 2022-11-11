@@ -3,12 +3,12 @@
     <!-- #Current Launcher Version: 1.4.9 -->
 
     <!-- NickNo's Mods (5) -->
-    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire [Remake - OK]" Version="0.7.2"
+    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire [Ready for Remake]" Version="0.7.2"
     Path="NickNo/nn_PornEmpire-0.7.2.zip"
     Description="Run your own porn company in LifePlay."
     Msg="Thanks for installing PornEmpire! If you find any bugs, please report on F95 or Discord. Thanks. - NickNo"/>
 
-    <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager [Remake - OK]" Version="1.6"
+    <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager [Ready for Remake]" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
     Description="Manage NPCs, Relatives, Relationships etc. Use with care!"/>
 
@@ -16,7 +16,7 @@
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
     Description="Add more rooms and life to your home."/>
 
-    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Remake - OK]" Version="0.2.2"
+    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.2"
     Path="NickNo/nn_GangsOfLifePlay-0.2.2.zip"
     Description="You are the boss. The crime boss!"/>
 
@@ -24,7 +24,7 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
     Description="Add more rooms and life to your home."/>
     
-    <!-- Raddeck's Mods (32) -->
+    <!-- Raddeck's Mods (33) -->
     <Mod Id="rk_additional_activities" Name="Raddeck's Additional activities Module" Version="1.0.1" 
     Path="Raddeck/rk_additional_activities-1.0.1.zip" 
     Description="Add additional scenes during all type of activities"/>
@@ -67,7 +67,7 @@
     Path="Raddeck/rk_Exclusive_Swinger_Club-1.0.1.zip" 
     Description="Take a membership to an exclusive swingers club related to your ethnicity!"/>
 
-    <Mod Id="rk_God_Mod" Name="Raddeck's God Mod Module [Remake - OK]" Version="1.0.9" 
+    <Mod Id="rk_God_Mod" Name="Raddeck's God Mod Module [Ready for Remake]" Version="1.0.9" 
     Path="Raddeck/rk_God_Mod-1.0.9.zip" 
     Description="Cheat all the way inside LifePlay!" />
 
@@ -109,11 +109,11 @@
     Description="Buy/sell/trade a bike and/or motorcycle!" 
     Msg="rk_Home_Inventories needed"/>
 
-    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbors Module [Remake - OK]" Version="1.0.8" 
+    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbors Module [Ready for Remake]" Version="1.0.8" 
     Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
     Description="New stories with your neighbors!"/>
 
-    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module [Remake - OK]" Version="1.0.5" 
+    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module [Ready for Remake]" Version="1.0.5" 
     Path="Raddeck/rk_OnlineFoodShop-1.0.5.zip" 
     Description="Buy drinks and meals online - Focused on my mods!" 
     Msg="rk_Home_Inventories needed or the Remake"/>
@@ -136,7 +136,7 @@
     Description="Add options to buy/eat seafoods !" 
     Msg="rk_Home_Inventories needed"/>
 
-    <Mod Id="rk_Sex_Guru" Name="Raddeck's Sex-Guru Module [Remake - OK]" Version="1.0.5" 
+    <Mod Id="rk_Sex_Guru" Name="Raddeck's Sex-Guru Module [Ready for Remake]" Version="1.0.5" 
     Path="Raddeck/rk_Sex_Guru-1.0.5.zip" 
     Description="Start your own religious community!" 
     Msg="rk_Home_Inventories needed"/>
@@ -156,7 +156,11 @@
     Description="Add options to buy/eat vegan meals !" 
     Msg="rk_Home_Inventories needed"/>
 
-    <Mod Id="rk_Weed_biz" Name="Raddeck's Weed Business Module [Remake - OK]" Version="1.0.8" 
+    <Mod Id="rk_vin_Fantasy" Name="Raddeck's LifePlay Fantasy Module [Remake Only]" Version="1.0.3" 
+    Path="Raddeck/rk_vin_Fantasy-1.0.3.zip" 
+    Description="LifePlay fantasy folder turn into a mod for the Remake."/>
+
+    <Mod Id="rk_Weed_biz" Name="Raddeck's Weed Business Module [Ready for Remake]" Version="1.0.8" 
     Path="Raddeck/rk_Weed_biz-1.0.8.zip" 
     Description="Start your own weed business, make more money!" 
     Msg="nn_GangsOfLifePlay, rk_Personal_Inventories needed"/>
@@ -170,7 +174,7 @@
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
     Description="Adds weight gain and loss for player - NPCs"/>
 
-    <Mod Id="sbrk_BeautyExpansion" Name="Raddeck's Beauty Expansion Module [Remake - OK]" Version="1.5" 
+    <Mod Id="sbrk_BeautyExpansion" Name="Raddeck's Beauty Expansion Module [Ready for Remake]" Version="1.5" 
     Path="Raddeck/sbrk_BeautyExpansion-1.5.zip" 
     Description="Rework of the mod Beauty Expansion. Beauty Additions for your companion"/>
     
