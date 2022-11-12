@@ -23,6 +23,11 @@
     <Mod Id="nn_VB_HomeExpander" Name="NickNo's Home Extensions [Remake Only]" Version="1.0.3"
     Path="NickNo/nn_VB_HomeExpander-1.0.3.zip"
     Description="Add more rooms and life to your home."/>
+    <!-- Mysterious Modder's Mods (1) -->
+    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.1" 
+    Path="Meister/mm_Modules-1.0.1.zip" 
+    Description="My additional Modules. If you know me, you know what it's all about!"
+    Msg="Don't activate this mod! Delete or backup existing Remake LifePlay folders, and replace them with mine. Use LewdPatcher for LifePlay"/>
     
     <!-- Raddeck's Mods (33) -->
     <Mod Id="rk_additional_activities" Name="Raddeck's Additional activities Module" Version="1.0.1" 
