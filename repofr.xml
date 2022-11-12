@@ -20,10 +20,10 @@
     Path="NickNo/nn_GangsOfLifePlay-0.2.2.zip"
     Description="You are the boss. The crime boss!"/>
 
-    <Mod Id="nn_VB_HomeExpander-1.0.1" Name="NickNo's Home Extensions [Remake Only]" Version="1.0.1"
-    Path="NickNo/nn_VB_HomeExpander-1.0.1.zip"
+    <Mod Id="nn_VB_HomeExpander" Name="NickNo's Home Extensions [Remake Only]" Version="1.0.3"
+    Path="NickNo/nn_VB_HomeExpander-1.0.3.zip"
     Description="Add more rooms and life to your home."/>
-    
+
     <!-- Raddeck's Mods (33) -->
     <Mod Id="rk_additional_activities" Name="Raddeck's Additional activities Module" Version="1.0.1" 
     Path="Raddeck/rk_additional_activities-1.0.1.zip" 
