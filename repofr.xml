@@ -179,8 +179,8 @@
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
     Description="Adds weight gain and loss for player - NPCs"/>
 
-    <Mod Id="sbrk_BeautyExpansion" Name="Raddeck's Beauty Expansion Module [Ready for Remake]" Version="1.5" 
-    Path="Raddeck/sbrk_BeautyExpansion-1.5.zip" 
+    <Mod Id="sbrk_BeautyExpansion" Name="Raddeck's Beauty Expansion Module [Ready for Remake]" Version="1.6" 
+    Path="Raddeck/sbrk_BeautyExpansion-1.6.zip" 
     Description="Rework of the mod Beauty Expansion. Beauty Additions for your companion"/>
     
     <!-- RDL' mods (1) -->
