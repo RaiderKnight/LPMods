@@ -29,7 +29,7 @@
     Description="My additional Modules. If you know me, you know what it's all about!"
     Msg="Don't activate this mod! Delete or backup existing Remake LifePlay folders, and replace them with mine. Use LewdPatcher for LifePlay"/>
     
-    <!-- Raddeck's Mods (33) -->
+    <!-- Raddeck's Mods (38) -->
     <Mod Id="rk_additional_activities" Name="Raddeck's Additional activities Module" Version="1.0.1" 
     Path="Raddeck/rk_additional_activities-1.0.1.zip" 
     Description="Add additional scenes during all type of activities"/>
@@ -113,10 +113,35 @@
     Path="Raddeck/rk_MoreRides-1.0.8.zip" 
     Description="Buy/sell/trade a bike and/or motorcycle!" 
     Msg="rk_Home_Inventories needed"/>
-
-    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbors Module [Ready for Remake]" Version="1.0.8" 
+    
+    <Mod Id="rk_MoreInteractions_Prison" Name="Raddeck's More Prison Interactions Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Prison-1.0.0.zip" 
+    Description="Add more funny interactions into your cell!" 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed"/>
+    
+    <Mod Id="rk_MoreInteractions_Perso" Name="Raddeck's More personal Interactions Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Perso-1.0.0.zip" 
+    Description="Adds actions and scenes related to your daily life!" 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed"/>
+    
+    <Mod Id="rk_MoreInteractions_Events" Name="Raddeck's More Interactions Events Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Events-1.0.0.zip" 
+    Description="Add more popup scenes variety to your game!" 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed"/>
+    
+    <Mod Id="rk_MoreInteractions_Lovers" Name="Raddeck's Love Interactions Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Lovers-1.0.0.zip" 
+    Description="Add more actions and consequences to your love relationship." 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed"/>
+    
+    <Mod Id="rk_MoreInteractions_Badass" Name="Raddeck's Badass Interactions Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Badass-1.0.0.zip" 
+    Description="Add more badass and naughty actions to your game!" 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed"/>
+    
+    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbours Module [Ready for Remake]" Version="1.0.8" 
     Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
-    Description="New stories with your neighbors!"/>
+    Description="New stories with your neighbours!"/>
 
     <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Foodshop Module [Ready for Remake]" Version="1.0.5" 
     Path="Raddeck/rk_OnlineFoodShop-1.0.5.zip" 
