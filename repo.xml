@@ -230,7 +230,7 @@
     <!-- n1ck's mods (1) -->
     <Mod Id="n1ck_DazPresets" Name="n1ck's character presets"
     Description="13 male and female characters and 44 presets"
-    Version="1.0" Path="n1ck/n1ck_DazPresets.zip"/>
+    Version="1.0" Path="n1ck/n1ck_DazPresets.zip" LatestUpdate="11-10-2022" />
     
     <!-- Grimm's mods (3) -->
     <Mod Id="grim_Dresser" Name="Grim Dresser module"
