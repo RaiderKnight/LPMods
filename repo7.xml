@@ -1,0 +1,249 @@
+<Repo>
+    <!-- #Current LifePlay Version: 5.15 -->
+    <!-- #Current Launcher Version: 1.4.9 -->
+
+    <!-- NickNo's Mods (5) -->
+    <Mod Id="nn_PornEmpire" Name="NickNo's Porn Empire [Ready for Remake]" Version="0.7.2"
+    Path="NickNo/nn_PornEmpire-0.7.2.zip"
+    Description="Run your own porn company in LifePlay."
+    Msg="Thanks for installing PornEmpire! If you find any bugs, please report on F95 or Discord. Thanks. - NickNo" LatestUpdate="11-10-2022" 
+    ModderN="NickNo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/NickNo-dev"/>
+
+    <Mod Id="nn_NPCManager" Name="NickNo's NPC Manager [Ready for Remake]" Version="1.6"
+    Path="NickNo/nn_NPCManager-1.6.zip"
+    Description="Manage NPCs, Relatives, Relationships etc. Use with care!" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="nn_HomeExpander" Name="NickNo's Home Extensions" Version="0.4.1"
+    Path="NickNo/nn_HomeExpander-0.4.1.zip"
+    Description="Add more rooms and life to your home." LatestUpdate="11-10-2022"/>
+
+    <Mod Id="nn_GangsOfLifePlay" Name="NickNo's Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.2"
+    Path="NickNo/nn_GangsOfLifePlay-0.2.2.zip"
+    Description="You are the boss. The crime boss!" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="nn_VB_HomeExpander" Name="NickNo's Home Extensions [Remake Only]" Version="1.0.3"
+    Path="NickNo/nn_VB_HomeExpander-1.0.3.zip"
+    Description="Add more rooms and life to your home." LatestUpdate="11-10-2022"/>
+    <!-- Mysterious Modder's Mods (1) -->
+    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.1" 
+    Path="Meister/mm_Modules-1.0.1.zip" 
+    Description="My additional Modules. If you know me, you know what it's all about!"
+    Msg="Don't activate this mod! Delete or backup existing Remake LifePlay folders, and replace them with mine. Use LewdPatcher for LifePlay" LatestUpdate="11-10-2022"/>
+    
+    <!-- Raddeck's Mods (38) -->
+    <Mod Id="rk_additional_activities" Name="Raddeck's Additional activities Module" Version="1.0.1" 
+    Path="Raddeck/rk_additional_activities-1.0.1.zip" 
+    Description="Add additional scenes during all type of activities" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_Art_items_Shop" Name="Raddeck's Art Shop addon Module" Version="1.0.6" 
+    Path="Raddeck/rk_Art_items_Shop-1.0.6.zip" 
+    Description="Give the option to buy/trade/sell art items!" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_BakeryShop" Name="Raddeck's Bakery Shop Module" Version="1.0.9" 
+    Path="Raddeck/rk_BakeryShop-1.0.9.zip" 
+    Description="Add options to buy/eat pastry and bread !" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_Bank_shop" Name="Raddeck's Bank Module" Version="1.0.6" 
+    Path="Raddeck/rk_Bank_shop-1.0.6.zip" 
+    Description="Money deposit/withdrawn!" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_CigarsShop" Name="Raddeck's Cigars Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_CigarsShop-1.0.6.zip" 
+    Description="Add options to buy/smoke cigars !" 
+    Msg="rk_Personal_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_Computer_Shop" Name="Raddeck's Computer Shop Module" Version="1.0.8" 
+    Path="Raddeck/rk_Computer_Shop-1.0.8.zip" 
+    Description="Add option to buy computers,... at some stores !" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_ConfectioneryShop" Name="Raddeck's Confectionery Shop Module" Version="1.0.7" 
+    Path="Raddeck/rk_ConfectioneryShop-1.0.7.zip" 
+    Description="Add options to buy/eat candy !" 
+    Msg="rk_Personal_Inventories needed" LatestUpdate="11-10-2022"/>
+    
+    <Mod Id="rk_EroticShop" Name="Raddeck's Erotic Shop Module" Version="1.0.9" 
+    Path="Raddeck/rk_EroticShop-1.0.9.zip" 
+    Description="Add options to buy erotic products such as: dildo, fleshlight,...!" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_Exclusive_Swinger_Club" Name="Raddeck's Exclusive Swinger Club Module" Version="1.0.1" 
+    Path="Raddeck/rk_Exclusive_Swinger_Club-1.0.1.zip" 
+    Description="Take a membership to an exclusive swingers club related to your ethnicity!" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_God_Mod" Name="Raddeck's God Mod Module [Ready for Remake]" Version="1.0.9" 
+    Path="Raddeck/rk_God_Mod-1.0.9.zip" 
+    Description="Cheat all the way inside LifePlay!" LatestUpdate="11-10-2022" />
+
+    <Mod Id="rk_Home_Inventories" Name="Raddeck's Home Inventories Module" Version="1.0.9" 
+    Path="Raddeck/rk_Home_Inventories-1.0.9.zip" 
+    Description="Better way to store your items - Focused on my mods items!" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_IceCreamShop" Name="Raddeck's Ice Cream Shop Module" Version="1.0.8" 
+    Path="Raddeck/rk_IceCreamShop-1.0.8.zip" 
+    Description="Add options to buy/eat ice cream desserts !" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_JewelryShop" Name="Raddeck's Jewellery Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_JewelryShop-1.0.6.zip" 
+    Description="Buy,trade or sell jewellery and few extras !" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_lp_worlds" Name="Raddeck's backgrounds Collection" Version="1.0.3" 
+    Path="Raddeck/rk_lp_worlds-1.0.3.zip" 
+    Description="28 different background presets" LatestUpdate="11-10-2022" />
+
+    <Mod Id="rk_MeatShop" Name="Raddeck's Meat Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_MeatShop-1.0.6.zip" 
+    Description="Add options to buy/eat meat dishes !" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_Mobile_Shop" Name="Raddeck's Mobile Shop Module" Version="1.0.9" 
+    Path="Raddeck/rk_Mobile_Shop-1.0.9.zip" 
+    Description="Add option to buy mobile phone,... at some stores !" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_MoneyMaker" Name="Raddeck's Money Maker Module" Version="1.0.10" 
+    Path="Raddeck/rk_MoneyMaker-1.0.10.zip" 
+    Description="Money deposit/withdrawn, buy/trade/sell jewellery/arts!" 
+    Msg="vim_RoomPresets, rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_MoreRides" Name="Raddeck's More Rides Module" Version="1.0.8" 
+    Path="Raddeck/rk_MoreRides-1.0.8.zip" 
+    Description="Buy/sell/trade a bike and/or motorcycle!" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+    
+    <Mod Id="rk_MoreInteractions_Prison" Name="Raddeck's More Interactions in Prison Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Prison-1.0.0.zip" 
+    Description="Add more funny interactions into your cell!" 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" LatestUpdate="11-10-2022"/>
+    
+    <Mod Id="rk_MoreInteractions_Perso" Name="Raddeck's More personal Interactions Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Perso-1.0.0.zip" 
+    Description="Adds actions and scenes related to your daily life!" 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" LatestUpdate="11-10-2022"/>
+    
+    <Mod Id="rk_MoreInteractions_Events" Name="Raddeck's More Interactions Events Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Events-1.0.0.zip" 
+    Description="Add more popup scenes variety to your game!" 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" LatestUpdate="11-10-2022"/>
+    
+    <Mod Id="rk_MoreInteractions_Lovers" Name="Raddeck's Love Interactions Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Lovers-1.0.0.zip" 
+    Description="Add more actions and consequences to your love relationship." 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" LatestUpdate="11-10-2022"/>
+    
+    <Mod Id="rk_MoreInteractions_Badass" Name="Raddeck's Badass Interactions Module" Version="1.0.0" 
+    Path="Raddeck/rk_MoreInteractions_Badass-1.0.0.zip" 
+    Description="Add more badass and naughty actions to your game!" 
+    Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbours Module [Ready for Remake]" Version="1.0.8" 
+    Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
+    Description="New stories with your neighbours!" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Food shop Module [Ready for Remake]" Version="1.0.5" 
+    Path="Raddeck/rk_OnlineFoodShop-1.0.5.zip" 
+    Description="Buy drinks and meals online - Focused on my mods!" 
+    Msg="rk_Home_Inventories needed or the Remake" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_Personal_Inventories" Name="Raddeck's Personal Inventories Module" Version="1.0.9" 
+    Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
+    Description="Better way to store your personal items - Focused on my mods items!" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_PopCornsShop" Name="Raddeck's Pop corns Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
+    Description="Add options to buy/eat Pop corns !" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_random_breakup" Name="Raddeck's Random Breakups Module"  Version="1.0.1" 
+    Path="Raddeck/rk_random_breakup-1.0.1.zip" 
+    Description="Add and modify some events so that breakups happen without you - and actually frees the person - or you can be more proactive into causing them." LatestUpdate="11-10-2022" />
+
+    <Mod Id="rk_SeaFoodShop" Name="Raddeck's Seafood Shop Module" Version="1.0.7" 
+    Path="Raddeck/rk_SeaFoodShop-1.0.7.zip" 
+    Description="Add options to buy/eat seafoods !" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_Sex_Guru" Name="Raddeck's Sex-Guru Module [Ready for Remake]" Version="1.0.5" 
+    Path="Raddeck/rk_Sex_Guru-1.0.5.zip" 
+    Description="Start your own religious community!" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_ShopAddons" Name="Raddeck's Shop Addons Module" Version="1.0.8" 
+    Path="Raddeck/rk_ShopAddons-1.0.8.zip" 
+    Description="Add more options to stores for buying items and few extras! All my mini shops in one mod!" 
+    Msg="rk_Home_Inventories and rk_Personal_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_VapeShop" Name="Raddeck's Vape Shop Module" Version="1.0.6" 
+    Path="Raddeck/rk_VapeShop-1.0.6.zip" 
+    Description="Add options to buy/smoke vape juices !" 
+    Msg="rk_Personal_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_VeganShop" Name="Raddeck's Vegan Shop Module" Version="1.0.9" 
+    Path="Raddeck/rk_VeganShop-1.0.9.zip" 
+    Description="Add options to buy/eat vegan meals !" 
+    Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_vin_Fantasy" Name="Raddeck's LifePlay Fantasy Module [Remake Only]" Version="1.0.3" 
+    Path="Raddeck/rk_vin_Fantasy-1.0.3.zip" 
+    Description="LifePlay fantasy folder turn into a mod for the Remake." LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_Weed_biz" Name="Raddeck's Weed Business Module [Ready for Remake]" Version="1.0.8" 
+    Path="Raddeck/rk_Weed_biz-1.0.8.zip" 
+    Description="Start your own weed business, make more money!" 
+    Msg="nn_GangsOfLifePlay, rk_Personal_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_WeedShop" Name="Raddeck's Weed Shop Module" Version="1.0.7" 
+    Path="Raddeck/rk_WeedShop-1.0.7.zip" 
+    Description="You can buy and smoke weed at different places!" 
+    Msg="rk_Personal_Inventories needed" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="rk_WeightAndFitness" Name="Raddeck's Body Weight - Fitness Module" Version="1.0.1" 
+    Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
+    Description="Adds weight gain and loss for player - NPCs" LatestUpdate="11-10-2022"/>
+
+    <Mod Id="sbrk_BeautyExpansion" Name="Raddeck's Beauty Expansion Module [Ready for Remake]" Version="1.6" 
+    Path="Raddeck/sbrk_BeautyExpansion-1.6.zip" 
+    Description="Rework of the mod Beauty Expansion. Beauty Additions for your companion" LatestUpdate="11-10-2022"/>
+    
+    <!-- RDL' mods (1) -->
+    <Mod Id="rdl_timber" Name="RDL's Tinder style module" Version="0.1.0"
+    Path="RDL/rdl_timber-0.1.0.zip"
+    Description="Tinder style dynamic dating" LatestUpdate="08-12-2021"/>
+    
+    <!-- Vima's Mods (1) -->
+    <Mod Id="vim_RoomPresets" Name="Vima's Bedroom Presets" Version="1.1"
+    Description="10 bed room presets for you"
+    Path="Vima/vim_RoomPresets.zip" LatestUpdate="06-10-2020"/>
+
+    <!-- Yarla's Mods (2) -->
+    <Mod Id="yarla_CharacterPack1" Name="Yarla's Character Pack"
+    Description="20 male and female character presets"
+    Version="1.1" Path="Yarla/yarla_characterpack.zip" LatestUpdate="06-10-2021"/>
+
+    <Mod Id="yarla_CharacterPack2" Name="Yarla's Character Pack 2"
+    Description="28 male and female character presets"
+    Version="1.0" Path="Yarla/yarla_characterpack2.zip" LatestUpdate="06-10-2021"/>
+
+    <!-- n1ck's mods (1) -->
+    <Mod Id="n1ck_DazPresets" Name="n1ck's character presets"
+    Description="13 male and female characters and 44 presets"
+    Version="1.0" Path="n1ck/n1ck_DazPresets.zip" LatestUpdate="06-10-2022" />
+    
+    <!-- Grimm's mods (3) -->
+    <Mod Id="grim_Dresser" Name="Grim Dresser module"
+    Description="Allows you to dress NPCs in clothes you select"
+    Version="1.0.1" Path="Grimm/grim_Dresser-1.0.1.zip" LatestUpdate="01-10-2022"/>
+    
+    <Mod Id="grim_HomeAssignment" Name="Grim Home Assignment module"
+    Description="Adds an Assign Home action to the PC menu which allows you to assign homes to NPCs"
+    Version="1.0.1" Path="Grimm/grim_HomeAssignment-1.0.1.zip" LatestUpdate="01-10-2022"/>
+    
+    <Mod Id="grim_ReDress" Name="Grim Re-Dresser module"
+    Description="A utility mod that allows you to force companions to change their clothes by clicking on them and selecting Re-dress in the interaction menu."
+    Version="1.0.1" Path="Grimm/grim_ReDress-1.0.1.zip" LatestUpdate="01-10-2022"/>
+
+</Repo>
