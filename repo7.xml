@@ -7,7 +7,7 @@
     Path="NickNo/nn_PornEmpire-0.7.2.zip"
     Description="Run your own porn company in LifePlay."
     Msg="Thanks for installing PornEmpire! If you find any bugs, please report on F95 or Discord. Thanks. - NickNo" LatestUpdate="11-10-2022" 
-    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="" FullDescription="" FullDescription="441"/>
+    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=441"/>
 
     <Mod Id="nn_NPCManager" Name="NPC Manager [Ready for Remake]" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
@@ -17,12 +17,12 @@
     <Mod Id="nn_HomeExpander" Name="Home Extensions" Version="0.4.1"
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
     Description="Add more rooms and life to your home." LatestUpdate="11-10-2022" 
-    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="" FullDescription="439"/>
+    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=439"/>
 
     <Mod Id="nn_GangsOfLifePlay" Name="Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.2"
     Path="NickNo/nn_GangsOfLifePlay-0.2.2.zip"
     Description="You are the boss. The crime boss!" LatestUpdate="11-10-2022" 
-    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="" FullDescription="440"/>
+    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=440"/>
 
     <Mod Id="nn_VB_HomeExpander" Name="Home Extensions [Remake Only]" Version="1.0.3"
     Path="NickNo/nn_VB_HomeExpander-1.0.3.zip"
@@ -39,75 +39,75 @@
     <Mod Id="rk_additional_activities" Name="Additional activities Module" Version="1.0.1" 
     Path="Raddeck/rk_additional_activities-1.0.1.zip" 
     Description="Add additional scenes during all type of activities" LatestUpdate="11-10-2022" 
-    ModderN="NickNo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="436"/>
+    ModderN="NickNo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=436"/>
 
     <Mod Id="rk_Art_items_Shop" Name="Art Shop addon Module" Version="1.0.6" 
     Path="Raddeck/rk_Art_items_Shop-1.0.6.zip" 
     Description="Give the option to buy/trade/sell art items!" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/VLxnKLM/ArtShop.jpg" FullDescription="32"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/VLxnKLM/ArtShop.jpg" FullDescription="https://lifeplay.site/viewtopic.php?t=32"/>
 
     <Mod Id="rk_BakeryShop" Name="Bakery Shop Module" Version="1.0.9" 
     Path="Raddeck/rk_BakeryShop-1.0.9.zip" 
     Description="Add options to buy/eat pastry and bread !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ss3nCqR/Bakery-Shop.png" FullDescription="33"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ss3nCqR/Bakery-Shop.png" FullDescription="https://lifeplay.site/viewtopic.php?t=33"/>
 
     <Mod Id="rk_Bank_shop" Name="Bank Module" Version="1.0.6" 
     Path="Raddeck/rk_Bank_shop-1.0.6.zip" 
     Description="Money deposit/withdrawn!" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="34"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=34"/>
 
     <Mod Id="rk_CigarsShop" Name="Cigars Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_CigarsShop-1.0.6.zip" 
     Description="Add options to buy/smoke cigars !" 
     Msg="rk_Personal_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="35"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=35"/>
 
     <Mod Id="rk_Computer_Shop" Name="Computer Shop Module" Version="1.0.8" 
     Path="Raddeck/rk_Computer_Shop-1.0.8.zip" 
     Description="Add option to buy computers,... at some stores !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="36"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=36"/>
 
     <Mod Id="rk_ConfectioneryShop" Name="Confectionery Shop Module" Version="1.0.7" 
     Path="Raddeck/rk_ConfectioneryShop-1.0.7.zip" 
     Description="Add options to buy/eat candy !" 
     Msg="rk_Personal_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8dCG8tv/Candy-Shop.png" FullDescription="37"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8dCG8tv/Candy-Shop.png" FullDescription="https://lifeplay.site/viewtopic.php?t=37"/>
     
     <Mod Id="rk_EroticShop" Name="Erotic Shop Module" Version="1.0.9" 
     Path="Raddeck/rk_EroticShop-1.0.9.zip" 
     Description="Add options to buy erotic products such as: dildo, fleshlight,...!" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/CbPFffK/Erotic-Shop.png" FullDescription="38"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/CbPFffK/Erotic-Shop.png" FullDescription="https://lifeplay.site/viewtopic.php?t=38"/>
 
     <Mod Id="rk_Exclusive_Swinger_Club" Name="Exclusive Swinger Club Module" Version="1.0.1" 
     Path="Raddeck/rk_Exclusive_Swinger_Club-1.0.1.zip" 
     Description="Take a membership to an exclusive swingers club related to your ethnicity!" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="450"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=450"/>
 
     <Mod Id="rk_God_Mod" Name="God Mod Module [Ready for Remake]" Version="1.0.9" 
     Path="Raddeck/rk_God_Mod-1.0.9.zip" 
     Description="Cheat all the way inside LifePlay!" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="31"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=31"/>
 
     <Mod Id="rk_Home_Inventories" Name="Home Inventories Module" Version="1.0.9" 
     Path="Raddeck/rk_Home_Inventories-1.0.9.zip" 
     Description="Better way to store your items - Focused on my mods items!" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="39"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=39"/>
 
     <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.8" 
     Path="Raddeck/rk_IceCreamShop-1.0.8.zip" 
     Description="Add options to buy/eat ice cream desserts !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="10"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=10"/>
 
     <Mod Id="rk_JewelryShop" Name="Jewellery Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_JewelryShop-1.0.6.zip" 
     Description="Buy,trade or sell jewellery and few extras !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/x6234Gw/Jewelry-Shop.jpg" FullDescription="40"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/x6234Gw/Jewelry-Shop.jpg" FullDescription="https://lifeplay.site/viewtopic.php?t=40"/>
 
     <Mod Id="rk_lp_worlds" Name="backgrounds Collection" Version="1.0.3" 
     Path="Raddeck/rk_lp_worlds-1.0.3.zip" 
@@ -118,25 +118,25 @@
     Path="Raddeck/rk_MeatShop-1.0.6.zip" 
     Description="Add options to buy/eat meat dishes !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="42"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=42"/>
 
     <Mod Id="rk_Mobile_Shop" Name="Mobile Shop Module" Version="1.0.9" 
     Path="Raddeck/rk_Mobile_Shop-1.0.9.zip" 
     Description="Add option to buy mobile phone,... at some stores !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="43"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=43"/>
 
     <Mod Id="rk_MoneyMaker" Name="Money Maker Module" Version="1.0.10" 
     Path="Raddeck/rk_MoneyMaker-1.0.10.zip" 
     Description="Money deposit/withdrawn, buy/trade/sell jewellery/arts!" 
     Msg="vim_RoomPresets, rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="44"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=44"/>
 
     <Mod Id="rk_MoreRides" Name="More Rides Module" Version="1.0.8" 
     Path="Raddeck/rk_MoreRides-1.0.8.zip" 
     Description="Buy/sell/trade a bike and/or motorcycle!" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="47"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=47"/>
     
     <Mod Id="rk_MoreInteractions_Prison" Name="More Interactions in Prison Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Prison-1.0.0.zip" 
@@ -171,59 +171,59 @@
     <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.8" 
     Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
     Description="New stories with your neighbours!" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="46"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=46"/>
 
     <Mod Id="rk_OnlineFoodShop" Name="Online Food shop Module [Ready for Remake]" Version="1.0.5" 
     Path="Raddeck/rk_OnlineFoodShop-1.0.5.zip" 
     Description="Buy drinks and meals online - Focused on my mods!" 
     Msg="rk_Home_Inventories needed or the Remake" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/1sz3szm/Online-Food-Shop.png" FullDescription="48"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/1sz3szm/Online-Food-Shop.png" FullDescription="https://lifeplay.site/viewtopic.php?t=48"/>
 
     <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Module" Version="1.0.9" 
     Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
     Description="Better way to store your personal items - Focused on my mods items!" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="49"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=49"/>
 
     <Mod Id="rk_PopCornsShop" Name="Pop corns Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
     Description="Add options to buy/eat Pop corns !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="50"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=50"/>
 
     <Mod Id="rk_random_breakup" Name="Random Breakups Module"  Version="1.0.1" 
     Path="Raddeck/rk_random_breakup-1.0.1.zip" 
     Description="Add and modify some events so that breakups happen without you - and actually frees the person - or you can be more proactive into causing them." LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="435"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=435"/>
 
     <Mod Id="rk_SeaFoodShop" Name="Seafood Shop Module" Version="1.0.7" 
     Path="Raddeck/rk_SeaFoodShop-1.0.7.zip" 
     Description="Add options to buy/eat seafoods !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SNCy3QL/Seafood-Shop.png" FullDescription="51"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SNCy3QL/Seafood-Shop.png" FullDescription="https://lifeplay.site/viewtopic.php?t=51"/>
 
     <Mod Id="rk_Sex_Guru" Name="Sex-Guru Module [Ready for Remake]" Version="1.0.5" 
     Path="Raddeck/rk_Sex_Guru-1.0.5.zip" 
     Description="Start your own religious community!" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="52"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=52"/>
 
     <Mod Id="rk_ShopAddons" Name="Shop Addons Module" Version="1.0.8" 
     Path="Raddeck/rk_ShopAddons-1.0.8.zip" 
     Description="Add more options to stores for buying items and few extras! All my mini shops in one mod!" 
     Msg="rk_Home_Inventories and rk_Personal_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/KDDdNdd/Shop-Addons.png" FullDescription="53"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/KDDdNdd/Shop-Addons.png" FullDescription="https://lifeplay.site/viewtopic.php?t=53"/>
 
     <Mod Id="rk_VapeShop" Name="Vape Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_VapeShop-1.0.6.zip" 
     Description="Add options to buy/smoke vape juices !" 
     Msg="rk_Personal_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/tXmG9vX/VapeShop.jpg" FullDescription="54"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/tXmG9vX/VapeShop.jpg" FullDescription="https://lifeplay.site/viewtopic.php?t=54"/>
 
     <Mod Id="rk_VeganShop" Name="Vegan Shop Module" Version="1.0.9" 
     Path="Raddeck/rk_VeganShop-1.0.9.zip" 
     Description="Add options to buy/eat vegan meals !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/0MJgRQN/Vegan-Shop.png" FullDescription="55"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/0MJgRQN/Vegan-Shop.png" FullDescription="https://lifeplay.site/viewtopic.php?t=55"/>
 
     <Mod Id="rk_vin_Fantasy" Name="LifePlay Fantasy Module [Remake Only]" Version="1.0.3" 
     Path="Raddeck/rk_vin_Fantasy-1.0.3.zip" 
@@ -234,23 +234,23 @@
     Path="Raddeck/rk_Weed_biz-1.0.8.zip" 
     Description="Start your own weed business, make more money!" 
     Msg="nn_GangsOfLifePlay, rk_Personal_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="57"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=57"/>
 
     <Mod Id="rk_WeedShop" Name="Weed Shop Module" Version="1.0.7" 
     Path="Raddeck/rk_WeedShop-1.0.7.zip" 
     Description="You can buy and smoke weed at different places!" 
     Msg="rk_Personal_Inventories needed" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SdN5hH1/WeedShop.png" FullDescription="56"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SdN5hH1/WeedShop.png" FullDescription="https://lifeplay.site/viewtopic.php?t=56"/>
 
     <Mod Id="rk_WeightAndFitness" Name="Body Weight - Fitness Module" Version="1.0.1" 
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
     Description="Adds weight gain and loss for player - NPCs" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="437"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=437"/>
 
     <Mod Id="sbrk_BeautyExpansion" Name="Beauty Expansion Module [Ready for Remake]" Version="1.6" 
     Path="Raddeck/sbrk_BeautyExpansion-1.6.zip" 
     Description="Rework of the mod Beauty Expansion. Beauty Additions for your companion" LatestUpdate="11-10-2022" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="449"/>
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=449"/>
     
     <!-- RDL' mods (1) -->
     <Mod Id="rdl_timber" Name="Tinder style module" Version="0.1.0"
