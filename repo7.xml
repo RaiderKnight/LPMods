@@ -17,7 +17,7 @@
     <Mod Id="nn_HomeExpander" Name="Home Extensions" Version="0.4.1"
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
     Description="Add more rooms and life to your home." LatestUpdate="11-10-2022" 
-    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="https://i.ibb.co/ssq7BPc/nn-he-intro.gif" FullDescription="https://lifeplay.site/viewtopic.php?t=439"/>
+    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=439"/>
 
     <Mod Id="nn_GangsOfLifePlay" Name="Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.2"
     Path="NickNo/nn_GangsOfLifePlay-0.2.2.zip"
