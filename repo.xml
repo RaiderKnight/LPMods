@@ -187,9 +187,9 @@
     Description="Add options to buy/eat vegan meals !" 
     Msg="rk_Home_Inventories needed" LatestUpdate="11-10-2022"/>
 
-    <Mod Id="rk_vin_Fantasy" Name="Raddeck's LifePlay Fantasy Module [Remake Only]" Version="1.0.3" 
-    Path="Raddeck/rk_vin_Fantasy-1.0.3.zip" 
-    Description="LifePlay fantasy folder turn into a mod for the Remake." LatestUpdate="11-10-2022"/>
+    <Mod Id="rk_vin_Fantasy" Name="Raddeck's LifePlay Fantasy Module [Remake Only]" Version="1.0.4" 
+    Path="Raddeck/rk_vin_Fantasy-1.0.4.zip" 
+    Description="LifePlay fantasy folder turn into a mod for the Remake." LatestUpdate="11-28-2022"/>
 
     <Mod Id="rk_Weed_biz" Name="Raddeck's Weed Business Module [Ready for Remake]" Version="1.0.8" 
     Path="Raddeck/rk_Weed_biz-1.0.8.zip" 
@@ -205,9 +205,9 @@
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
     Description="Adds weight gain and loss for player - NPCs" LatestUpdate="11-10-2022"/>
 
-    <Mod Id="sbrk_BeautyExpansion" Name="Raddeck's Beauty Expansion Module [Ready for Remake]" Version="1.6" 
-    Path="Raddeck/sbrk_BeautyExpansion-1.6.zip" 
-    Description="Rework of the mod Beauty Expansion. Beauty Additions for your companion" LatestUpdate="11-10-2022"/>
+    <Mod Id="sbrk_BeautyExpansion" Name="Raddeck's Beauty Expansion Module [Ready for Remake]" Version="1.7" 
+    Path="Raddeck/sbrk_BeautyExpansion-1.7.zip" 
+    Description="Rework of the mod Beauty Expansion. Beauty Additions for your companion" LatestUpdate="11-28-2022"/>
     
     <!-- RDL' mods (1) -->
     <Mod Id="rdl_timber" Name="RDL's Tinder style module" Version="0.1.0"
