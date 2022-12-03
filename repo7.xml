@@ -7,7 +7,7 @@
     Path="NickNo/nn_PornEmpire-0.7.2.zip"
     Description="Run your own porn company in LifePlay."
     Msg="Thanks for installing PornEmpire! If you find any bugs, please report on F95 or Discord. Thanks. - NickNo" LatestUpdate="11-10-2022" 
-    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=441"/>
+    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="" FullDescription="https://lifeplay.site/viewtopic.php?t=441" LPmodType="Mod" LpTag1="" LpTag2="" LpTag3=""/>
 
     <Mod Id="nn_NPCManager" Name="NPC Manager [Ready for Remake]" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
@@ -140,7 +140,7 @@
     
     <Mod Id="rk_MoreInteractions_Prison" Name="More Interactions in Prison Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Prison-1.0.0.zip" 
-    Description="Add more funny interactions into your cell!" 
+    Description="Add more fun interactions in your prison cell!&#x9; This mod adds extra scenes and actions that will make you less bored while waiting to be released." 
     Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" LatestUpdate="11-10-2022" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/9qzDQnQ/Prison-Cell1.png" FullDescription=""/>
     
