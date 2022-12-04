@@ -15,17 +15,17 @@
     <Mod Id="nn_NPCManager" Name="NPC Manager [Ready for Remake]" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
     Description="Manage NPCs, Relatives, Relationships etc. Use with care!&#xD;&#xD;Manage NPC-NPC or NPC-Player relationships&#xD;This little tool can help you to&#xD;- Set relationships between NPCs, relatives and/or the player (MC)&#xD;- Find 'lost' NPCs and add them to your contacts&#xD;- Delete all NPCs not in your contacts (To increase game performance)&#xD;- Delete ALL NPCs (even your contacts)&#xD;- Delete ALL Relatives" 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="28-11-2022" 
     ModRequireMods="-LifePlay 5.0" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?p=561" LPmodType="Mod" LpTag1="Manager" LpTag2="Tool" LpTag3="Relationships"/>
 
     <Mod Id="nn_HomeExpander" Name="Home Extensions" Version="0.4.1"
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
-    Description="Add more rooms and life to your home." 
-    LatestUpdate="11-10-2022" 
+    Description="Add more rooms and life to your home.&#xD;&#xD;This adds six 3D rooms to any Home - it also adds new scenes/locations for the bathroom.&#xD;Tow additional bedrooms can be let to other contacts / random NPCs.&#xD;The two optional bedrooms can be rent to NPCs.&#xD;If you do so, you will have some more life in your home and... maybe some interesting encounters :)" 
+    LatestUpdate="17-06-2022" 
     ModRequireMods="-LifePlay 5.0"
-    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="" 
+    ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/ssq7BPc/nn-he-intro.gif" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3=""/>
 
     <Mod Id="nn_GangsOfLifePlay" Name="Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.2"
@@ -47,19 +47,20 @@
     <!-- Mysterious Modder's Mods (1) -->
     <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.1" 
     Path="Meister/mm_Modules-1.0.1.zip" 
-    Description="My additional Modules. If you know me, you know what it's all about!" 
+    Description="My additional Modules. If you know me, you know what it's all about!&#xD;&#xD;Don't activate this mod!&#xD;Delete or backup existing Remake LifePlay folders, and replace them with mine.&#xD;Use LewdPatcher for LifePlay vanilla version." 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-The Remake Overhaul" Depends="rk_vin_Base" 
     Msg="Don't activate this mod! Delete or backup existing Remake LifePlay folders, and replace them with mine. Use LewdPatcher for LifePlay" 
-    ModderN="Mysterious Modder" ModUrlPage="https://lewdpatcher.com/" Thumbnail="" FullDescription="" LPmodType="Pack" LpTag1="Inc" LpTag2="Best" LpTag3="Non-Con"/>
+    ModderN="Mysterious Modder" ModUrlPage="https://lewdpatcher.com/" Thumbnail="" 
+    FullDescription="" LPmodType="Pack" LpTag1="Inc" LpTag2="Best" LpTag3="Non-Con"/>
     
     <!-- Mods (38) -->
     <Mod Id="rk_additional_activities" Name="Additional activities Module" Version="1.0.1" 
     Path="Raddeck/rk_additional_activities-1.0.1.zip" 
-    Description="Add additional scenes during all type of activities" 
+    Description="Add additional scenes during all type of activities&#xD;&#xD;" 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0"
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
+    ModderN="r8kie - Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=436" LPmodType="Mod" LpTag1="Events" LpTag2="" LpTag3=""/>
 
     <Mod Id="rk_Art_items_Shop" Name="Art Shop addon Module" Version="1.0.6" 
@@ -126,7 +127,7 @@
 
     <Mod Id="rk_Exclusive_Swinger_Club" Name="Exclusive Swinger Club Module" Version="1.0.1" 
     Path="Raddeck/rk_Exclusive_Swinger_Club-1.0.1.zip" 
-    Description="Take a membership to an exclusive swingers club related to your ethnicity!" 
+    Description="Take a membership to an exclusive swingers club related to your ethnicity!&#xD;&#xD;Subscribe to the club&#xD;Unsubscribe to the club&#xD;Threesome, foursome, cuckold and more to come." 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
@@ -134,16 +135,16 @@
 
     <Mod Id="rk_God_Mod" Name="God Mod Module [Ready for Remake]" Version="1.0.9" 
     Path="Raddeck/rk_God_Mod-1.0.9.zip" 
-    Description="Cheat all the way inside LifePlay!" 
+    Description="Cheat all the way inside LifePlay!&#xD;&#xD;The mod for cheating in LifePlay!&#xD;You need money faster, more skills, more items,....that's the mod you need!&#xD;Some options/stats from the game itself cannot be changed as this may create bugs or messed up your saves.&#xD;Some mods already have a cheating section, in that case, this mod will send you to these sections.&#xD;This mod will always expand by time.&#xD;If a new LifePlay mod appears, I will try to include is items/options." 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0"
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/pZ1yZJC/Searchroom.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=31" LPmodType="Mod" LpTag1="Cheat" LpTag2="" LpTag3=""/>
 
     <Mod Id="rk_Home_Inventories" Name="Home Inventories Module" Version="1.0.9" 
     Path="Raddeck/rk_Home_Inventories-1.0.9.zip" 
     Description="Better way to store your items - Focused on my mods items!" 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="24-08-2022" 
     ModRequireMods="-LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=39" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
@@ -205,14 +206,14 @@
     Path="Raddeck/rk_MoreRides-1.0.8.zip" 
     Description="Buy/sell/trade a bike and/or motorcycle!" 
     Msg="rk_Home_Inventories needed" 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="24-08-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories" Depends="rk_Home_Inventories" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=47" LPmodType="Mod" LpTag1="Shop" LpTag2="Vehicles" LpTag3=""/>
     
     <Mod Id="rk_MoreInteractions_Prison" Name="More Interactions in Prison Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Prison-1.0.0.zip" 
-    Description="Add more fun interactions in your prison cell!&#xD;This mod adds extra scenes and actions that will make you less bored while waiting to be released.&#xD;Add more fun interactions in your prison cell!&#xD;This mod adds extra scenes and actions that will make you less bored while waiting to be released." 
+    Description="Add more fun interactions in your prison cell!&#xD;This mod adds extra scenes and actions that will make you less bored while waiting to be released.&#xD;&#xD;If you don't like non-consensual content, it's not a mod for you!" 
     Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories&#xD;-rk_Personal_Inventories" Depends="rk_Home_Inventories" 
@@ -230,7 +231,7 @@
     
     <Mod Id="rk_MoreInteractions_Events" Name="More Interactions Events Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Events-1.0.0.zip" 
-    Description="Add more popup scenes variety to your game!" 
+    Description="Add more popup scenes variety to your game!&#xD;&#xD;If you don't like NTR content, it's not a mod for you!" 
     Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories&#xD;-rk_Personal_Inventories" Depends="rk_Home_Inventories" 
@@ -248,7 +249,7 @@
     
     <Mod Id="rk_MoreInteractions_Badass" Name="Badass Interactions Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Badass-1.0.0.zip" 
-    Description="Add more badass and naughty actions to your game!" 
+    Description="Add more badass and naughty actions to your game!&#xD;Add options to do silly things around the city.&#xD;Groping, offer from stranger, kiss companion,...&#xD;&#xD;If you don't like NTR content, it's not a mod for you!" 
     Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories&#xD;-rk_Personal_Inventories" Depends="rk_Home_Inventories" 
@@ -257,7 +258,7 @@
 
     <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.8" 
     Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
-    Description="New stories with your neighbours!" 
+    Description="New stories with your neighbours!&#xD;Add different stories, scenes and actions to the game." 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
@@ -265,7 +266,7 @@
 
     <Mod Id="rk_OnlineFoodShop" Name="Online Food shop Module [Ready for Remake]" Version="1.0.5" 
     Path="Raddeck/rk_OnlineFoodShop-1.0.5.zip" 
-    Description="Buy drinks and meals online - Focused on my mods!" 
+    Description="Buy drinks and meals online - Focused on my shop mods!&#xD;Adds an action to be able to do your grocery shopping online, instead of going directly to the store to buy your food." 
     Msg="rk_Home_Inventories needed or the Remake" 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories" Depends="rk_Home_Inventories" 
@@ -274,15 +275,15 @@
 
     <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Module" Version="1.0.9" 
     Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
-    Description="Better way to store your personal items - Focused on my mods items!" 
-    LatestUpdate="11-10-2022" 
+    Description="Better way to store your personal items - Focused on my mods items!&#xD;&#xD;This mod adds 2 new pockets and wallet inventories.&#xD;It allows you to better manage your items and also to reduce the number of items in the action menu." 
+    LatestUpdate="24-08-2022" 
     ModRequireMods="-LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=49" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
 
     <Mod Id="rk_PopCornsShop" Name="Pop corns Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
-    Description="Add options to buy/eat Pop corns !" 
+    Description="Add options to buy/eat Pop corns!" 
     Msg="rk_Home_Inventories needed" 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories" Depends="rk_Home_Inventories" 
@@ -344,8 +345,8 @@
 
     <Mod Id="rk_vin_Fantasy" Name="LifePlay Fantasy Module [Remake Only]" Version="1.0.3" 
     Path="Raddeck/rk_vin_Fantasy-1.0.3.zip" 
-    Description="LifePlay fantasy folder turn into a mod for the Remake." 
-    LatestUpdate="11-10-2022" 
+    Description="LifePlay fantasy folder turn into a mod for the Remake.&#xD;&#xD;This mod adds several scenes and actions to the game.&#xD;You can buy blood&#xD;You can drink blood&#xD;You got a blood stash" 
+    LatestUpdate="28-11-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-The Remake Overhaul" Depends="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="" LPmodType="Mod" LpTag1="Fantasy" LpTag2="" LpTag3=""/>
@@ -371,7 +372,7 @@
     <Mod Id="rk_WeightAndFitness" Name="Body Weight - Fitness Module" Version="1.0.1" 
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
     Description="Adds weight gain and loss for player - NPCs" 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="26-06-2022" 
     ModRequireMods="-LifePlay 5.0"
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=437" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
@@ -379,7 +380,7 @@
     <Mod Id="sbrk_BeautyExpansion" Name="Beauty Expansion Module [Ready for Remake]" Version="1.6" 
     Path="Raddeck/sbrk_BeautyExpansion-1.6.zip" 
     Description="Rework of the mod Beauty Expansion. Beauty Additions for your companion" 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="07-11-2022" 
     ModRequireMods="-LifePlay 5.0"
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=449" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
