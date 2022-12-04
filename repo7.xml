@@ -167,7 +167,7 @@
     Description="Add more fun interactions in your prison cell!&#xD;This mod adds extra scenes and actions that will make you less bored while waiting to be released.&#xD;Add more fun interactions in your prison cell!&#xD;This mod adds extra scenes and actions that will make you less bored while waiting to be released." 
     Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" LatestUpdate="11-10-2022" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/9qzDQnQ/Prison-Cell1.png" 
-    FullDescription=""  LPmodType="Mod" LpTag1="Prison" LpTag2="Non-Con" LpTag3="Guard" LPmodType="Mod" LpTag1="" LpTag2="" LpTag3=""/>
+    FullDescription="" LPmodType="Mod" LpTag1="Prison" LpTag2="Non-Con" LpTag3="Guard"/>
     
     <Mod Id="rk_MoreInteractions_Perso" Name="More personal Interactions Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Perso-1.0.0.zip" 
