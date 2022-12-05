@@ -30,7 +30,7 @@
 
     <Mod Id="nn_GangsOfLifePlay" Name="Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.2"
     Path="NickNo/nn_GangsOfLifePlay-0.2.2.zip"
-    Description="You are the boss. The crime boss!&#xD;&#xD;This WIP mod adds turn based combat to LifePlay.&#xD;&#xD;The battle system is already working and you have different weapons to choose from.&#xD;You can break into storage rooms of hostpitals, pharmacies etc and sell drugs & items to make money.&#xD;The mod extends the crime options that the base game has. If offers turn based combat for (currently one) opponent(s) and will allow gang and prostitution management." 
+    Description="You are the boss. The crime boss!&#xD;&#xD;This WIP mod adds turn based combat to LifePlay.&#xD;&#xD;The battle system is already working and you have different weapons to choose from.&#xD;You can break into storage rooms of hostpitals, pharmacies etc and sell drugs and items to make money.&#xD;The mod extends the crime options that the base game has. If offers turn based combat for (currently one) opponent(s) and will allow gang and prostitution management." 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0"
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/YZPMM90/nn-gl-deal-street.gif" 
@@ -371,7 +371,7 @@
 
     <Mod Id="rk_WeightAndFitness" Name="Body Weight - Fitness Module" Version="1.0.1" 
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
-    Description="Adds weight gain and loss for player - NPCs.&#xD;&#xD;A mod created by SexyBastardo and abandoned, that I decided to revive for those who like his mod.&#xD;&#xD;Adds weight gain and loss for player and NPCs&#xD;Adds weight gain and loss for player & NPCs&#xD;A mod that adds statistics to your and your dear's weight.&#xD;Depending on what you do, eat or drink, your weight will either decrease or increase." 
+    Description="Adds weight gain and loss for player - NPCs.&#xD;&#xD;A mod created by SexyBastardo and abandoned, that I decided to revive for those who like his mod.&#xD;&#xD;Adds weight gain and loss for player and NPCs&#xD;Adds weight gain and loss for player and NPCs&#xD;A mod that adds statistics to your and your dear's weight.&#xD;Depending on what you do, eat or drink, your weight will either decrease or increase." 
     LatestUpdate="26-06-2022" 
     ModRequireMods="-LifePlay 5.0"
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
