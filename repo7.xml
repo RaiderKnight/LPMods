@@ -86,7 +86,7 @@
     Description="Add options to deposit and withdraw money!&#xD;This mod allows you to accumulate more money to do your foolishness or just to enjoy yourself.&#xD;It gives you the option to borrow money from the bank." 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Personal_Inventories" Depends="rk_Personal_Inventories" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/qDp2SFz/Bank1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=34" LPmodType="Mod" LpTag1="Money" LpTag2="Improvement" LpTag3=""/>
 
     <Mod Id="rk_CigarsShop" Name="Cigars Shop Module" Version="1.0.6" 
@@ -104,7 +104,7 @@
     Msg="rk_Home_Inventories needed" 
     LatestUpdate="12-06-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories" Depends="rk_Home_Inventories" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/NF3rwrg/computer1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=36" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
 
     <Mod Id="rk_ConfectioneryShop" Name="Confectionery Shop Module" Version="1.0.7" 
@@ -155,7 +155,7 @@
     Msg="rk_Home_Inventories needed" 
     LatestUpdate="12-06-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories" Depends="rk_Home_Inventories" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=10" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
     <Mod Id="rk_JewelryShop" Name="Jewellery Shop Module" Version="1.0.6" 
@@ -181,7 +181,7 @@
     Msg="rk_Home_Inventories needed" 
     LatestUpdate="12-06-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories" Depends="rk_Home_Inventories" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/JtfVRT5/meat1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=42" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
     <Mod Id="rk_Mobile_Shop" Name="Mobile Shop Module" Version="1.0.9" 
@@ -190,7 +190,7 @@
     Msg="rk_Home_Inventories needed" 
     LatestUpdate="12-06-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories&#xD;-rk_Personal_Inventories" Depends="rk_Home_Inventories" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/51NSsjr/mobile1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=43" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
 
     <Mod Id="rk_MoneyMaker" Name="Money Maker Module" Version="1.0.10" 
@@ -313,7 +313,7 @@
     Msg="rk_Home_Inventories needed" 
     LatestUpdate="11-10-2022" 
     ModRequireMods="-LifePlay 5.0&#xD;-rk_Home_Inventories&#xD;-rk_Personal_Inventories" Depends="rk_Home_Inventories" 
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/dMLg8k2/guru1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=52" LPmodType="Mod" LpTag1="Religion" LpTag2="Guru" LpTag3=""/>
 
     <Mod Id="rk_ShopAddons" Name="Shop Addons Module" Version="1.0.8" 
