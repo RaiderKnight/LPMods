@@ -1,5 +1,5 @@
-# LPMods - ABANDONED
-<p>This is the mod repository for: https://github.com/RaiderKnight/RKModManager</p>
+# LPMods
+<p>This is the mod repository for: https://github.com/RaiderKnight/RKModManager and LifePlay Mods Flix</p>
 <br>
 <p>Only the best mods for LifePlay and those that are compatible with the Remake are added to this repo.</p>
 <p>A directory containing only unique, functional, well-built and maintained mods by different creators.<br>
