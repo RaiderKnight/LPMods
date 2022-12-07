@@ -45,7 +45,7 @@
     FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3=""/>
     
     <!-- Mysterious Modder's Mods (1) -->
-    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules &lt;b&gt;[Remake Only]&lt;/b&gt;" Version="1.0.3" 
+    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules <b>[Remake Only]</b>" Version="1.0.3" 
     Path="Meister/mm_Modules-1.0.3.zip" 
     Description="My additional Modules. If you know me, you know what it's all about!&#xD;&#xD;Don't activate this mod!&#xD;Delete or backup existing Remake LifePlay folders, and replace them with mine.&#xD;Use LewdPatcher for LifePlay vanilla version." 
     LatestUpdate="11-10-2022" 
