@@ -37,29 +37,30 @@ You must send me your mod via <a href="https://discord.gg/d3U9E2wb4Y">Discord</a
 <h3>XML Template to get your mod page displayed in LifePlay Mods Flix</h3><br>
 Visit this page for more details about each tags: https://lifeplay.site/viewtopic.php?t=457<br>
 
-> <Mod
-> Id=""               // ID of your mod
-> Name=""             // The name of your module
-> Version=""          // Version of your module
-> Path=""             // no need to provide it
-> Description=""      // 500 character max - Do &#xD; for changing line
-> LatestUpdate=""     // Latest update: Day-Month-Years
-> ModRequireMods=""   // Does your mod require any mods: Separate each mod with &#xD; Ex: -LifePlay 5.0&#xD;-nt_OtherMods
-> Depends=""          // Does your mod require any mods: Same but without styling ex: nt_OtherMods, gg_SpecialMod,...
-> Msg=""              // Will throw a popup message **Optional
-> ModderN=""          // Your modder's name
-> ModPatreon=""       // Your Patreon page url **Exclusive - Optional
-> ModUrlPage=""       // Your github page url **Optional
-> Thumbnail=""        // A thumbnail for you mod 350x350max - Hosted on https://imgbb.com/
-> FullDescription=""  //Your url topic page on the forum Raider Knight
-> LPmodType=""        // Type of your mod. A Mod or a Addon
-> LpTag1=""           // Category tag for your mod
-> LpTag2=""           // Category tag for your mod
-> LpTag3=""           // Category tag for your mod
-> isPatch=""          //Don't use it! - For special case only **Exclusive - Optional
-> ModContrib=""       // List of contributors separated by a comma **Optional
-> />
-
+```
+<Mod
+Id=""               // ID of your mod
+Name=""             // The name of your module
+Version=""          // Version of your module
+Path=""             // no need to provide it
+Description=""      // 500 character max - Do &#xD; for changing line
+LatestUpdate=""     // Latest update: Day-Month-Years
+ModRequireMods=""   // Does your mod require any mods: Separate each mod with &#xD; Ex: -LifePlay 5.0&#xD;-nt_OtherMods
+Depends=""          // Does your mod require any mods: Same but without styling ex: nt_OtherMods, gg_SpecialMod,...
+Msg=""              // Will throw a popup message **Optional
+ModderN=""          // Your modder's name
+ModPatreon=""       // Your Patreon page url **Exclusive - Optional
+ModUrlPage=""       // Your github page url **Optional
+Thumbnail=""        // A thumbnail for you mod 350x350max - Hosted on https://imgbb.com/
+FullDescription=""  //Your url topic page on the forum Raider Knight
+LPmodType=""        // Type of your mod. A Mod or a Addon
+LpTag1=""           // Category tag for your mod
+LpTag2=""           // Category tag for your mod
+LpTag3=""           // Category tag for your mod
+isPatch=""          //Don't use it! - For special case only **Exclusive - Optional
+ModContrib=""       // List of contributors separated by a comma **Optional
+/>
+```
 
 Thumbnail tag only accept: gif, jpg and png.
 <br>
