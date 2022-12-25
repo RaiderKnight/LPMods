@@ -256,10 +256,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="NTR" LpTag2="Events" LpTag3=""/>
 
-    <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.8" 
-    Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
+    <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.9" 
+    Path="Raddeck/rk_My_Neighbors-1.0.9.zip" 
     Description="New stories with your neighbours!&#xD;Add new interactions with your neighbours.&#xD;Contain 4 stories.&#xD;Contain 10 scenes.&#xD;Story about a naked gardener&#xD;Story about a new neighbour who need help for moving in.&#xD;Story about a neighbour who needs attention.&#xD;And more...&#xD;This mod will expand by time and also by suggestion made." 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="24-12-2022" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8rt5d64/MoveIn.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=46" LPmodType="Mod" LpTag1="Neighbours" LpTag2="Events" LpTag3=""/>

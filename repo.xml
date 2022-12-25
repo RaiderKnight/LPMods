@@ -140,8 +140,8 @@
     Description="Add more badass and naughty actions to your game!" 
     Msg="The mods rk_Home_Inventories and rk_Personal_Inventories are needed" LatestUpdate="11-10-2022"/>
 
-    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbours Module [Ready for Remake]" Version="1.0.8" 
-    Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
+    <Mod Id="rk_My_Neighbors" Name="Raddeck's My Neighbours Module [Ready for Remake]" Version="1.0.9" 
+    Path="Raddeck/rk_My_Neighbors-1.0.9.zip" 
     Description="New stories with your neighbours!" LatestUpdate="11-10-2022"/>
 
     <Mod Id="rk_OnlineFoodShop" Name="Raddeck's Online Food shop Module [Ready for Remake]" Version="1.0.5" 

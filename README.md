@@ -45,8 +45,8 @@ Version=""          // Version of your module
 Path=""             // no need to provide it
 Description=""      // 500 character max - Do &#xD; for changing line
 LatestUpdate=""     // Latest update: Day-Month-Years
-ModRequireMods=""   // Does your mod require any mods: Separate each mod with &#xD; Ex: -LifePlay 5.0&#xD;-nt_OtherMods
-Depends=""          // Does your mod require any mods: Same but without styling ex: nt_OtherMods, gg_SpecialMod,...
+ModRequireMods=""   // Does your mod require any mods: Separate each mod with a comma Ex: LifePlay 5.0,nt_OtherMods,...
+Depends=""          // Does your mod require a mod: Put only 1 mod Ex: nt_OtherMods - Optional
 Msg=""              // Will throw a popup message **Optional
 ModderN=""          // Your modder's name
 ModPatreon=""       // Your Patreon page url **Exclusive - Optional
@@ -54,9 +54,9 @@ ModUrlPage=""       // Your github page url **Optional
 Thumbnail=""        // A thumbnail for you mod 350x350max - Hosted on https://imgbb.com/
 FullDescription=""  //Your url topic page on the forum Raider Knight
 LPmodType=""        // Type of your mod. A Mod or a Addon
-LpTag1=""           // Category tag for your mod
-LpTag2=""           // Category tag for your mod
-LpTag3=""           // Category tag for your mod
+LpTag1=""           // Category tag for your mod - 1 word max
+LpTag2=""           // Category tag for your mod - 1 word max
+LpTag3=""           // Category tag for your mod - 1 word max
 isPatch=""          //Don't use it! - For special case only **Exclusive - Optional
 ModContrib=""       // List of contributors separated by a comma **Optional
 />
@@ -78,4 +78,6 @@ Thumbnail tag only accept: gif, jpg and png.
 </ul>
 <br>
 <hr>
+<br>
+<p>Disclaimer: I am not affiliated with any of the mods presented here or their authors, nor with LifePlay. All code, text, lpworlds, etc are the property of their respective owners. You use this tool at your own risk.</p>
 <br>
