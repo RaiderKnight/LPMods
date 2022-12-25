@@ -25,8 +25,8 @@
     Path="NickNo/nn_VB_HomeExpander-1.0.3.zip"
     Description="Add more rooms and life to your home." LatestUpdate="11-10-2022"/>
     <!-- Mysterious Modder's Mods (1) -->
-    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.4" 
-    Path="Meister/mm_Modules-1.0.4.zip" 
+    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.5" 
+    Path="Meister/mm_Modules-1.0.5.zip" 
     Description="My additional Modules. If you know me, you know what it's all about!"
     Msg="Don't activate this mod! Delete or backup existing Remake LifePlay folders, and replace them with mine. Use LewdPatcher for LifePlay" LatestUpdate="11-10-2022"/>
     
