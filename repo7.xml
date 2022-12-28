@@ -1,5 +1,5 @@
 <Repo>
-    <!-- #Current LifePlay Version: 5.18 -->
+    <!-- #Current LifePlay Version: 5.19 -->
     <!-- #Current Launcher Version: 1.4.9 -->
     <!-- #RepoUpdated: 18122022 -->
     <!-- NickNo's Mods (5) -->
@@ -283,7 +283,7 @@
 
     <Mod Id="rk_PopCornsShop" Name="Pop corns Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
-    Description="Add options to buy/eat popcorns at different places around the city.&#xD;4 popcorns to choose.&#xD;Contain 4 scenes." 
+    Description="Add options to buy/eat popcorn at different places around the city.&#xD;4 popcorn to choose.&#xD;Contain 4 scenes." 
     Msg="rk_Home_Inventories needed" 
     LatestUpdate="12-06-2022" 
     ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
