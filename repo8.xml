@@ -1,8 +1,8 @@
 <Repo>
-    <!-- #Current LifePlay Version: 5.17 -->
+    <!-- #Current LifePlay Version: 5.19 -->
     <!-- #Current Launcher Version: 1.4.9 -->
-    <!-- #RepoUpdated: 12122022 -->
-    <!-- NickNo's Mods (5) -->
+    <!-- #RepoUpdated: 20230103 -->
+    <!-- NickNo's Mods (5) y-m-d -->
     <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.2"
     Path="NickNo/nn_PornEmpire-0.7.2.zip"
     Description="Run your own porn company in LifePlay.&#xD;&#xD;PornEmpire is a LifePlay mod that lets you run your own porn business in LifePlay. Its a management sim, so expect it to be challenging.&#xD;Manage models, create videos to sell them online, organize cam shows and castings.&#xD;The mod has many custom 3D scenes, NPC creator with body morphs and 30 model presets."
@@ -45,16 +45,24 @@
     FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3=""/>
     
     <!-- Mysterious Modder's Mods (1) -->
-    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.4" 
-    Path="Meister/mm_Modules-1.0.4.zip" 
-    Description="My additional Modules. If you know me, you know what it's all about!&#xD;&#xD;Don't activate this mod!&#xD;Delete or backup existing Remake LifePlay folders, and replace them with mine.&#xD;Use LewdPatcher for LifePlay vanilla version." 
-    LatestUpdate="11-10-2022" 
+    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.6" 
+    Path="Meister/mm_Modules-1.0.6.zip" 
+    Description="My additional hardcore Modules. If you know me, you know what it's all about!&#xD;&#xD;Don't activate this mod!&#xD;Let the application do the job for you..&#xD;&#xD;These mods are ONLY COMPATIBLE WITH THE REMAKE&#xD;These mods add more scenes and actions.&#xD;Use LewdPatcher for LifePlay vanilla version." 
+    LatestUpdate="24-12-2022" 
     ModRequireMods="LifePlay 5.0,The Remake Overhaul" Depends="rk_vin_Base" 
-    Msg="Don't activate this mod! Delete or backup existing Remake LifePlay folders, and replace them with mine. Use LewdPatcher for LifePlay" 
+    Msg="Don't activate this mod! Let the application do the job for you.&#xD;Use LewdPatcher for LifePlay vanilla version" 
     ModderN="Mysterious Modder" ModUrlPage="https://lewdpatcher.com/" Thumbnail="" 
     FullDescription="" LPmodType="Pack" LpTag1="Inc" LpTag2="Best" LpTag3="Non-Con"/>
     
     <!-- Mods (38) -->
+    <Mod Id="rk_vin_Base" Name="The LifePlay Remake Overhaul" Version="2.0.11" 
+    Path="Raddeck/Remake1Modules.zip" 
+    Description="" 
+    LatestUpdate="02-01-2023" 
+    ModRequireMods="LifePlay 5.0"
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight/RK-Vin-Base" Thumbnail="" 
+    FullDescription="https://lifeplay.site/viewtopic.php?t=399" LPmodType="Overhaul" LpTag1="Remake" LpTag2="" LpTag3=""/>
+    
     <Mod Id="rk_additional_activities" Name="Additional activities Module" Version="1.0.1" 
     Path="Raddeck/rk_additional_activities-1.0.1.zip" 
     Description="Add additional scenes during all type of activities&#xD;&#xD;A mod created by r8kie and abandoned, which I decided to revive for those who like his mod.&#xD;&#xD;Adds extra scenes during certain types of activities&#xD;The mod contain no lpaction files, only lpscenes.&#xD;The mod offer 18 new scenes about board games, mysterious events and more" 
@@ -256,10 +264,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="NTR" LpTag2="Events" LpTag3=""/>
 
-    <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.8" 
-    Path="Raddeck/rk_My_Neighbors-1.0.8.zip" 
+    <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.9" 
+    Path="Raddeck/rk_My_Neighbors-1.0.9.zip" 
     Description="New stories with your neighbours!&#xD;Add new interactions with your neighbours.&#xD;Contain 4 stories.&#xD;Contain 10 scenes.&#xD;Story about a naked gardener&#xD;Story about a new neighbour who need help for moving in.&#xD;Story about a neighbour who needs attention.&#xD;And more...&#xD;This mod will expand by time and also by suggestion made." 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="24-12-2022" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8rt5d64/MoveIn.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=46" LPmodType="Mod" LpTag1="Neighbours" LpTag2="Events" LpTag3=""/>
@@ -283,7 +291,7 @@
 
     <Mod Id="rk_PopCornsShop" Name="Pop corns Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
-    Description="Add options to buy/eat popcorns at different places around the city.&#xD;4 popcorns to choose.&#xD;Contain 4 scenes." 
+    Description="Add options to buy/eat popcorn at different places around the city.&#xD;4 popcorn to choose.&#xD;Contain 4 scenes." 
     Msg="rk_Home_Inventories needed" 
     LatestUpdate="12-06-2022" 
     ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
@@ -405,16 +413,16 @@
 
     <!-- Yarla's Mods (2) -->
     <Mod Id="yarla_CharacterPack1" Name="Yarla's Character Pack"
-    Description="20 male and female character presets"
-    Version="1.1" Path="Yarla/yarla_characterpack.zip" 
+    Description="20 male and female character presets" Version="1.1" 
+    Path="Yarla/yarla_characterpack.zip" 
     LatestUpdate="06-10-2021" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Yarla" ModPatreon="" ModUrlPage="" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewforum.php?f=13" LPmodType="Addon" LpTag1="lpcharacter" LpTag2="Presets" LpTag3=""/>
 
     <Mod Id="yarla_CharacterPack2" Name="Yarla's Character Pack 2"
-    Description="28 male and female character presets"
-    Version="1.0" Path="Yarla/yarla_characterpack2.zip" 
+    Description="28 male and female character presets" Version="1.0" 
+    Path="Yarla/yarla_characterpack2.zip" 
     LatestUpdate="06-10-2021" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Yarla" ModPatreon="" ModUrlPage="" Thumbnail="" 
@@ -422,8 +430,8 @@
 
     <!-- n1ck's mods (1) -->
     <Mod Id="n1ck_DazPresets" Name="N1ck's Character presets"
-    Description="13 male and female characters and 44 presets"
-    Version="1.0" Path="n1ck/n1ck_DazPresets.zip" 
+    Description="13 male and female characters and 44 presets" Version="1.0" 
+    Path="n1ck/n1ck_DazPresets.zip" 
     LatestUpdate="06-10-2022" 
     ModRequireMods="LifePlay 5.0"
     ModderN="n1ck" ModPatreon="" ModUrlPage="" Thumbnail="" 
