@@ -1,6 +1,5 @@
 <Repo>
     <!-- #Current LifePlay Version: 5.19 -->
-    <!-- #Current Launcher Version: 1.4.9 -->
     <!-- #RepoUpdated: 20230103 -->
     <!-- NickNo's Mods (5) y-m-d -->
     <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.2"
@@ -10,7 +9,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="LifePlay 5.0" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/qrfk8gM/nn-pe-do-shoot211.jpg" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=441" LPmodType="Mod" LpTag1="Business" LpTag2="Empire" LpTag3=""/>
+    FullDescription="https://lifeplay.site/viewtopic.php?t=441" LPmodType="Mod" LpTag1="Business" LpTag2="Empire" LpTag3="Remake"/>
 
     <Mod Id="nn_NPCManager" Name="NPC Manager [Ready for Remake]" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
@@ -18,7 +17,7 @@
     LatestUpdate="28-11-2022" 
     ModRequireMods="LifePlay 5.0" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?p=561" LPmodType="Mod" LpTag1="Manager" LpTag2="Tool" LpTag3="Relationships"/>
+    FullDescription="https://lifeplay.site/viewtopic.php?p=561" LPmodType="Mod" LpTag1="Relationships" LpTag2="Tool" LpTag3="Remake"/>
 
     <Mod Id="nn_HomeExpander" Name="Home Extensions" Version="0.4.1"
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
@@ -34,7 +33,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="LifePlay 5.0"
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/YZPMM90/nn-gl-deal-street.gif" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=440" LPmodType="Mod" LpTag1="Gang" LpTag2="Crime" LpTag3="Business"/>
+    FullDescription="https://lifeplay.site/viewtopic.php?t=440" LPmodType="Mod" LpTag1="Gang" LpTag2="Business" LpTag3="Remake"/>
 
     <Mod Id="nn_VB_HomeExpander" Name="Home Extensions [Remake Only]" Version="1.0.3"
     Path="NickNo/nn_VB_HomeExpander-1.0.3.zip"
@@ -42,7 +41,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="LifePlay 5.0,The Remake Overhaul" Depends="rk_vin_Base" 
     ModderN="NickNo - Raddeck" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="https://i.ibb.co/ssq7BPc/nn-he-intro.gif" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3=""/>
+    FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3="Remake"/>
     
     <!-- Mysterious Modder's Mods (1) -->
     <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.6" 
@@ -51,16 +50,16 @@
     LatestUpdate="24-12-2022" 
     ModRequireMods="LifePlay 5.0,The Remake Overhaul" Depends="rk_vin_Base"  
     ModderN="Mysterious Modder" ModUrlPage="https://lewdpatcher.com/" Thumbnail="" 
-    FullDescription="" LPmodType="Pack" LpTag1="Inc" LpTag2="Best" LpTag3="Non-Con"/>
+    FullDescription="" LPmodType="Pack" LpTag1="Myst" LpTag2="Remake" LpTag3=""/>
     
     <!-- Mods (39) -->
-    <Mod Id="rk_vin_Base" Name="The LifePlay Remake [Overhaul]" Version="2.0.11" 
+    <Mod Id="rk_vin_Base" Name="The LifePlay Remake [Overhaul]" Version="2.0.10" 
     Path="Raddeck/Remake1Modules.zip" 
-    Description="Total remake of the LifePlay content, containing more completed/fixed scenes, less popup scenes, menu user with fewer elements (group actions/scenes into a single element), ...&#xD;&#xD;- Almost all files inside vin_ folders have been edited.&#xD;- Contain 75% more content and 40% more items.&#xD;- Universities have a purpose.&#xD;- More items to buy/eat/sale or trade, most of them have a purpose.&#xD;- New stats (hunger, urge to pee, sexual,...).&#xD;- More actions, choices, consequence and possibilities&#xD;- More activities and jobs.&#xD;- You can buy an alarm system and/or train your dog to protect you.&#xD;- And a lot more...&#xD;- Updated almost every week.&#xD;-Total remake of the LifePlay content, containing more completed/fixed scenes, less popup scenes, menu us&#xD;-Total remake of the LifePlay content, containing more completed/fixed scenes, less popup scenes, menu us&#xD;-Total remake of the LifePlay content, containing more completed/fixed scenes, less popup scenes, menu us" 
+    Description="Total remake of the LifePlay content, containing more completed/fixed scenes, less popup scenes, menu user with fewer elements (group actions/scenes into a single element)&#xD;&#xD;- Almost all files inside vin_ folders have been edited.&#xD;- Contain 75% more content and 40% more items.&#xD;- Universities have a purpose.&#xD;- More items to buy/eat/sale or trade, most of them have a purpose.&#xD;- New stats (hunger, urge to pee, sexual,...).&#xD;- More actions, choices, consequence and possibilities&#xD;- More activities and jobs.&#xD;- You can buy an alarm system and/or train your dog to protect you.&#xD;- And a lot more...&#xD;- Updated almost every week." 
     Msg="Thanks for installing the Remake!&#xD;If you find any bugs, please report on forums Raider Knight or my Discord.&#xD;Thanks. - Raddeck" 
-    LatestUpdate="02-01-2023" 
+    LatestUpdate="23-12-2022" 
     ModRequireMods="LifePlay 5.0"
-    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight/RK-Vin-Base" Thumbnail="" 
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight/RK-Vin-Base" Thumbnail="https://i.ibb.co/6nFzP5j/bigRlp.gif" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=399" LPmodType="Overhaul" LpTag1="Remake" LpTag2="" LpTag3=""/>
     
     <Mod Id="rk_additional_activities" Name="Additional activities Module" Version="1.0.1" 
@@ -141,7 +140,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/pZ1yZJC/Searchroom.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=31" LPmodType="Mod" LpTag1="Cheat" LpTag2="" LpTag3=""/>
+    FullDescription="https://lifeplay.site/viewtopic.php?t=31" LPmodType="Mod" LpTag1="Cheat" LpTag2="Remake" LpTag3=""/>
 
     <Mod Id="rk_Home_Inventories" Name="Home Inventories Module" Version="1.0.9" 
     Path="Raddeck/rk_Home_Inventories-1.0.9.zip" 
@@ -253,7 +252,7 @@
     LatestUpdate="24-12-2022" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8rt5d64/MoveIn.jpg" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=46" LPmodType="Mod" LpTag1="Neighbours" LpTag2="Events" LpTag3=""/>
+    FullDescription="https://lifeplay.site/viewtopic.php?t=46" LPmodType="Mod" LpTag1="Neighbours" LpTag2="Events" LpTag3="Remake"/>
 
     <Mod Id="rk_OnlineFoodShop" Name="Online Food shop Module [Ready for Remake]" Version="1.0.5" 
     Path="Raddeck/rk_OnlineFoodShop-1.0.5.zip" 
@@ -261,7 +260,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/1sz3szm/Online-Food-Shop.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=48" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
+    FullDescription="https://lifeplay.site/viewtopic.php?t=48" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3="Remake"/>
 
     <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Module" Version="1.0.9" 
     Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
@@ -301,7 +300,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/dMLg8k2/guru1.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=52" LPmodType="Mod" LpTag1="Religion" LpTag2="Guru" LpTag3=""/>
+    FullDescription="https://lifeplay.site/viewtopic.php?t=52" LPmodType="Mod" LpTag1="Religion" LpTag2="Guru" LpTag3="Remake"/>
 
     <Mod Id="rk_ShopAddons" Name="Shop Addons Module" Version="1.0.8" 
     Path="Raddeck/rk_ShopAddons-1.0.8.zip" 
@@ -333,7 +332,7 @@
     LatestUpdate="28-11-2022" 
     ModRequireMods="LifePlay 5.0,The Remake Overhaul" Depends="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="" LPmodType="Mod" LpTag1="Fantasy" LpTag2="" LpTag3=""/>
+    FullDescription="" LPmodType="Mod" LpTag1="Fantasy" LpTag2="Remake" LpTag3=""/>
 
     <Mod Id="rk_Weed_biz" Name="Weed Business Module [Ready for Remake]" Version="1.0.8" 
     Path="Raddeck/rk_Weed_biz-1.0.8.zip" 
@@ -341,7 +340,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="LifePlay 5.0,nn_GangsOfLifePlay,rk_Home_Inventories,rk_Personal_Inventories" Depends="nn_GangsOfLifePlay" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ZLF5nnY/Office-Bunker.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=57" LPmodType="Mod" LpTag1="Business" LpTag2="Crime" LpTag3=""/>
+    FullDescription="https://lifeplay.site/viewtopic.php?t=57" LPmodType="Mod" LpTag1="Business" LpTag2="Crime" LpTag3="Remake"/>
 
     <Mod Id="rk_WeedShop" Name="Weed Shop Module" Version="1.0.7" 
     Path="Raddeck/rk_WeedShop-1.0.7.zip" 
@@ -365,7 +364,7 @@
     LatestUpdate="07-11-2022" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=449" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
+    FullDescription="https://lifeplay.site/viewtopic.php?t=449" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3="Remake"/>
     
     <!-- RDL' mods (1) -->
     <Mod Id="rdl_timber" Name="Tinder style module" Version="0.1.0"
