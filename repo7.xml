@@ -74,7 +74,7 @@
     Path="Raddeck/rk_Art_items_Shop-1.0.6.zip" 
     Description="This mod offers you the possibility to buy works of art in certain stores in your city.&#xD;You can sell and trade art items at some places around the city.&#xD;8 types of art items to buy.&#xD;Contain 1 scene, at the moment.&#xD;You can buy them at these stores: art, marketplace, gift" 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/VLxnKLM/ArtShop.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=32" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3=""/>
 
@@ -82,7 +82,7 @@
     Path="Raddeck/rk_BakeryShop-1.0.9.zip" 
     Description="Add options to buy/eat pastry and bread!&#xD;This mod offers you the possibility to buy/eat bakery products of quality in certain stores in your city.&#xD;8 types of bakery products.&#xD;Apply to a job at an erotic bakery shop...&#xD;You can buy bakery products at these stores:&#xD; bakery, greengrocer, marketplace, supermarket, variety_store" 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ss3nCqR/Bakery-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=33" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
@@ -90,7 +90,7 @@
     Path="Raddeck/rk_Bank_shop-1.0.6.zip" 
     Description="Add options to deposit and withdraw money!&#xD;This mod allows you to accumulate more money to do your foolishness or just to enjoy yourself.&#xD;It gives you the option to borrow money from the bank." 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_MoneyMaker" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/qDp2SFz/Bank1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=34" LPmodType="Mod" LpTag1="Money" LpTag2="Improvement" LpTag3=""/>
 
@@ -98,7 +98,7 @@
     Path="Raddeck/rk_CigarsShop-1.0.6.zip" 
     Description="Add options to buy and for smoking Cigars at different places around the city.&#xD;5 brands of the best cigars.&#xD;Contain only 2 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=35" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
@@ -106,7 +106,7 @@
     Path="Raddeck/rk_Computer_Shop-1.0.8.zip" 
     Description="Add options to buy a computer at some stores around the city.&#xD;4 types of computer to buy.&#xD;Contain 1 scene, at the moment." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/NF3rwrg/computer1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=36" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
 
@@ -114,7 +114,7 @@
     Path="Raddeck/rk_ConfectioneryShop-1.0.7.zip" 
     Description="Add options to buy/eat candies at different places around the city.&#xD;8 types of candy.&#xD;Contain 3 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8dCG8tv/Candy-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=37" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
     
@@ -122,7 +122,7 @@
     Path="Raddeck/rk_EroticShop-1.0.9.zip" 
     Description="Add options to buy erotic products at different places around the city.&#xD;7 types of erotic product, 4 variety for each types.&#xD;1 adult toy box.&#xD;You can play with most of the toys.&#xD;At the moment, you cannot use all of them separately... next updates, if Vin add animations for it." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories"
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/CbPFffK/Erotic-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=38" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3="Beauty"/>
 
@@ -154,7 +154,7 @@
     Path="Raddeck/rk_IceCreamShop-1.0.8.zip" 
     Description="This mod gives you the possibility to buy frozen desserts in different stores.&#xD;There are 5 types of frozen treats to choose from.&#xD;Once you have purchased a dessert, it will automatically be added to your inventory. Then you can enjoy them at home.&#xD;Some shops and others, offer you the possibility to eat on site.&#xD;Contain 3 files." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=10" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
@@ -162,7 +162,7 @@
     Path="Raddeck/rk_JewelryShop-1.0.6.zip" 
     Description="Buy,trade or sell jewellery and few extras !&#xD;Add options to buy, sell and trade jewellery at some places around the city.&#xD;8 types of jewelry to buy.&#xD;Contain 2 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_MoneyMaker" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/x6234Gw/Jewelry-Shop.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=40" LPmodType="Mod" LpTag1="Shop" LpTag2="Beauty" LpTag3="Accessory"/>
 
@@ -178,7 +178,7 @@
     Path="Raddeck/rk_MeatShop-1.0.6.zip" 
     Description="Add options to buy/eat meaty meals at different places around the city.&#xD;8 types of meals with meat.&#xD;Each dish you eat will increase or decrease your stats.&#xD;Contain 3 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/JtfVRT5/meat1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=42" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
@@ -186,7 +186,7 @@
     Path="Raddeck/rk_Mobile_Shop-1.0.9.zip" 
     Description="Add options to buy a phone at some stores around the city.&#xD;4 types of phone to buy.&#xD;Contain 1 scene, at the moment." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/51NSsjr/mobile1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=43" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
 
@@ -274,7 +274,7 @@
     Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
     Description="Add options to buy/eat popcorn at different places around the city.&#xD;4 popcorn to choose.&#xD;Contain 4 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=50" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
@@ -290,7 +290,7 @@
     Path="Raddeck/rk_SeaFoodShop-1.0.7.zip" 
     Description="Add options to buy/eat seafood at different places around the city.&#xD;5 seafood meals to choose.&#xD;Each meals gives you some bonus.&#xD;Contain 4 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SNCy3QL/Seafood-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=51" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
@@ -314,7 +314,7 @@
     Path="Raddeck/rk_VapeShop-1.0.6.zip" 
     Description="Add options to buy/smoke vape juices at different places around the city.&#xD;5 flavors to choose.&#xD;Contain 2 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/tXmG9vX/VapeShop.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=54" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
@@ -322,7 +322,7 @@
     Path="Raddeck/rk_VeganShop-1.0.9.zip" 
     Description="Add options to buy/eat vegan meals at different places around the city.&#xD;8 vegan meals to choose.&#xD;Each meals gives you different stats bonus.&#xD;Contain 7 scenes." 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/0MJgRQN/Vegan-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=55" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
@@ -346,7 +346,7 @@
     Path="Raddeck/rk_WeedShop-1.0.7.zip" 
     Description="Add options to buy/smoke weed at different places around the city.&#xD;8 flavors to choose from.&#xD;Contain 2 scenes.&#xD;Contain 1 scenes locked until you get black market skills." 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SdN5hH1/WeedShop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=56" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
