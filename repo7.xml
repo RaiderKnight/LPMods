@@ -266,7 +266,7 @@
     Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
     Description="Better way to store your personal items - Focused on my mods items!&#xD;&#xD;This mod adds 2 new pockets and wallet inventories.&#xD;It allows you to better manage your items and also to reduce the number of items in the action menu." 
     LatestUpdate="24-08-2022" 
-    ModRequireMods="LifePlay 5.0"ModsConflict="rk_vin_Base" 
+    ModRequireMods="LifePlay 5.0" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=49" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
 
