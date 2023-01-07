@@ -74,7 +74,7 @@
     Path="Raddeck/rk_Art_items_Shop-1.0.6.zip" 
     Description="This mod offers you the possibility to buy works of art in certain stores in your city.&#xD;You can sell and trade art items at some places around the city.&#xD;8 types of art items to buy.&#xD;Contain 1 scene, at the moment.&#xD;You can buy them at these stores: art, marketplace, gift" 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_MoneyMaker, rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/VLxnKLM/ArtShop.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=32" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3=""/>
 
@@ -146,7 +146,7 @@
     Path="Raddeck/rk_Home_Inventories-1.0.9.zip" 
     Description="Better way to store your items - Focused on my mods items!&#xD;&#xD;Attempt to reduce the number of items in the action menu.&#xD;It allows you to have your items classified by categories.&#xD;Some inventories become active only if the Home Extensions mod is activated." 
     LatestUpdate="24-08-2022" 
-    ModRequireMods="LifePlay 5.0"
+    ModRequireMods="LifePlay 5.0" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=39" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
 
@@ -194,7 +194,7 @@
     Path="Raddeck/rk_MoneyMaker-1.0.10.zip" 
     Description="3 mods that I made to make money, in one package.&#xD;Add the possibility to deposit and withdraw money at the bank.&#xD;You can buy/sell/trade jewelry, separately.&#xD;You can buy/sell/trade arts.&#xD;8 types of jewelry&#xD;8 types of arts." 
     LatestUpdate="24-08-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,vim_RoomPresets" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,vim_RoomPresets" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=44" LPmodType="Mod" LpTag1="Money" LpTag2="Bundle" LpTag3=""/>
 
@@ -202,7 +202,7 @@
     Path="Raddeck/rk_MoreRides-1.0.8.zip" 
     Description="Add the possibility to buy/sell/trade a motorcycle separately.&#xD;Add the possibility to buy/sell/trade a bicycle separately.&#xD;Add the possibility to buy/sell/trade a car.&#xD;8 motorcycle brands.&#xD;8 bicycle brands.&#xD;7 car brands.&#xD;Also can buy with sex if your lucky." 
     LatestUpdate="24-08-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=47" LPmodType="Mod" LpTag1="Shop" LpTag2="Vehicles" LpTag3=""/>
     
@@ -210,7 +210,7 @@
     Path="Raddeck/rk_MoreInteractions_Prison-1.0.0.zip" 
     Description="Add more fun interactions in your prison cell!&#xD;This mod adds extra scenes and actions that will make you less bored while waiting to be released.&#xD;&#xD;If you don't like non-consensual content, it's not a mod for you!" 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/9qzDQnQ/Prison-Cell1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Prison" LpTag2="Non-Con" LpTag3="Guard"/>
     
@@ -218,7 +218,7 @@
     Path="Raddeck/rk_MoreInteractions_Perso-1.0.0.zip" 
     Description="Adds actions and scenes related to your daily life!&#xD;You will able to buy and takes viagra&#xD;Have a sensual massage&#xD;Train your dog&#xD;And more to come...&#xD;Contain 9 new scenes&#xD;Contain 2 new stats&#xD;Contain 12 new actions" 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Beauty" LpTag2="Events" LpTag3=""/>
     
@@ -226,7 +226,7 @@
     Path="Raddeck/rk_MoreInteractions_Events-1.0.0.zip" 
     Description="Add more popup scenes variety to your game!&#xD;This mod adds more NTR scenes in particular.&#xD;15 different events that can occur depending on your location or action.&#xD;If you don't like NTR content, it's not a mod for you!" 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/JKC9JBq/danseN.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Events" LpTag2="" LpTag3=""/>
     
@@ -234,7 +234,7 @@
     Path="Raddeck/rk_MoreInteractions_Lovers-1.0.0.zip" 
     Description="Add more actions and consequences to your love relationship.&#xD;Parties, all kinds of serious and wacky proposals, love, cheating, and much more to come!&#xD;Contain 22 scenes&#xD;Contain 25 actions" 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Dating" LpTag2="Events" LpTag3=""/>
     
@@ -242,7 +242,7 @@
     Path="Raddeck/rk_MoreInteractions_Badass-1.0.0.zip" 
     Description="Add more badass and naughty actions to your game!&#xD;Add options to do silly things around the city.&#xD;Groping, offer from stranger, kiss companion,...&#xD;&#xD;If you don't like NTR content, it's not a mod for you!" 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="NTR" LpTag2="Events" LpTag3=""/>
 
@@ -266,7 +266,7 @@
     Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
     Description="Better way to store your personal items - Focused on my mods items!&#xD;&#xD;This mod adds 2 new pockets and wallet inventories.&#xD;It allows you to better manage your items and also to reduce the number of items in the action menu." 
     LatestUpdate="24-08-2022" 
-    ModRequireMods="LifePlay 5.0"
+    ModRequireMods="LifePlay 5.0"ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=49" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
 
@@ -306,7 +306,7 @@
     Path="Raddeck/rk_ShopAddons-1.0.8.zip" 
     Description="All the mods I made for shopping / eating in the city, in one.&#xD;Add more options to buy / eat different consumable items in the city.&#xD;Contain 5 types of inventory (adult toy box, freezer, pantry, pockets and refrigerator)&#xD;Contain 34 scenes.&#xD;Contain 1 scenes locked until you get black market skills.&#xD;This mod contains all my mini-shops/mods" 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/KDDdNdd/Shop-Addons.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=53" LPmodType="Mod" LpTag1="Bundle" LpTag2="Shop" LpTag3=""/>
 
@@ -354,7 +354,7 @@
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
     Description="Adds weight gain and loss for player - NPCs.&#xD;&#xD;A mod created by SexyBastardo and abandoned, that I decided to revive for those who like his mod.&#xD;&#xD;Adds weight gain and loss for player and NPCs&#xD;Adds weight gain and loss for player and NPCs&#xD;A mod that adds statistics to your and your dear's weight.&#xD;Depending on what you do, eat or drink, your weight will either decrease or increase." 
     LatestUpdate="26-06-2022" 
-    ModRequireMods="LifePlay 5.0"
+    ModRequireMods="LifePlay 5.0" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=437" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
 
