@@ -1,12 +1,12 @@
 <Repo>
-    <!-- #Current LifePlay Version: 5.19 -->
-    <!-- #RepoUpdated: 20230103 -->
+    <!-- #Current LifePlay Version: 5.20 -->
+    <!-- #RepoUpdated: 20230108 -->
     <!-- NickNo's Mods (5) y-m-d -->
-    <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.2"
-    Path="NickNo/nn_PornEmpire-0.7.2.zip"
+    <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.3"
+    Path="NickNo/nn_PornEmpire-0.7.3.zip"
     Description="Run your own porn company in LifePlay.&#xD;&#xD;PornEmpire is a LifePlay mod that lets you run your own porn business in LifePlay. Its a management sim, so expect it to be challenging.&#xD;Manage models, create videos to sell them online, organize cam shows and castings.&#xD;The mod has many custom 3D scenes, NPC creator with body morphs and 30 model presets."
     Msg="Thanks for installing PornEmpire! If you find any bugs, please report on F95 or Discord. Thanks. - NickNo" 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="08-01-2023" 
     ModRequireMods="LifePlay 5.0" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/qrfk8gM/nn-pe-do-shoot211.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=441" LPmodType="Mod" LpTag1="Business" LpTag2="Empire" LpTag3="Remake"/>
@@ -23,41 +23,41 @@
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
     Description="Add more rooms and life to your home.&#xD;&#xD;This adds six 3D rooms to any Home - it also adds new scenes/locations for the bathroom.&#xD;Tow additional bedrooms can be let to other contacts / random NPCs.&#xD;The two optional bedrooms can be rent to NPCs.&#xD;If you do so, you will have some more life in your home and... maybe some interesting encounters :)" 
     LatestUpdate="17-06-2022" 
-    ModRequireMods="LifePlay 5.0"
+    ModRequireMods="LifePlay 5.0" ModsConflict="rk_vin_Base" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/ssq7BPc/nn-he-intro.gif" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3=""/>
 
-    <Mod Id="nn_GangsOfLifePlay" Name="Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.2"
-    Path="NickNo/nn_GangsOfLifePlay-0.2.2.zip"
+    <Mod Id="nn_GangsOfLifePlay" Name="Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.3"
+    Path="NickNo/nn_GangsOfLifePlay-0.2.3.zip"
     Description="You are the boss. The crime boss!&#xD;&#xD;This WIP mod adds turn based combat to LifePlay.&#xD;&#xD;The battle system is already working and you have different weapons to choose from.&#xD;You can break into storage rooms of hostpitals, pharmacies etc and sell drugs and items to make money.&#xD;The mod extends the crime options that the base game has. If offers turn based combat for (currently one) opponent(s) and will allow gang and prostitution management." 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="08-01-2023" 
     ModRequireMods="LifePlay 5.0"
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/YZPMM90/nn-gl-deal-street.gif" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=440" LPmodType="Mod" LpTag1="Gang" LpTag2="Business" LpTag3="Remake"/>
 
-    <Mod Id="nn_VB_HomeExpander" Name="Home Extensions [Remake Only]" Version="1.0.3"
-    Path="NickNo/nn_VB_HomeExpander-1.0.3.zip"
+    <Mod Id="nn_VB_HomeExpander" Name="Home Extensions [Remake Only]" Version="1.0.4"
+    Path="NickNo/nn_VB_HomeExpander-1.0.4.zip"
     Description="Add more rooms and life to your home.&#xD;&#xD;This adds six 3D rooms to any Home - it also adds new scenes/locations for the bathroom.&#xD;Tow additional bedrooms can be let to other contacts / random NPCs.&#xD;The two optional bedrooms can be rent to NPCs.&#xD;If you do so, you will have some more life in your home and... maybe some interesting encounters :)&#xD;Mod only compatible with the Remake!" 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="08-01-2023" 
     ModRequireMods="LifePlay 5.0,The Remake Overhaul" Depends="rk_vin_Base" 
     ModderN="NickNo - Raddeck" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="https://i.ibb.co/ssq7BPc/nn-he-intro.gif" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3="Remake"/>
     
     <!-- Mysterious Modder's Mods (1) -->
-    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.6" 
-    Path="Meister/mm_Modules-1.0.6.zip" 
+    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.7" 
+    Path="Meister/mm_Modules-1.0.7.zip" 
     Description="My additional hardcore Modules. If you know me, you know what it's all about!&#xD;&#xD;Don't activate this mod!&#xD;Let the application do the job for you..&#xD;&#xD;These mods are ONLY COMPATIBLE WITH THE REMAKE&#xD;These mods add more scenes and actions.&#xD;Use LewdPatcher for LifePlay vanilla version." 
-    LatestUpdate="24-12-2022" 
+    LatestUpdate="06-01-2023" 
     ModRequireMods="LifePlay 5.0,The Remake Overhaul" Depends="rk_vin_Base"  
     ModderN="Mysterious Modder" ModUrlPage="https://lewdpatcher.com/" Thumbnail="" 
     FullDescription="" LPmodType="Pack" LpTag1="Myst" LpTag2="Remake" LpTag3=""/>
     
-    <!-- Mods (39) -->
-    <Mod Id="rk_vin_Base" Name="The LifePlay Remake [Overhaul]" Version="2.0.10" 
+    <!-- Mods (40) -->
+    <Mod Id="rk_vin_Base" Name="The LifePlay Remake [Overhaul]" Version="2.0.11" 
     Path="Raddeck/Remake1Modules.zip" 
     Description="Total remake of the LifePlay content, containing more completed/fixed scenes, less popup scenes, menu user with fewer elements (group actions/scenes into a single element)&#xD;&#xD;- Almost all files inside vin_ folders have been edited.&#xD;- Contain 75% more content and 40% more items.&#xD;- Universities have a purpose.&#xD;- More items to buy/eat/sale or trade, most of them have a purpose.&#xD;- New stats (hunger, urge to pee, sexual,...).&#xD;- More actions, choices, consequence and possibilities&#xD;- More activities and jobs.&#xD;- You can buy an alarm system and/or train your dog to protect you.&#xD;- And a lot more...&#xD;- Updated almost every week." 
     Msg="Thanks for installing the Remake!&#xD;If you find any bugs, please report on forums Raider Knight or my Discord.&#xD;Thanks. - Raddeck" 
-    LatestUpdate="23-12-2022" 
+    LatestUpdate="08-01-2023" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight/RK-Vin-Base" Thumbnail="https://i.ibb.co/6nFzP5j/bigRlp.gif" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=399" LPmodType="Overhaul" LpTag1="Remake" LpTag2="" LpTag3=""/>
@@ -74,7 +74,7 @@
     Path="Raddeck/rk_Art_items_Shop-1.0.6.zip" 
     Description="This mod offers you the possibility to buy works of art in certain stores in your city.&#xD;You can sell and trade art items at some places around the city.&#xD;8 types of art items to buy.&#xD;Contain 1 scene, at the moment.&#xD;You can buy them at these stores: art, marketplace, gift" 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_MoneyMaker,rk_ShopAddons,rk_vin_Base" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_MoneyMaker,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/VLxnKLM/ArtShop.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=32" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3=""/>
 
@@ -82,7 +82,7 @@
     Path="Raddeck/rk_BakeryShop-1.0.9.zip" 
     Description="Add options to buy/eat pastry and bread!&#xD;This mod offers you the possibility to buy/eat bakery products of quality in certain stores in your city.&#xD;8 types of bakery products.&#xD;Apply to a job at an erotic bakery shop...&#xD;You can buy bakery products at these stores:&#xD; bakery, greengrocer, marketplace, supermarket, variety_store" 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ss3nCqR/Bakery-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=33" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
@@ -90,7 +90,7 @@
     Path="Raddeck/rk_Bank_shop-1.0.6.zip" 
     Description="Add options to deposit and withdraw money!&#xD;This mod allows you to accumulate more money to do your foolishness or just to enjoy yourself.&#xD;It gives you the option to borrow money from the bank." 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_MoneyMaker" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_MoneyMaker,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/qDp2SFz/Bank1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=34" LPmodType="Mod" LpTag1="Money" LpTag2="Improvement" LpTag3=""/>
 
@@ -98,7 +98,7 @@
     Path="Raddeck/rk_CigarsShop-1.0.6.zip" 
     Description="Add options to buy and for smoking Cigars at different places around the city.&#xD;5 brands of the best cigars.&#xD;Contain only 2 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=35" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
@@ -106,7 +106,7 @@
     Path="Raddeck/rk_Computer_Shop-1.0.8.zip" 
     Description="Add options to buy a computer at some stores around the city.&#xD;4 types of computer to buy.&#xD;Contain 1 scene, at the moment." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/NF3rwrg/computer1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=36" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
 
@@ -114,7 +114,7 @@
     Path="Raddeck/rk_ConfectioneryShop-1.0.7.zip" 
     Description="Add options to buy/eat candies at different places around the city.&#xD;8 types of candy.&#xD;Contain 3 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8dCG8tv/Candy-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=37" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
     
@@ -122,7 +122,7 @@
     Path="Raddeck/rk_EroticShop-1.0.9.zip" 
     Description="Add options to buy erotic products at different places around the city.&#xD;7 types of erotic product, 4 variety for each types.&#xD;1 adult toy box.&#xD;You can play with most of the toys.&#xD;At the moment, you cannot use all of them separately... next updates, if Vin add animations for it." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/CbPFffK/Erotic-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=38" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3="Beauty"/>
 
@@ -134,10 +134,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=450" LPmodType="Mod" LpTag1="Club" LpTag2="Events" LpTag3=""/>
 
-    <Mod Id="rk_God_Mod" Name="God Mod Module [Ready for Remake]" Version="1.0.9" 
-    Path="Raddeck/rk_God_Mod-1.0.9.zip" 
+    <Mod Id="rk_God_Mod" Name="God Mod Module [Ready for Remake]" Version="1.0.10" 
+    Path="Raddeck/rk_God_Mod-1.0.10.zip" 
     Description="Cheat all the way inside LifePlay!&#xD;&#xD;The mod for cheating in LifePlay!&#xD;You need money faster, more skills, more items,....that's the mod you need!&#xD;Some options/stats from the game itself cannot be changed as this may create bugs or messed up your saves.&#xD;Some mods already have a cheating section, in that case, this mod will send you to these sections.&#xD;This mod will always expand by time.&#xD;If a new LifePlay mod appears, I will try to include is items/options." 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="08-01-2023" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/pZ1yZJC/Searchroom.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=31" LPmodType="Mod" LpTag1="Cheat" LpTag2="Remake" LpTag3=""/>
@@ -154,7 +154,7 @@
     Path="Raddeck/rk_IceCreamShop-1.0.8.zip" 
     Description="This mod gives you the possibility to buy frozen desserts in different stores.&#xD;There are 5 types of frozen treats to choose from.&#xD;Once you have purchased a dessert, it will automatically be added to your inventory. Then you can enjoy them at home.&#xD;Some shops and others, offer you the possibility to eat on site.&#xD;Contain 3 files." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=10" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
@@ -162,7 +162,7 @@
     Path="Raddeck/rk_JewelryShop-1.0.6.zip" 
     Description="Buy,trade or sell jewellery and few extras !&#xD;Add options to buy, sell and trade jewellery at some places around the city.&#xD;8 types of jewelry to buy.&#xD;Contain 2 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_MoneyMaker" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_MoneyMaker,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/x6234Gw/Jewelry-Shop.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=40" LPmodType="Mod" LpTag1="Shop" LpTag2="Beauty" LpTag3="Accessory"/>
 
@@ -178,7 +178,7 @@
     Path="Raddeck/rk_MeatShop-1.0.6.zip" 
     Description="Add options to buy/eat meaty meals at different places around the city.&#xD;8 types of meals with meat.&#xD;Each dish you eat will increase or decrease your stats.&#xD;Contain 3 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/JtfVRT5/meat1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=42" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
@@ -186,7 +186,7 @@
     Path="Raddeck/rk_Mobile_Shop-1.0.9.zip" 
     Description="Add options to buy a phone at some stores around the city.&#xD;4 types of phone to buy.&#xD;Contain 1 scene, at the moment." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/51NSsjr/mobile1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=43" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
 
@@ -246,10 +246,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="NTR" LpTag2="Events" LpTag3=""/>
 
-    <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.9" 
-    Path="Raddeck/rk_My_Neighbors-1.0.9.zip" 
+    <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.10" 
+    Path="Raddeck/rk_My_Neighbors-1.0.10.zip" 
     Description="New stories with your neighbours!&#xD;Add new interactions with your neighbours.&#xD;Contain 4 stories.&#xD;Contain 10 scenes.&#xD;Story about a naked gardener&#xD;Story about a new neighbour who need help for moving in.&#xD;Story about a neighbour who needs attention.&#xD;And more...&#xD;This mod will expand by time and also by suggestion made." 
-    LatestUpdate="24-12-2022" 
+    LatestUpdate="08-01-2023" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8rt5d64/MoveIn.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=46" LPmodType="Mod" LpTag1="Neighbours" LpTag2="Events" LpTag3="Remake"/>
@@ -274,7 +274,7 @@
     Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
     Description="Add options to buy/eat popcorn at different places around the city.&#xD;4 popcorn to choose.&#xD;Contain 4 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=50" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
@@ -290,12 +290,12 @@
     Path="Raddeck/rk_SeaFoodShop-1.0.7.zip" 
     Description="Add options to buy/eat seafood at different places around the city.&#xD;5 seafood meals to choose.&#xD;Each meals gives you some bonus.&#xD;Contain 4 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SNCy3QL/Seafood-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=51" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
-    <Mod Id="rk_Sex_Guru" Name="Sex-Guru Module [Ready for Remake]" Version="1.0.5" 
-    Path="Raddeck/rk_Sex_Guru-1.0.5.zip" 
+    <Mod Id="rk_Sex_Guru" Name="Sex-Guru Module [Ready for Remake]" Version="1.0.6" 
+    Path="Raddeck/rk_Sex_Guru-1.0.6.zip" 
     Description="Start your own religious community!&#xD;Start you own guru life by hiring disciple and earning money by selling special products.&#xD;This mod contain 52 scenes, 46 new characters and some events." 
     LatestUpdate="11-10-2022" 
     ModRequireMods="LifePlay 5.0,rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
@@ -314,7 +314,7 @@
     Path="Raddeck/rk_VapeShop-1.0.6.zip" 
     Description="Add options to buy/smoke vape juices at different places around the city.&#xD;5 flavors to choose.&#xD;Contain 2 scenes." 
     LatestUpdate="12-06-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/tXmG9vX/VapeShop.jpg" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=54" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
@@ -322,22 +322,22 @@
     Path="Raddeck/rk_VeganShop-1.0.9.zip" 
     Description="Add options to buy/eat vegan meals at different places around the city.&#xD;8 vegan meals to choose.&#xD;Each meals gives you different stats bonus.&#xD;Contain 7 scenes." 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/0MJgRQN/Vegan-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=55" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
-    <Mod Id="rk_vin_Fantasy" Name="LifePlay Fantasy Module [Remake Only]" Version="1.0.3" 
-    Path="Raddeck/rk_vin_Fantasy-1.0.3.zip" 
+    <Mod Id="rk_vin_Fantasy" Name="LifePlay Fantasy Module [Remake Only]" Version="1.0.5" 
+    Path="Raddeck/rk_vin_Fantasy-1.0.5.zip" 
     Description="LifePlay fantasy folder turn into a mod for the Remake.&#xD;&#xD;This mod adds several scenes and actions to the game.&#xD;You can buy blood&#xD;You can drink blood&#xD;You got a blood stash" 
-    LatestUpdate="28-11-2022" 
+    LatestUpdate="08-01-2023" 
     ModRequireMods="LifePlay 5.0,The Remake Overhaul" Depends="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="" LPmodType="Mod" LpTag1="Fantasy" LpTag2="Remake" LpTag3=""/>
 
-    <Mod Id="rk_Weed_biz" Name="Weed Business Module [Ready for Remake]" Version="1.0.8" 
-    Path="Raddeck/rk_Weed_biz-1.0.8.zip" 
+    <Mod Id="rk_Weed_biz" Name="Weed Business Module [Ready for Remake]" Version="1.0.9" 
+    Path="Raddeck/rk_Weed_biz-1.0.9.zip" 
     Description="Start your own weed business, make more money!&#xD;&#xD;Start your own business as a dealer.&#xD;Contain 28 scenes.&#xD;You can hire employees to help you sell and protect your bunker.&#xD;A tutorial (wip) and cheats are included." 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="08-01-2023" 
     ModRequireMods="LifePlay 5.0,nn_GangsOfLifePlay,rk_Home_Inventories,rk_Personal_Inventories" Depends="nn_GangsOfLifePlay" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ZLF5nnY/Office-Bunker.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=57" LPmodType="Mod" LpTag1="Business" LpTag2="Crime" LpTag3="Remake"/>
@@ -346,7 +346,7 @@
     Path="Raddeck/rk_WeedShop-1.0.7.zip" 
     Description="Add options to buy/smoke weed at different places around the city.&#xD;8 flavors to choose from.&#xD;Contain 2 scenes.&#xD;Contain 1 scenes locked until you get black market skills." 
     LatestUpdate="11-10-2022" 
-    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons" 
+    ModRequireMods="LifePlay 5.0,rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SdN5hH1/WeedShop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=56" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
@@ -358,13 +358,21 @@
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=437" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
 
-    <Mod Id="sbrk_BeautyExpansion" Name="Beauty Expansion Module [Ready for Remake]" Version="1.6" 
-    Path="Raddeck/sbrk_BeautyExpansion-1.6.zip" 
+    <Mod Id="sbrk_BeautyExpansion" Name="Beauty Expansion Module [Ready for Remake]" Version="1.8" 
+    Path="Raddeck/sbrk_BeautyExpansion-1.8.zip" 
     Description="A beauty additions for your companion.&#xD;&#xD;Rework of the mod Beauty Expansion. Beauty Additions for your companion&#xD;With this mod you will be able to offer to your dear one:&#xD;- A new haircut&#xD;- A new hair dye&#xD;- Beauty treatment&#xD;- Fake nails&#xD;- Fake eyelashes&#xD;- and more..." 
-    LatestUpdate="07-11-2022" 
+    LatestUpdate="08-01-2023" 
     ModRequireMods="LifePlay 5.0"
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=449" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3="Remake"/>
+
+    <Mod Id="sbrk_PimpYourGirl" Name="Pimp Your Girl (Sexwork Improvement) [Ready for Remake]" Version="1.4" 
+    Path="Raddeck/sbrk_PimpYourGirl-1.4.zip" 
+    Description="Rework of the mod PimpYourGirl and add base sexwork stuff.." 
+    LatestUpdate="08-01-2023" 
+    ModRequireMods="LifePlay 5.0"
+    ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
+    FullDescription="" LPmodType="Mod" LpTag1="sexwork" LpTag2="Improvement" LpTag3="Remake"/>
     
     <!-- RDL' mods (1) -->
     <Mod Id="rdl_timber" Name="Tinder style module" Version="0.1.0"
