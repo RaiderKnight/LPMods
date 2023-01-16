@@ -44,20 +44,20 @@
     FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3="Remake"/>
     
     <!-- Mysterious Modder's Mods (1) -->
-    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.7" 
-    Path="Meister/mm_Modules-1.0.7.zip" 
+    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.8" 
+    Path="Meister/mm_Modules-1.0.8.zip" 
     Description="My additional hardcore Modules. If you know me, you know what it's all about!&#xD;&#xD;Don't activate this mod!&#xD;Let the application do the job for you..&#xD;&#xD;These mods are ONLY COMPATIBLE WITH THE REMAKE&#xD;These mods add more scenes and actions.&#xD;Use LewdPatcher for LifePlay vanilla version." 
-    LatestUpdate="06-01-2023" 
+    LatestUpdate="15-01-2023" 
     ModRequireMods="The Remake Overhaul" Depends="rk_vin_Base"  
     ModderN="Mysterious Modder" ModUrlPage="https://lewdpatcher.com/" Thumbnail="" 
     FullDescription="" LPmodType="Pack" LpTag1="Myst" LpTag2="Remake" LpTag3=""/>
     
-    <!-- Mods (40) -->
-    <Mod Id="rk_vin_Base" Name="The LifePlay Remake [Overhaul]" Version="2.0.11" 
+    <!-- Mods (41) -->
+    <Mod Id="rk_vin_Base" Name="The LifePlay Remake [Overhaul]" Version="2.0.12" 
     Path="Raddeck/Remake1Modules.zip" 
     Description="Total remake of the LifePlay content, containing more completed/fixed scenes, less popup scenes, menu user with fewer elements (group actions/scenes into a single element)&#xD;&#xD;- Almost all files inside vin_ folders have been edited.&#xD;- Contain 75% more content and 40% more items.&#xD;- Universities have a purpose.&#xD;- More items to buy/eat/sale or trade, most of them have a purpose.&#xD;- New stats (hunger, urge to pee, sexual,...).&#xD;- More actions, choices, consequence and possibilities&#xD;- More activities and jobs.&#xD;- You can buy an alarm system and/or train your dog to protect you.&#xD;- And a lot more...&#xD;- Updated almost every week." 
     Msg="Thanks for installing the Remake!&#xD;If you find any bugs, please report on forums Raider Knight or my Discord.&#xD;Thanks. - Raddeck" 
-    LatestUpdate="08-01-2023" 
+    LatestUpdate="15-01-2023" 
     ModRequireMods=""
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight/RK-Vin-Base" Thumbnail="https://i.ibb.co/6nFzP5j/bigRlp.gif" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=399" LPmodType="Overhaul" LpTag1="Remake" LpTag2="" LpTag3=""/>
@@ -142,21 +142,29 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/pZ1yZJC/Searchroom.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=31" LPmodType="Mod" LpTag1="Cheat" LpTag2="Remake" LpTag3=""/>
 
-    <Mod Id="rk_Home_Inventories" Name="Home Inventories Module" Version="1.0.9" 
-    Path="Raddeck/rk_Home_Inventories-1.0.9.zip" 
+    <Mod Id="rk_Home_Inventories" Name="Home Inventories Module" Version="1.0.10" 
+    Path="Raddeck/rk_Home_Inventories-1.0.10.zip" 
     Description="Better way to store your items - Focused on my mods items!&#xD;&#xD;Attempt to reduce the number of items in the action menu.&#xD;It allows you to have your items classified by categories.&#xD;Some inventories become active only if the Home Extensions mod is activated." 
-    LatestUpdate="24-08-2022" 
+    LatestUpdate="15-01-2023" 
     ModRequireMods="" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=39" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
 
-    <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.8" 
-    Path="Raddeck/rk_IceCreamShop-1.0.8.zip" 
+    <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.9" 
+    Path="Raddeck/rk_IceCreamShop-1.0.9.zip" 
     Description="This mod gives you the possibility to buy frozen desserts in different stores.&#xD;There are 5 types of frozen treats to choose from.&#xD;Once you have purchased a dessert, it will automatically be added to your inventory. Then you can enjoy them at home.&#xD;Some shops and others, offer you the possibility to eat on site.&#xD;Contain 3 files." 
-    LatestUpdate="12-06-2022" 
+    LatestUpdate="15-01-2023" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=10" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
+
+    <Mod Id="rk_Sex_Cream_Shop" Name="Sex Cream Shop Module" Version="1.0.0" 
+    Path="Raddeck/rk_Sex_Cream_Shop-1.0.0.zip" 
+    Description="This mod gives you the possibility to buy in different stores XXX frozen desserts, made with natural ingredients.&#xD;This mod add 5 new types of drinks and 8 new frozen treats to choose from.&#xD;Once you have purchased a dessert, it will automatically be added to your inventory. Then you can enjoy them at home.&#xD;Some shops and others, offer you the possibility to eat on site.&#xD;Contain 4 files." 
+    LatestUpdate="15-01-2023" 
+    ModRequireMods="rk_Home_Inventories,rk_IceCreamShop" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
+    ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
+    FullDescription="" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
     <Mod Id="rk_JewelryShop" Name="Jewellery Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_JewelryShop-1.0.6.zip" 
@@ -190,10 +198,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/51NSsjr/mobile1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=43" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
 
-    <Mod Id="rk_MoneyMaker" Name="Money Maker Module" Version="1.0.10" 
-    Path="Raddeck/rk_MoneyMaker-1.0.10.zip" 
+    <Mod Id="rk_MoneyMaker" Name="Money Maker Module" Version="1.0.11" 
+    Path="Raddeck/rk_MoneyMaker-1.0.11.zip" 
     Description="3 mods that I made to make money, in one package.&#xD;Add the possibility to deposit and withdraw money at the bank.&#xD;You can buy/sell/trade jewellery, separately.&#xD;You can buy/sell/trade arts.&#xD;8 types of jewellery&#xD;8 types of arts." 
-    LatestUpdate="24-08-2022" 
+    LatestUpdate="15-01-2023" 
     ModRequireMods="rk_Home_Inventories,vim_RoomPresets" Depends="rk_Home_Inventories" ModsConflict="rk_Art_items_Shop,rk_JewelryShop,rk_Bank_shop,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=44" LPmodType="Mod" LpTag1="Money" LpTag2="Bundle" LpTag3=""/>
@@ -294,10 +302,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SNCy3QL/Seafood-Shop.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=51" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
-    <Mod Id="rk_Sex_Guru" Name="Sex-Guru Module [Ready for Remake]" Version="1.0.6" 
-    Path="Raddeck/rk_Sex_Guru-1.0.6.zip" 
+    <Mod Id="rk_Sex_Guru" Name="Sex-Guru Module [Ready for Remake]" Version="1.0.7" 
+    Path="Raddeck/rk_Sex_Guru-1.0.7.zip" 
     Description="Start your own religious community!&#xD;Start you own guru life by hiring disciple and earning money by selling special products.&#xD;This mod contain 52 scenes, 46 new characters and some events." 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="15-01-2023" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/dMLg8k2/guru1.png" 
     FullDescription="https://lifeplay.site/viewtopic.php?t=52" LPmodType="Mod" LpTag1="Religion" LpTag2="Guru" LpTag3="Remake"/>
