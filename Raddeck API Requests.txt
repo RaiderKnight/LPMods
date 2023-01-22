@@ -1,0 +1,158 @@
+Raddeck API Requests (since 3.17)
+****************
+
+This is a list of API calls that would help making LP modding easier / better.      
+
+*******************************************************************************
+#1
+
+What NickNo asked in nn_API_requests_3.19.txt - PornEmpire mod
+
+
+*******************************************************************************
+#2
+
+We have energy for stat.
+In real to boost energy, we need to eat.
+So sleeping is not supppose to fill up my belly.
+
+I propose to have "Hunger" or something like that
+
+energy for sleeping
+hunger for eating
+
+I eat something
+hunger += 2
+
+
+*******************************************************************************
+#3
+
+animate(pray)
+Not working outside the church
+
+Remove the limitation on "animate()" animations. I want to work out in a church, pray in a park, do yoga at home,...
+
+
+*******************************************************************************
+#4
+
+Having a command to do things like:
+
+Eg: If a girl bend down, having the chance to fuck her from behind.
+Something to make rape/surprise sex scenes better
+
+
+*******************************************************************************
+#5
+
+Car-motorcycle-bicycle
+Having a command to go faster depending with what you used for travel
+
+
+*******************************************************************************
+#6
+
+Remove the limitation on having to live in an apartment/house. Living like a bum would be cool!
+
+
+*******************************************************************************
+#7
+
+Having new animate() & Filter()
+animate(wasted), animate(stoned), animate(drugged), animate(paralized)
+And also be able to use any sex position separately
+
+*******************************************************************************
+#8
+
+.isInterestedIn(Men/Trans/Women())
+Mean what? You're almost bi or gay, ....at what level???
+
+We need a value for those variables(), like: 
+10 - will never sleep with a guy
+50%- Maybe
+... 
+
+eg.
+.isInterestedInMen(60)
+.isInterestedInWomen(100)
+
+*******************************************************************************
+#9
+
+Allow the modder to set the business hours
+Remove the limitation on store hours.
+
+
+*******************************************************************************
+#10
+
+Solo dildo/fingering ass animation for Female and Male is needed
+
+
+*******************************************************************************
+#11
+
+Suggestion for residential
+1- Have the ability to own more than one home and be able to have a rental business.
+For example: If the game recognizes the size of buildings
+If the building is a house: rent rooms (like the HomeExpander mod)
+If the building is a building: rent an apartment
+
+
+2- Have the ability to own a home for commercial, criminal or other purposes that are not present in LifePlay
+
+*******************************************************************************
+#12
+
+In LifePlay main menu (not in game)
+1- Add a button to reload the game (to reset stats, achievements,...)
+2- When starting a new game, choice to reset or to stay with old stats
+3- Add a button for Mods manager
+
+*******************************************************************************
+#13
+
+Having the possibility to create a table: To display paragraphs of text, imitate a letter, etc ... Would be useful for making a tutorial inside our mods.
+
+
+*******************************************************************************
+#14
+
+A way to add tooltips message on menu items in a lpscene.
+
+
+*******************************************************************************
+#15
+
+solo(in fact all, not just solo) animations list for modders
+
+
+*******************************************************************************
+#16
+
+a way to override existing lpaction from the game or from other mods
+
+
+*******************************************************************************
+#17
+
+adding a door to rooms
+
+*******************************************************************************
+#18
+
+Be able to use our own variables inside conditions for lpaction and lpscene files
+
+
+*******************************************************************************
+#19
+
+Allow the modder to take over business on some store/building.
+- Like churches and I think bank,community center, university,..., we can't take them over
+
+
+*******************************************************************************
+
+
