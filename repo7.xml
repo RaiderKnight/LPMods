@@ -9,7 +9,7 @@
     LatestUpdate="08-01-2023" 
     ModRequireMods="" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/qrfk8gM/nn-pe-do-shoot211.jpg" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=441" LPmodType="Mod" LpTag1="Business" LpTag2="Empire" LpTag3="Remake"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=441" LPmodType="Mod" LpTag1="Business" LpTag2="Empire" LpTag3="Remake"/>
 
     <Mod Id="nn_NPCManager" Name="NPC Manager [Ready for Remake]" Version="1.6"
     Path="NickNo/nn_NPCManager-1.6.zip"
@@ -17,7 +17,7 @@
     LatestUpdate="28-11-2022" 
     ModRequireMods="" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?p=561" LPmodType="Mod" LpTag1="Relationships" LpTag2="Tool" LpTag3="Remake"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?p=561" LPmodType="Mod" LpTag1="Relationships" LpTag2="Tool" LpTag3="Remake"/>
 
     <Mod Id="nn_HomeExpander" Name="Home Extensions" Version="0.4.1"
     Path="NickNo/nn_HomeExpander-0.4.1.zip"
@@ -25,7 +25,7 @@
     LatestUpdate="17-06-2022" 
     ModRequireMods="" ModsConflict="rk_vin_Base" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/ssq7BPc/nn-he-intro.gif" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3=""/>
 
     <Mod Id="nn_GangsOfLifePlay" Name="Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.3"
     Path="NickNo/nn_GangsOfLifePlay-0.2.3.zip"
@@ -33,7 +33,7 @@
     LatestUpdate="08-01-2023" 
     ModRequireMods=""
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/YZPMM90/nn-gl-deal-street.gif" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=440" LPmodType="Mod" LpTag1="Gang" LpTag2="Business" LpTag3="Remake"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=440" LPmodType="Mod" LpTag1="Gang" LpTag2="Business" LpTag3="Remake"/>
 
     <Mod Id="nn_VB_HomeExpander" Name="Home Extensions [Remake Only]" Version="1.0.4"
     Path="NickNo/nn_VB_HomeExpander-1.0.4.zip"
@@ -41,7 +41,7 @@
     LatestUpdate="08-01-2023" 
     ModRequireMods="The Remake Overhaul" Depends="rk_vin_Base" 
     ModderN="NickNo - Raddeck" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="https://i.ibb.co/ssq7BPc/nn-he-intro.gif" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3="Remake"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3="Remake"/>
     
     <!-- Mysterious Modder's Mods (1) -->
     <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.8" 
@@ -60,7 +60,7 @@
     LatestUpdate="15-01-2023" 
     ModRequireMods=""
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight/RK-Vin-Base" Thumbnail="https://i.ibb.co/6nFzP5j/bigRlp.gif" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=399" LPmodType="Overhaul" LpTag1="Remake" LpTag2="" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=399" LPmodType="Overhaul" LpTag1="Remake" LpTag2="" LpTag3=""/>
     
     <Mod Id="rk_additional_activities" Name="Additional activities Module" Version="1.0.1" 
     Path="Raddeck/rk_additional_activities-1.0.1.zip" 
@@ -68,7 +68,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods=""
     ModderN="r8kie - Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=436" LPmodType="Mod" LpTag1="Events" LpTag2="" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=436" LPmodType="Mod" LpTag1="Events" LpTag2="" LpTag3=""/>
 
     <Mod Id="rk_Art_items_Shop" Name="Art Shop addon Module" Version="1.0.6" 
     Path="Raddeck/rk_Art_items_Shop-1.0.6.zip" 
@@ -76,7 +76,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_MoneyMaker,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/VLxnKLM/ArtShop.jpg" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=32" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=32" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3=""/>
 
     <Mod Id="rk_BakeryShop" Name="Bakery Shop Module" Version="1.0.9" 
     Path="Raddeck/rk_BakeryShop-1.0.9.zip" 
@@ -84,7 +84,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ss3nCqR/Bakery-Shop.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=33" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=33" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
     <Mod Id="rk_Bank_shop" Name="Bank Module" Version="1.0.6" 
     Path="Raddeck/rk_Bank_shop-1.0.6.zip" 
@@ -92,7 +92,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_MoneyMaker,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/qDp2SFz/Bank1.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=34" LPmodType="Mod" LpTag1="Money" LpTag2="Improvement" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=34" LPmodType="Mod" LpTag1="Money" LpTag2="Improvement" LpTag3=""/>
 
     <Mod Id="rk_CigarsShop" Name="Cigars Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_CigarsShop-1.0.6.zip" 
@@ -100,7 +100,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=35" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=35" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
     <Mod Id="rk_Computer_Shop" Name="Computer Shop Module" Version="1.0.8" 
     Path="Raddeck/rk_Computer_Shop-1.0.8.zip" 
@@ -108,7 +108,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/NF3rwrg/computer1.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=36" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=36" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
 
     <Mod Id="rk_ConfectioneryShop" Name="Confectionery Shop Module" Version="1.0.7" 
     Path="Raddeck/rk_ConfectioneryShop-1.0.7.zip" 
@@ -116,7 +116,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8dCG8tv/Candy-Shop.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=37" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=37" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
     
     <Mod Id="rk_EroticShop" Name="Erotic Shop Module" Version="1.0.9" 
     Path="Raddeck/rk_EroticShop-1.0.9.zip" 
@@ -124,7 +124,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/CbPFffK/Erotic-Shop.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=38" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3="Beauty"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=38" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3="Beauty"/>
 
     <Mod Id="rk_Exclusive_Swinger_Club" Name="Exclusive Swinger Club Module" Version="1.0.1" 
     Path="Raddeck/rk_Exclusive_Swinger_Club-1.0.1.zip" 
@@ -132,7 +132,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods=""
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=450" LPmodType="Mod" LpTag1="Club" LpTag2="Events" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=450" LPmodType="Mod" LpTag1="Club" LpTag2="Events" LpTag3=""/>
 
     <Mod Id="rk_God_Mod" Name="God Mod Module [Ready for Remake]" Version="1.0.10" 
     Path="Raddeck/rk_God_Mod-1.0.10.zip" 
@@ -140,7 +140,7 @@
     LatestUpdate="08-01-2023" 
     ModRequireMods=""
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/pZ1yZJC/Searchroom.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=31" LPmodType="Mod" LpTag1="Cheat" LpTag2="Remake" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=31" LPmodType="Mod" LpTag1="Cheat" LpTag2="Remake" LpTag3=""/>
 
     <Mod Id="rk_Home_Inventories" Name="Home Inventories Module" Version="1.0.10" 
     Path="Raddeck/rk_Home_Inventories-1.0.10.zip" 
@@ -148,7 +148,7 @@
     LatestUpdate="15-01-2023" 
     ModRequireMods="" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=39" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=39" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
 
     <Mod Id="rk_IceCreamShop" Name="Ice Cream Shop Module" Version="1.0.9" 
     Path="Raddeck/rk_IceCreamShop-1.0.9.zip" 
@@ -156,7 +156,7 @@
     LatestUpdate="15-01-2023" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=10" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=10" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
     <Mod Id="rk_Sex_Cream_Shop" Name="Sex Cream Shop Module" Version="1.0.0" 
     Path="Raddeck/rk_Sex_Cream_Shop-1.0.0.zip" 
@@ -172,7 +172,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_MoneyMaker,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/x6234Gw/Jewelry-Shop.jpg" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=40" LPmodType="Mod" LpTag1="Shop" LpTag2="Beauty" LpTag3="Accessory"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=40" LPmodType="Mod" LpTag1="Shop" LpTag2="Beauty" LpTag3="Accessory"/>
 
     <Mod Id="rk_lp_worlds" Name="Backgrounds Collection" Version="1.0.3" 
     Path="Raddeck/rk_lp_worlds-1.0.3.zip" 
@@ -180,7 +180,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods=""
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ZLF5nnY/Office-Bunker.png" 
-    FullDescription="https://lifeplay.site/viewforum.php?f=13" LPmodType="Addon" LpTag1="lpworld" LpTag2="" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewforum.php?f=13" LPmodType="Addon" LpTag1="lpworld" LpTag2="" LpTag3=""/>
 
     <Mod Id="rk_MeatShop" Name="Meat Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_MeatShop-1.0.6.zip" 
@@ -188,7 +188,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/JtfVRT5/meat1.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=42" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=42" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
     <Mod Id="rk_Mobile_Shop" Name="Mobile Shop Module" Version="1.0.9" 
     Path="Raddeck/rk_Mobile_Shop-1.0.9.zip" 
@@ -196,7 +196,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/51NSsjr/mobile1.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=43" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=43" LPmodType="Mod" LpTag1="Shop" LpTag2="Electronics" LpTag3=""/>
 
     <Mod Id="rk_MoneyMaker" Name="Money Maker Module" Version="1.0.11" 
     Path="Raddeck/rk_MoneyMaker-1.0.11.zip" 
@@ -204,7 +204,7 @@
     LatestUpdate="15-01-2023" 
     ModRequireMods="rk_Home_Inventories,vim_RoomPresets" Depends="rk_Home_Inventories" ModsConflict="rk_Art_items_Shop,rk_JewelryShop,rk_Bank_shop,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=44" LPmodType="Mod" LpTag1="Money" LpTag2="Bundle" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=44" LPmodType="Mod" LpTag1="Money" LpTag2="Bundle" LpTag3=""/>
 
     <Mod Id="rk_MoreRides" Name="More Rides Module" Version="1.0.8" 
     Path="Raddeck/rk_MoreRides-1.0.8.zip" 
@@ -212,7 +212,7 @@
     LatestUpdate="24-08-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=47" LPmodType="Mod" LpTag1="Shop" LpTag2="Vehicles" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=47" LPmodType="Mod" LpTag1="Shop" LpTag2="Vehicles" LpTag3=""/>
     
     <Mod Id="rk_MoreInteractions_Prison" Name="More Interactions in Prison Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Prison-1.0.0.zip" 
@@ -220,7 +220,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/9qzDQnQ/Prison-Cell1.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Prison" LpTag2="Non-Con" LpTag3="Guard"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Prison" LpTag2="Non-Con" LpTag3="Guard"/>
     
     <Mod Id="rk_MoreInteractions_Perso" Name="More personal Interactions Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Perso-1.0.0.zip" 
@@ -228,7 +228,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Beauty" LpTag2="Events" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Beauty" LpTag2="Events" LpTag3=""/>
     
     <Mod Id="rk_MoreInteractions_Events" Name="More Interactions Events Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Events-1.0.0.zip" 
@@ -236,7 +236,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/JKC9JBq/danseN.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Events" LpTag2="" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Events" LpTag2="" LpTag3=""/>
     
     <Mod Id="rk_MoreInteractions_Lovers" Name="Love Interactions Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Lovers-1.0.0.zip" 
@@ -244,7 +244,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Dating" LpTag2="Events" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=45" LPmodType="Mod" LpTag1="Dating" LpTag2="Events" LpTag3=""/>
     
     <Mod Id="rk_MoreInteractions_Badass" Name="Badass Interactions Module" Version="1.0.0" 
     Path="Raddeck/rk_MoreInteractions_Badass-1.0.0.zip" 
@@ -252,7 +252,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=45" LPmodType="Mod" LpTag1="NTR" LpTag2="Events" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=45" LPmodType="Mod" LpTag1="NTR" LpTag2="Events" LpTag3=""/>
 
     <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.10" 
     Path="Raddeck/rk_My_Neighbors-1.0.10.zip" 
@@ -260,7 +260,7 @@
     LatestUpdate="08-01-2023" 
     ModRequireMods=""
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8rt5d64/MoveIn.jpg" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=46" LPmodType="Mod" LpTag1="Neighbours" LpTag2="Events" LpTag3="Remake"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=46" LPmodType="Mod" LpTag1="Neighbours" LpTag2="Events" LpTag3="Remake"/>
 
     <Mod Id="rk_OnlineFoodShop" Name="Online Food shop Module [Ready for Remake]" Version="1.0.5" 
     Path="Raddeck/rk_OnlineFoodShop-1.0.5.zip" 
@@ -268,7 +268,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/1sz3szm/Online-Food-Shop.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=48" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3="Remake"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=48" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3="Remake"/>
 
     <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Module" Version="1.0.9" 
     Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
@@ -276,7 +276,7 @@
     LatestUpdate="24-08-2022" 
     ModRequireMods="" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=49" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=49" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
 
     <Mod Id="rk_PopCornsShop" Name="Pop corns Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
@@ -284,7 +284,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=50" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=50" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
     <Mod Id="rk_random_breakup" Name="Random Breakups Module"  Version="1.0.1" 
     Path="Raddeck/rk_random_breakup-1.0.1.zip" 
@@ -292,7 +292,7 @@
     LatestUpdate="26-06-2022" 
     ModRequireMods=""
     ModderN="VinnyB - Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=435" LPmodType="Mod" LpTag1="Events" LpTag2="Relationships" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=435" LPmodType="Mod" LpTag1="Events" LpTag2="Relationships" LpTag3=""/>
 
     <Mod Id="rk_SeaFoodShop" Name="Seafood Shop Module" Version="1.0.7" 
     Path="Raddeck/rk_SeaFoodShop-1.0.7.zip" 
@@ -300,7 +300,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SNCy3QL/Seafood-Shop.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=51" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=51" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
     <Mod Id="rk_Sex_Guru" Name="Sex-Guru Module [Ready for Remake]" Version="1.0.7" 
     Path="Raddeck/rk_Sex_Guru-1.0.7.zip" 
@@ -308,7 +308,7 @@
     LatestUpdate="15-01-2023" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/dMLg8k2/guru1.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=52" LPmodType="Mod" LpTag1="Religion" LpTag2="Guru" LpTag3="Remake"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=52" LPmodType="Mod" LpTag1="Religion" LpTag2="Guru" LpTag3="Remake"/>
 
     <Mod Id="rk_ShopAddons" Name="Shop Addons Module" Version="1.0.8" 
     Path="Raddeck/rk_ShopAddons-1.0.8.zip" 
@@ -316,7 +316,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_BakeryShop,rk_CigarsShop,rk_Computer_Shop,rk_ConfectioneryShop,rk_EroticShop,rk_IceCreamShop,rk_MeatShop,rk_Mobile_Shop,rk_PopCornsShop,rk_SeaFoodShop,rk_VapeShop,rk_VeganShop,rk_WeedShop,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/KDDdNdd/Shop-Addons.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=53" LPmodType="Mod" LpTag1="Bundle" LpTag2="Shop" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=53" LPmodType="Mod" LpTag1="Bundle" LpTag2="Shop" LpTag3=""/>
 
     <Mod Id="rk_VapeShop" Name="Vape Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_VapeShop-1.0.6.zip" 
@@ -324,7 +324,7 @@
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/tXmG9vX/VapeShop.jpg" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=54" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=54" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
     <Mod Id="rk_VeganShop" Name="Vegan Shop Module" Version="1.0.9" 
     Path="Raddeck/rk_VeganShop-1.0.9.zip" 
@@ -332,7 +332,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/0MJgRQN/Vegan-Shop.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=55" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=55" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
     <Mod Id="rk_vin_Fantasy" Name="LifePlay Fantasy Module [Remake Only]" Version="1.0.5" 
     Path="Raddeck/rk_vin_Fantasy-1.0.5.zip" 
@@ -348,7 +348,7 @@
     LatestUpdate="08-01-2023" 
     ModRequireMods="nn_GangsOfLifePlay,rk_Home_Inventories,rk_Personal_Inventories" Depends="nn_GangsOfLifePlay" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ZLF5nnY/Office-Bunker.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=57" LPmodType="Mod" LpTag1="Business" LpTag2="Crime" LpTag3="Remake"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=57" LPmodType="Mod" LpTag1="Business" LpTag2="Crime" LpTag3="Remake"/>
 
     <Mod Id="rk_WeedShop" Name="Weed Shop Module" Version="1.0.7" 
     Path="Raddeck/rk_WeedShop-1.0.7.zip" 
@@ -356,7 +356,7 @@
     LatestUpdate="11-10-2022" 
     ModRequireMods="rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SdN5hH1/WeedShop.png" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=56" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=56" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
     <Mod Id="rk_WeightAndFitness" Name="Body Weight - Fitness Module" Version="1.0.1" 
     Path="Raddeck/rk_WeightAndFitness-1.0.1.zip" 
@@ -364,7 +364,7 @@
     LatestUpdate="26-06-2022" 
     ModRequireMods="" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=437" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=437" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
 
     <Mod Id="sbrk_BeautyExpansion" Name="Beauty Expansion Module [Ready for Remake]" Version="1.8" 
     Path="Raddeck/sbrk_BeautyExpansion-1.8.zip" 
@@ -372,7 +372,7 @@
     LatestUpdate="08-01-2023" 
     ModRequireMods=""
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewtopic.php?t=449" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3="Remake"/>
+    FullDescription="https://forums.raiderknight.com/viewtopic.php?t=449" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3="Remake"/>
 
     <Mod Id="sbrk_PimpYourGirl" Name="Pimp Your Girl (Sexwork Improvement) [Ready for Remake]" Version="1.4" 
     Path="Raddeck/sbrk_PimpYourGirl-1.4.zip" 
@@ -398,7 +398,7 @@
     LatestUpdate="06-10-2020" 
     ModRequireMods=""
     ModderN="Vima" ModPatreon="" ModUrlPage="" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewforum.php?f=13" LPmodType="Pack" LpTag1="lpworld" LpTag2="Bedrooms" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewforum.php?f=13" LPmodType="Pack" LpTag1="lpworld" LpTag2="Bedrooms" LpTag3=""/>
 
     <!-- Yarla's Mods (2) -->
     <Mod Id="yarla_CharacterPack1" Name="Yarla's Character Pack"
@@ -407,7 +407,7 @@
     LatestUpdate="06-10-2021" 
     ModRequireMods=""
     ModderN="Yarla" ModPatreon="" ModUrlPage="" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewforum.php?f=13" LPmodType="Pack" LpTag1="lpcharacter" LpTag2="Presets" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewforum.php?f=13" LPmodType="Pack" LpTag1="lpcharacter" LpTag2="Presets" LpTag3=""/>
 
     <Mod Id="yarla_CharacterPack2" Name="Yarla's Character Pack 2"
     Description="28 male and female character presets" Version="1.0" 
@@ -415,7 +415,7 @@
     LatestUpdate="06-10-2021" 
     ModRequireMods=""
     ModderN="Yarla" ModPatreon="" ModUrlPage="" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewforum.php?f=13" LPmodType="Pack" LpTag1="lpcharacter" LpTag2="Presets" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewforum.php?f=13" LPmodType="Pack" LpTag1="lpcharacter" LpTag2="Presets" LpTag3=""/>
 
     <!-- n1ck's mods (1) -->
     <Mod Id="n1ck_DazPresets" Name="N1ck's Character presets"
@@ -424,7 +424,7 @@
     LatestUpdate="06-10-2022" 
     ModRequireMods=""
     ModderN="n1ck" ModPatreon="" ModUrlPage="" Thumbnail="" 
-    FullDescription="https://lifeplay.site/viewforum.php?f=13" LPmodType="Pack" LpTag1="lpcharacter" LpTag2="Presets" LpTag3=""/>
+    FullDescription="https://forums.raiderknight.com/viewforum.php?f=13" LPmodType="Pack" LpTag1="lpcharacter" LpTag2="Presets" LpTag3=""/>
     
     <!-- Grimm's mods (2) -->
     <Mod Id="grim_HomeAssignment" Name="Home Assignment module"
