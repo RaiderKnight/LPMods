@@ -158,10 +158,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=10" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
-    <Mod Id="rk_Sex_Cream_Shop" Name="Sex Cream Shop Module" Version="1.0.0" 
-    Path="Raddeck/rk_Sex_Cream_Shop-1.0.0.zip" 
+    <Mod Id="rk_Sex_Cream_Shop" Name="Sex Cream Shop Module" Version="1.0.1" 
+    Path="Raddeck/rk_Sex_Cream_Shop-1.0.1.zip" 
     Description="This mod gives you the possibility to buy in different stores XXX frozen desserts, made with natural ingredients.&#xD;This mod add 5 new types of drinks and 8 new frozen treats to choose from.&#xD;Once you have purchased a dessert, it will automatically be added to your inventory. Then you can enjoy them at home.&#xD;Some shops and others, offer you the possibility to eat on site.&#xD;Contain 4 files." 
-    LatestUpdate="15-01-2023" 
+    LatestUpdate="02-02-2023" 
     ModRequireMods="rk_Home_Inventories,rk_IceCreamShop" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
     FullDescription="" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
