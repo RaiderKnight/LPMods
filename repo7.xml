@@ -1,6 +1,6 @@
 <Repo>
     <!-- #Current LifePlay Version: 5.24 -->
-    <!-- #RepoUpdated: 20230131 -->
+    <!-- #RepoUpdated: 20230211 -->
     <!-- NickNo's Mods (5) y-m-d -->
     <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.3"
     Path="NickNo/nn_PornEmpire-0.7.3.zip"
@@ -44,10 +44,10 @@
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3="Remake"/>
     
     <!-- Mysterious Modder's Mods (1) -->
-    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.9" 
-    Path="Meister/mm_Modules-1.0.9.zip" 
+    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.10" 
+    Path="Meister/mm_Modules-1.0.10.zip" 
     Description="My additional hardcore Modules. If you know me, you know what it's all about!&#xD;&#xD;Don't activate this mod!&#xD;Let the application do the job for you..&#xD;&#xD;These mods are ONLY COMPATIBLE WITH THE REMAKE&#xD;These mods add more scenes and actions.&#xD;Use LewdPatcher for LifePlay vanilla version." 
-    LatestUpdate="02-02-2023" 
+    LatestUpdate="11-02-2023" 
     ModRequireMods="The Remake Overhaul" Depends="rk_vin_Base"  
     ModderN="Mysterious Modder" ModUrlPage="https://lewdpatcher.com/" Thumbnail="" 
     FullDescription="" LPmodType="Pack" LpTag1="Myst" LpTag2="Remake" LpTag3=""/>
