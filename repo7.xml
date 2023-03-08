@@ -1,6 +1,6 @@
 <Repo>
     <!-- #Current LifePlay Version: 5.24 -->
-    <!-- #RepoUpdated: 20230225 -->
+    <!-- #RepoUpdated: 20230308 -->
     <!-- NickNo's Mods (5) y-m-d -->
     <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.3"
     Path="NickNo/nn_PornEmpire-0.7.3.zip"
@@ -11,10 +11,10 @@
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/qrfk8gM/nn-pe-do-shoot211.jpg" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=441" LPmodType="Mod" LpTag1="Business" LpTag2="Empire" LpTag3="Remake"/>
 
-    <Mod Id="nn_NPCManager" Name="NPC Manager [Ready for Remake]" Version="1.6"
-    Path="NickNo/nn_NPCManager-1.6.zip"
+    <Mod Id="nn_NPCManager" Name="NPC Manager [Ready for Remake]" Version="1.7"
+    Path="NickNo/nn_NPCManager-1.7.zip"
     Description="Manage NPCs, Relatives, Relationships etc. Use with care!&#xD;&#xD;Manage NPC-NPC or NPC-Player relationships&#xD;This little tool can help you to&#xD;- Set relationships between NPCs, relatives and/or the player (MC)&#xD;- Find 'lost' NPCs and add them to your contacts&#xD;- Delete all NPCs not in your contacts (To increase game performance)&#xD;- Delete ALL NPCs (even your contacts)&#xD;- Delete ALL Relatives" 
-    LatestUpdate="28-11-2022" 
+    LatestUpdate="08-03-2023" 
     ModRequireMods="" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?p=561" LPmodType="Mod" LpTag1="Relationships" LpTag2="Tool" LpTag3="Remake"/>
