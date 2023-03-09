@@ -35,7 +35,7 @@ You must send me your mod via <a href="https://discord.gg/d3U9E2wb4Y">Discord</a
 <hr>
 <br>
 <h3>XML Template to get your mod page displayed in LifePlay Mods Flix</h3><br>
-Visit this page for more details about each tags: https://lifeplay.site/viewtopic.php?t=457<br>
+Visit this page for more details about each tags: https://forums.raiderknight.com/viewtopic.php?t=457<br>
 
 ```
 <Mod
@@ -67,7 +67,7 @@ Thumbnail tag only accept: gif, jpg and png.
 <hr>
 <br>
 <h3>Contributing</h3>
-<p>Visit the <a href="https://lifeplay.site">Raider Knight community forums</a> or my <a href="https://discord.gg/d3U9E2wb4Y">Discord</a> server for help, to submit a bug, to contribute to the improvement of the application or just to chat!</p>
+<p>Visit the <a href="https://forums.raiderknight.com">Raider Knight community forums</a> or my <a href="https://discord.gg/d3U9E2wb4Y">Discord</a> server for help, to submit a bug, to contribute to the improvement of the application or just to chat!</p>
 <br>
 <hr>
 <br>
