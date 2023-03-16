@@ -390,15 +390,6 @@
     ModRequireMods="" 
     ModderN="RDL" ModPatreon="" ModUrlPage="" Thumbnail="" 
     FullDescription="" LPmodType="Mod" LpTag1="Dating" LpTag2="" LpTag3=""/>
-    
-    <!-- Vima's Mods (1) -->
-    <Mod Id="vim_RoomPresets" Name="Vima's Bedroom Presets" Version="1.1" 
-    Description="10 bed room presets for you" 
-    Path="Vima/vim_RoomPresets.zip" 
-    LatestUpdate="06-10-2020" 
-    ModRequireMods="" 
-    ModderN="Vima" ModPatreon="" ModUrlPage="" Thumbnail="" 
-    FullDescription="https://forums.raiderknight.com/viewforum.php?f=13" LPmodType="Pack" LpTag1="lpworld" LpTag2="Bedrooms" LpTag3=""/>
 
     <!-- Yarla's Mods (2) -->
     <Mod Id="yarla_CharacterPack1" Name="Yarla's Character Pack" 
