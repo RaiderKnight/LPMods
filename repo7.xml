@@ -202,7 +202,7 @@
     Path="Raddeck/rk_MoneyMaker-1.0.11.zip" 
     Description="3 mods that I made to make money, in one package.&#xD;Add the possibility to deposit and withdraw money at the bank.&#xD;You can buy/sell/trade jewellery, separately.&#xD;You can buy/sell/trade arts.&#xD;8 types of jewellery&#xD;8 types of arts." 
     LatestUpdate="15-01-2023" 
-    ModRequireMods="rk_Home_Inventories,vim_RoomPresets" Depends="rk_Home_Inventories" ModsConflict="rk_Art_items_Shop,rk_JewelryShop,rk_Bank_shop,rk_vin_Base" 
+    ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_Art_items_Shop,rk_JewelryShop,rk_Bank_shop,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=44" LPmodType="Mod" LpTag1="Money" LpTag2="Bundle" LpTag3=""/>
 
