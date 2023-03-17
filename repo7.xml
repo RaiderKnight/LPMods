@@ -134,10 +134,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=450" LPmodType="Mod" LpTag1="Club" LpTag2="Events" LpTag3=""/>
 
-    <Mod Id="rk_God_Mod" Name="God Mod Module [Ready for Remake]" Version="1.0.10" 
-    Path="Raddeck/rk_God_Mod-1.0.10.zip" 
+    <Mod Id="rk_God_Mod" Name="God Mod Module [Ready for Remake]" Version="1.0.11" 
+    Path="Raddeck/rk_God_Mod-1.0.11.zip" 
     Description="Cheat all the way inside LifePlay!&#xD;&#xD;The mod for cheating in LifePlay!&#xD;You need money faster, more skills, more items,....that's the mod you need!&#xD;Some options/stats from the game itself cannot be changed as this may create bugs or messed up your saves.&#xD;Some mods already have a cheating section, in that case, this mod will send you to these sections.&#xD;This mod will always expand by time.&#xD;If a new LifePlay mod appears, I will try to include is items/options." 
-    LatestUpdate="08-01-2023" 
+    LatestUpdate="16-03-2023" 
     ModRequireMods="" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/pZ1yZJC/Searchroom.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=31" LPmodType="Mod" LpTag1="Cheat" LpTag2="Remake" LpTag3=""/>
