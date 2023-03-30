@@ -1,6 +1,6 @@
 <Repo>
     <!-- #Current LifePlay Version: 5.27 -->
-    <!-- #RepoUpdated: 20230324 -->
+    <!-- #RepoUpdated: 20230330 -->
     <!-- NickNo's Mods (5) y-m-d -->
     <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.3" 
     Path="NickNo/nn_PornEmpire-0.7.3.zip" 
@@ -62,10 +62,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight/RK-Vin-Base" Thumbnail="https://i.ibb.co/6nFzP5j/bigRlp.gif" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=399" LPmodType="Overhaul" LpTag1="Remake" LpTag2="" LpTag3=""/>
     
-    <Mod Id="rk_additional_activities" Name="Additional activities Module" Version="1.0.1" 
-    Path="Raddeck/rk_additional_activities-1.0.1.zip" 
+    <Mod Id="rk_additional_activities" Name="Additional activities Module [Ready for Remake]" Version="1.0.2" 
+    Path="Raddeck/rk_additional_activities-1.0.2.zip" 
     Description="Add additional scenes during all type of activities&#xD;&#xD;A mod created by r8kie and abandoned, which I decided to revive for those who like his mod.&#xD;&#xD;Adds extra scenes during certain types of activities&#xD;The mod contain no lpaction files, only lpscenes.&#xD;The mod offer 18 new scenes about board games, mysterious events and more" 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="30-03-2023" 
     ModRequireMods="" 
     ModderN="r8kie - Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=436" LPmodType="Mod" LpTag1="Events" LpTag2="" LpTag3=""/>
