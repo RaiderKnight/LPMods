@@ -78,10 +78,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/VLxnKLM/ArtShop.jpg" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=32" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3=""/>
 
-    <Mod Id="rk_BakeryShop" Name="Bakery Shop Module" Version="1.0.9" 
-    Path="Raddeck/rk_BakeryShop-1.0.9.zip" 
+    <Mod Id="rk_BakeryShop" Name="Bakery Shop Module" Version="1.0.10" 
+    Path="Raddeck/rk_BakeryShop-1.0.10.zip" 
     Description="Add options to buy/eat pastry and bread!&#xD;This mod offers you the possibility to buy/eat bakery products of quality in certain stores in your city.&#xD;8 types of bakery products.&#xD;Apply to a job at an erotic bakery shop...&#xD;You can buy bakery products at these stores:&#xD; bakery, greengrocer, marketplace, supermarket, variety_store" 
-    LatestUpdate="12-06-2022" 
+    LatestUpdate="31-03-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ss3nCqR/Bakery-Shop.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=33" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
