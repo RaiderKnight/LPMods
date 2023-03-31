@@ -1,6 +1,6 @@
 <Repo>
     <!-- #Current LifePlay Version: 5.27 -->
-    <!-- #RepoUpdated: 20230330 -->
+    <!-- #RepoUpdated: 20230331 -->
     <!-- NickNo's Mods (5) y-m-d -->
     <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.3" 
     Path="NickNo/nn_PornEmpire-0.7.3.zip" 
@@ -86,10 +86,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ss3nCqR/Bakery-Shop.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=33" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
-    <Mod Id="rk_Bank_shop" Name="Bank Module" Version="1.0.6" 
-    Path="Raddeck/rk_Bank_shop-1.0.6.zip" 
+    <Mod Id="rk_Bank_shop" Name="Bank Module" Version="1.0.7" 
+    Path="Raddeck/rk_Bank_shop-1.0.7.zip" 
     Description="Add options to deposit and withdraw money!&#xD;This mod allows you to accumulate more money to do your foolishness or just to enjoy yourself.&#xD;It gives you the option to borrow money from the bank." 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="31-03-2023" 
     ModRequireMods="rk_Personal_Inventories" Depends="rk_Personal_Inventories" ModsConflict="rk_MoneyMaker,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/qDp2SFz/Bank1.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=34" LPmodType="Mod" LpTag1="Money" LpTag2="Improvement" LpTag3=""/>
@@ -158,17 +158,17 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=10" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
-    <Mod Id="rk_Sex_Cream_Shop" Name="Sex Cream Shop Module" Version="1.0.1" 
-    Path="Raddeck/rk_Sex_Cream_Shop-1.0.1.zip" 
+    <Mod Id="rk_Sex_Cream_Shop" Name="Sex Cream Shop Module" Version="1.0.2" 
+    Path="Raddeck/rk_Sex_Cream_Shop-1.0.2.zip" 
     Description="This mod gives you the possibility to buy in different stores XXX frozen desserts, made with natural ingredients.&#xD;This mod add 5 new types of drinks and 8 new frozen treats to choose from.&#xD;Once you have purchased a dessert, it will automatically be added to your inventory. Then you can enjoy them at home.&#xD;Some shops and others, offer you the possibility to eat on site.&#xD;Contain 4 files." 
-    LatestUpdate="02-02-2023" 
+    LatestUpdate="31-03-2023" 
     ModRequireMods="rk_Home_Inventories,rk_IceCreamShop" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/K02FJBp/icecream1.png" 
     FullDescription="" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
     <Mod Id="rk_JewelryShop" Name="Jewellery Shop Module" Version="1.0.6" 
     Path="Raddeck/rk_JewelryShop-1.0.6.zip" 
-    Description="Buy,trade or sell jewellery and few extras !&#xD;Add options to buy, sell and trade jewellery at some places around the city.&#xD;8 types of jewelry to buy.&#xD;Contain 2 scenes." 
+    Description="Buy,trade or sell jewellery and few extras !&#xD;Add options to buy, sell and trade jewellery at some places around the city.&#xD;8 types of jewellery to buy.&#xD;Contain 2 scenes." 
     LatestUpdate="12-06-2022" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_MoneyMaker,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/x6234Gw/Jewelry-Shop.jpg" 
