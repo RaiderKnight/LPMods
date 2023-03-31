@@ -118,10 +118,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8dCG8tv/Candy-Shop.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=37" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
     
-    <Mod Id="rk_EroticShop" Name="Erotic Shop Module" Version="1.0.9" 
-    Path="Raddeck/rk_EroticShop-1.0.9.zip" 
+    <Mod Id="rk_EroticShop" Name="Erotic Shop Module" Version="1.0.10" 
+    Path="Raddeck/rk_EroticShop-1.0.10.zip" 
     Description="Add options to buy erotic products at different places around the city.&#xD;7 types of erotic product, 4 variety for each types.&#xD;1 adult toy box.&#xD;You can play with most of the toys.&#xD;At the moment, you cannot use all of them separately... next updates, if Vin add animations for it." 
-    LatestUpdate="12-06-2022" 
+    LatestUpdate="31-03-2023" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/CbPFffK/Erotic-Shop.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=38" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3="Beauty"/>
@@ -278,10 +278,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=49" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
 
-    <Mod Id="rk_PopCornsShop" Name="Pop corns Shop Module" Version="1.0.6" 
-    Path="Raddeck/rk_PopCornsShop-1.0.6.zip" 
+    <Mod Id="rk_PopCornsShop" Name="Pop corns Shop Module" Version="1.0.7" 
+    Path="Raddeck/rk_PopCornsShop-1.0.7.zip" 
     Description="Add options to buy/eat popcorn at different places around the city.&#xD;4 popcorn to choose.&#xD;Contain 4 scenes." 
-    LatestUpdate="12-06-2022" 
+    LatestUpdate="31-03-2023" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=50" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
