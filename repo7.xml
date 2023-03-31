@@ -81,7 +81,7 @@
     <Mod Id="rk_BakeryShop" Name="Bakery Shop Module" Version="1.0.10" 
     Path="Raddeck/rk_BakeryShop-1.0.10.zip" 
     Description="Add options to buy/eat pastry and bread!&#xD;This mod offers you the possibility to buy/eat bakery products of quality in certain stores in your city.&#xD;8 types of bakery products.&#xD;Apply to a job at an erotic bakery shop...&#xD;You can buy bakery products at these stores:&#xD; bakery, greengrocer, marketplace, supermarket, variety_store" 
-    LatestUpdate="31-03-2022" 
+    LatestUpdate="31-03-2023" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_ShopAddons,rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ss3nCqR/Bakery-Shop.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=33" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
@@ -286,10 +286,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=50" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
-    <Mod Id="rk_random_breakup" Name="Random Breakups Module"  Version="1.0.1" 
-    Path="Raddeck/rk_random_breakup-1.0.1.zip" 
+    <Mod Id="rk_random_breakup" Name="Random Breakups Module"  Version="1.0.2" 
+    Path="Raddeck/rk_random_breakup-1.0.2.zip" 
     Description="Add and modify some events so that breakups happen without you - and actually frees the person - or you can be more proactive into causing them.&#xD;A mod created by VinnyB and abandoned, which I decided to revive for those who like his mod.&#xD;I took the care to correct the code and some typos." 
-    LatestUpdate="26-06-2022" 
+    LatestUpdate="31-03-2023" 
     ModRequireMods="" 
     ModderN="VinnyB - Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=435" LPmodType="Mod" LpTag1="Events" LpTag2="Relationships" LpTag3=""/>
