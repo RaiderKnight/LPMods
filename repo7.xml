@@ -366,10 +366,10 @@
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=437" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
 
-    <Mod Id="sbrk_BeautyExpansion" Name="Beauty Expansion Module" Version="1.8" 
-    Path="Raddeck/sbrk_BeautyExpansion-1.8.zip" 
-    Description="A beauty additions for your companion.&#xD;&#xD;Rework of the mod Beauty Expansion. Beauty Additions for your companion&#xD;With this mod you will be able to offer to your dear one:&#xD;- A new haircut&#xD;- A new hair dye&#xD;- Beauty treatment&#xD;- Fake nails&#xD;- Fake eyelashes&#xD;- and more..." 
-    LatestUpdate="08-01-2023" 
+    <Mod Id="sbrk_BeautyExpansion" Name="Beauty Expansion Module" Version="1.9" 
+    Path="Raddeck/sbrk_BeautyExpansion-1.9.zip" 
+    Description="A beauty additions for your companion.&#xD;&#xD;Rework of the mod Beauty Expansion. Beauty Additions for your companion and yourself&#xD;With this mod you will be able to offer to your dear one and you also:&#xD;- A new haircut&#xD;- A new hair dye&#xD;- Beauty treatment&#xD;- Fake nails&#xD;- Fake eyelashes&#xD;- Get a Tattoo&#xD;- and more..." 
+    LatestUpdate="31-03-2023" 
     ModRequireMods="" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=449" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
