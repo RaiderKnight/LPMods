@@ -126,10 +126,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/CbPFffK/Erotic-Shop.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=38" LPmodType="Mod" LpTag1="Shop" LpTag2="Accessory" LpTag3="Beauty"/>
 
-    <Mod Id="rk_Exclusive_Swinger_Club" Name="Exclusive Swinger Club Module" Version="1.0.1" 
-    Path="Raddeck/rk_Exclusive_Swinger_Club-1.0.1.zip" 
+    <Mod Id="rk_Exclusive_Swinger_Club" Name="Exclusive Swinger Club Module" Version="1.0.2" 
+    Path="Raddeck/rk_Exclusive_Swinger_Club-1.0.2.zip" 
     Description="Take a membership to an exclusive swingers club related to your ethnicity!&#xD;&#xD;Subscribe to the club&#xD;Unsubscribe to the club&#xD;Threesome, foursome, cuckold and more to come." 
-    LatestUpdate="11-10-2022" 
+    LatestUpdate="01-04-2023" 
     ModRequireMods="" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=450" LPmodType="Mod" LpTag1="Club" LpTag2="Events" LpTag3=""/>
@@ -142,10 +142,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/pZ1yZJC/Searchroom.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=31" LPmodType="Mod" LpTag1="Cheat" LpTag2="Remake" LpTag3=""/>
 
-    <Mod Id="rk_Home_Inventories" Name="Home Inventories Module" Version="1.0.10" 
-    Path="Raddeck/rk_Home_Inventories-1.0.10.zip" 
+    <Mod Id="rk_Home_Inventories" Name="Home Inventories Module" Version="1.0.11" 
+    Path="Raddeck/rk_Home_Inventories-1.0.11.zip" 
     Description="Better way to store your items - Focused on my mods items!&#xD;&#xD;Attempt to reduce the number of items in the action menu.&#xD;It allows you to have your items classified by categories.&#xD;Some inventories become active only if the Home Extensions mod is activated." 
-    LatestUpdate="15-01-2023" 
+    LatestUpdate="01-04-2023" 
     ModRequireMods="" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=39" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
@@ -206,10 +206,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=44" LPmodType="Mod" LpTag1="Money" LpTag2="Bundle" LpTag3=""/>
 
-    <Mod Id="rk_MoreRides" Name="More Rides Module" Version="1.0.8" 
-    Path="Raddeck/rk_MoreRides-1.0.8.zip" 
+    <Mod Id="rk_MoreRides" Name="More Rides Module" Version="1.0.9" 
+    Path="Raddeck/rk_MoreRides-1.0.9.zip" 
     Description="Add the possibility to buy/sell/trade a motorcycle separately.&#xD;Add the possibility to buy/sell/trade a bicycle separately.&#xD;Add the possibility to buy/sell/trade a car.&#xD;8 motorcycle brands.&#xD;8 bicycle brands.&#xD;7 car brands.&#xD;Also can buy with sex if your lucky." 
-    LatestUpdate="24-08-2022" 
+    LatestUpdate="01-04-2023" 
     ModRequireMods="rk_Home_Inventories" Depends="rk_Home_Inventories" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=47" LPmodType="Mod" LpTag1="Shop" LpTag2="Vehicles" LpTag3=""/>
@@ -270,10 +270,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/1sz3szm/Online-Food-Shop.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=48" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3="Remake"/>
 
-    <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Module" Version="1.0.9" 
-    Path="Raddeck/rk_Personal_Inventories-1.0.9.zip" 
+    <Mod Id="rk_Personal_Inventories" Name="Personal Inventories Module" Version="1.0.10" 
+    Path="Raddeck/rk_Personal_Inventories-1.0.10.zip" 
     Description="Better way to store your personal items - Focused on my mods items!&#xD;&#xD;This mod adds 2 new pockets and wallet inventories.&#xD;It allows you to better manage your items and also to reduce the number of items in the action menu." 
-    LatestUpdate="24-08-2022" 
+    LatestUpdate="01-04-2023" 
     ModRequireMods="" ModsConflict="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=49" LPmodType="Mod" LpTag1="Inventory" LpTag2="Improvement" LpTag3=""/>
