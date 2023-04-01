@@ -70,7 +70,7 @@
     ModderN="r8kie - Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=436" LPmodType="Mod" LpTag1="Events" LpTag2="" LpTag3=""/>
 
-    <Mod Id="rk_Art_items_Shop" Name="Art Shop addon Module" Version="1.0.7" 
+    <Mod Id="rk_Art_items_Shop" Name="Art Shop Module" Version="1.0.7" 
     Path="Raddeck/rk_Art_items_Shop-1.0.7.zip" 
     Description="This mod offers you the possibility to buy works of art in certain stores in your city.&#xD;You can sell and trade art items at some places around the city.&#xD;8 types of art items to buy.&#xD;Contain 1 scene, at the moment.&#xD;You can buy them at these stores: art, marketplace, gift" 
     LatestUpdate="30-03-2023" 
