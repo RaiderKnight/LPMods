@@ -70,8 +70,8 @@ isPatch=""          //Don't use it! - For special case only **Exclusive - Option
 />
 ```
 
-** Thumbnail tag only accept: gif, jpg and png.
-** Exclusive: Reserved to my V.I.P, patrons and donors.
+<p>** Thumbnail tag only accept: gif, jpg and png.</p>
+<p>** Exclusive: Reserved to my V.I.P, patrons and donors.</p>
 
 <br>
 <hr>
@@ -84,7 +84,7 @@ isPatch=""          //Don't use it! - For special case only **Exclusive - Option
 <h3>Supporting</h3>
 <ul>
 <li>Via <a href="https://www.patreon.com/raiderknight">Patreon</a></li>
-<li>Via <a href="https://www.buymeacoffee.com/raiderknight">Discord</a></li>
+<li>Via <a href="https://www.buymeacoffee.com/raiderknight">BuyMeACoffee</a></li>
 </ul>
 <br>
 <hr>
