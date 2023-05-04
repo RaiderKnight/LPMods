@@ -1,6 +1,6 @@
 # LPMods
-<p>This is the mod repository for: RKModManager (RKLauncher) and LifePlay Mods Flix</p>
-https://github.com/RaiderKnight/RKModManager<br>
+<p>This is the mod repository for: LifePlay Mods Flix</p>
+https://github.com/RaiderKnight/RKModManager - Abandoned<br>
 https://github.com/RaiderKnight/RK-LifePlay-Mods-Flix<br>
 <br>
 <p>Only the best mods for LifePlay and those that are compatible with the Remake are added to this repo.</p>
