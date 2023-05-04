@@ -11,16 +11,17 @@ Only unique mods and addons!</p>
 <hr>
 <br>
 <h3>How to add my mod to this repo?</h3>
-<p><strong>Submitting your mod is easy and free but has a few rules:</strong><br>
+<p><strong>Submitting your mod is easy and free but has a few rules: </strong><br>
 You must send me your mod via <a href="https://discord.gg/d3U9E2wb4Y">Discord</a> or via an upload page so I can analyze it.</p>
 <ul><li>Your mod must be unique.</li>
 <li>The content of your mod should not be identical to another mod.</li>
 <li>Your mod must be functional.</li>
 <li>Your mod must contain a lpmod or lpaddon file.</li>
-<li>Your mod's content must be approved.</li></ul>
+<li>Your mod's content must be approved.</li>
+<li>When approved, your mod must be added to the forum in the appropriate category. Here: https://forums.raiderknight.com/viewforum.php?f=66</li></ul>
 <br>
 <p>The MODULE_VERSION tag is required for lpaddons and lpmods.</p> 
-<p>The RKLauncher and LifePlay Mods Flix, only checks if the locally installed version is different from the repository version.</p>
+<p>The LifePlay Mods Flix, only checks if the locally installed version is different from the repository version.</p>
 <br>
 <p><strong>Mods refused:</strong></p>
 <ul><li>Having illegal content</li>
@@ -32,25 +33,33 @@ You must send me your mod via <a href="https://discord.gg/d3U9E2wb4Y">Discord</a
 <p><strong>We reserve the right to refuse any mod that we consider nonviable.</strong></p>
 <p>If you have any questions or disagree with our decision, you can contact us via the <a href="https://lifeplay.site">RK forums</a> or <a href="https://discord.gg/d3U9E2wb4Y">Discord</a>.</p>
 <br>
+<h3>Why is it important to your mod to the forum</h3>
+<p>- To allow you to have all posts related to your mod in one topic, thus preventing members from posting about something off-topic and unrelated.</p>
+<p>- To allow people to ask you questions or ask for help about your mod.</p>
+<p>- To announce your updates or other related to your mod.</p>
+<br>
 <hr>
 <br>
 <h3>XML Template to get your mod page displayed in LifePlay Mods Flix</h3><br>
-Visit this page for more details about each tags: https://forums.raiderknight.com/viewtopic.php?t=457<br>
+<p>Visit this page for more details about each tags: https://forums.raiderknight.com/viewtopic.php?t=457</p>
+<br>
 
 ```
 <Mod
 Id=""               // ID of your mod
 Name=""             // The name of your module
 Version=""          // Version of your module
-Path=""             // no need to provide it
+Path=""             // Don't add anything
 Description=""      // 500 character max - Do &#xD; for changing line
 LatestUpdate=""     // Latest update: Day-Month-Years
-ModRequireMods=""   // Does your mod require any mods: Separate each mod with a comma Ex: LifePlay 5.0,nt_OtherMods,...
-Depends=""          // Does your mod require a mod: Put only 1 mod Ex: nt_OtherMods - Optional
+ModRequireMods=""   // Does your mod require any mods? Separate each mod with a comma Ex: MonsterAddons,nt_OtherMods,...
+Depends=""          // Does your mod require a mod? Put only 1 mod Ex: nt_OtherMods - Optional
+ModsConflict=""     // Does your mod is conflicting with any mods? Separate each mod with a comma Ex: nt_OtherMods, gg_SpecialMod,... **Optional
 Msg=""              // Will throw a popup message **Optional
 ModderN=""          // Your modder's name
 ModPatreon=""       // Your Patreon page url **Exclusive - Optional
 ModUrlPage=""       // Your github page url **Optional
+ModContrib=""       // List of contributors separated by a comma **Optional
 Thumbnail=""        // A thumbnail for you mod 350x350max - Hosted on https://imgbb.com/
 FullDescription=""  //Your url topic page on the forum Raider Knight
 LPmodType=""        // Type of your mod. A Mod or a Addon
@@ -58,11 +67,12 @@ LpTag1=""           // Category tag for your mod - 1 word max
 LpTag2=""           // Category tag for your mod - 1 word max
 LpTag3=""           // Category tag for your mod - 1 word max
 isPatch=""          //Don't use it! - For special case only **Exclusive - Optional
-ModContrib=""       // List of contributors separated by a comma **Optional
 />
 ```
 
-Thumbnail tag only accept: gif, jpg and png.
+** Thumbnail tag only accept: gif, jpg and png.
+** Exclusive: Reserved to my V.I.P, patrons and donors.
+
 <br>
 <hr>
 <br>
