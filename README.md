@@ -33,7 +33,7 @@ You must send me your mod via <a href="https://discord.gg/d3U9E2wb4Y">Discord</a
 <p><strong>We reserve the right to refuse any mod that we consider nonviable.</strong></p>
 <p>If you have any questions or disagree with our decision, you can contact us via the <a href="https://lifeplay.site">RK forums</a> or <a href="https://discord.gg/d3U9E2wb4Y">Discord</a>.</p>
 <br>
-<h3>Why is it important to your mod to the forum</h3>
+<h3>Why is it important to add your mod to the forum</h3>
 <p>- To allow you to have all posts related to your mod in one topic, thus preventing members from posting about something off-topic and unrelated.</p>
 <p>- To allow people to ask you questions or ask for help about your mod.</p>
 <p>- To announce your updates or other related to your mod.</p>
