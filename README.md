@@ -18,7 +18,17 @@ You must send me your mod via <a href="https://discord.gg/d3U9E2wb4Y">Discord</a
 <li>Your mod must be functional.</li>
 <li>Your mod must contain a lpmod or lpaddon file.</li>
 <li>Your mod's content must be approved.</li>
-<li>When approved, your mod must be added to the forum in the appropriate category. Here: https://forums.raiderknight.com/viewforum.php?f=66</li></ul>
+<li>When approved, your mod must be added to the forum in the appropriate category. Here: https://forums.raiderknight.com/viewforum.php?f=12</li></ul>
+<br>
+<hr>
+<br>
+<h3>How to add my addon to this repo?</h3>
+<p><strong>Submitting your addon it's the same rules as mods, except: </strong><br>
+<p>To avoid excessive submissions, addons should contain at least 10 lpworld files or 10 character presets, depending on your addons.</p>
+<p>If you plan to submit hundreds of lpworld or lpcharacter files, create one pack containing all of them or multiple packs to better categorize them.</p>
+<p>When approved, your mod must be added to the forum in the appropriate category. Here: https://forums.raiderknight.com/viewforum.php?f=13</p>
+<br>
+<hr>
 <br>
 <p>The MODULE_VERSION tag is required for lpaddons and lpmods.</p> 
 <p>The LifePlay Mods Flix, only checks if the locally installed version is different from the repository version.</p>
