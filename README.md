@@ -38,6 +38,7 @@ You must send me your mod via <a href="https://discord.gg/d3U9E2wb4Y">Discord</a
 <li>Containing too many bugs</li>
 <li>Badly constructed texts</li>
 <li>Content from other mods</li>
+<li>Mod that overwrites other mods' files</li>
 </ul>
 <br>
 <p><strong>We reserve the right to refuse any mod that we consider nonviable.</strong></p>
