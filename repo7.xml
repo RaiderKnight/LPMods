@@ -1,20 +1,20 @@
 <Repo>
     <!-- #Current LifePlay Version: 5.28 -->
-    <!-- #RepoUpdated: 20230528 -->
+    <!-- #RepoUpdated: 20230610 -->
     <!-- NickNo's Mods (5) y-m-d -->
-    <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.5" 
-    Path="NickNo/nn_PornEmpire-0.7.5.zip" 
+    <Mod Id="nn_PornEmpire" Name="Porn Empire [Ready for Remake]" Version="0.7.6" 
+    Path="NickNo/nn_PornEmpire-0.7.6.zip" 
     Description="Run your own porn company in LifePlay.&#xD;&#xD;PornEmpire is a LifePlay mod that lets you run your own porn business in LifePlay. Its a management sim, so expect it to be challenging.&#xD;Manage models, create videos to sell them online, organize cam shows and castings.&#xD;The mod has many custom 3D scenes, NPC creator with body morphs and 30 model presets." 
     Msg="Thanks for installing PornEmpire! If you find any bugs, please report on Discord. Thanks. - NickNo" 
-    LatestUpdate="28-05-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/qrfk8gM/nn-pe-do-shoot211.jpg" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=441" LPmodType="Mod" LpTag1="Business" LpTag2="Empire" LpTag3="Remake"/>
 
-    <Mod Id="nn_NPCManager" Name="NPC Manager [Ready for Remake]" Version="1.7" 
-    Path="NickNo/nn_NPCManager-1.7.zip" 
+    <Mod Id="nn_NPCManager" Name="NPC Manager [Ready for Remake]" Version="1.8" 
+    Path="NickNo/nn_NPCManager-1.8.zip" 
     Description="Manage NPCs, Relatives, Relationships etc. Use with care!&#xD;&#xD;Manage NPC-NPC or NPC-Player relationships&#xD;This little tool can help you to&#xD;- Set relationships between NPCs, relatives and/or the player (MC)&#xD;- Find 'lost' NPCs and add them to your contacts&#xD;- Delete all NPCs not in your contacts (To increase game performance)&#xD;- Delete ALL NPCs (even your contacts)&#xD;- Delete ALL Relatives" 
-    LatestUpdate="08-03-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?p=561" LPmodType="Mod" LpTag1="Relationships" LpTag2="Tool" LpTag3="Remake"/>
@@ -27,37 +27,37 @@
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/ssq7BPc/nn-he-intro.gif" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3=""/>
 
-    <Mod Id="nn_GangsOfLifePlay" Name="Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.4" 
-    Path="NickNo/nn_GangsOfLifePlay-0.2.4.zip" 
+    <Mod Id="nn_GangsOfLifePlay" Name="Gangs of LifePlay: Kingpin [Ready for Remake]" Version="0.2.5" 
+    Path="NickNo/nn_GangsOfLifePlay-0.2.5.zip" 
     Description="You are the boss. The crime boss!&#xD;&#xD;This WIP mod adds turn based combat to LifePlay.&#xD;&#xD;The battle system is already working and you have different weapons to choose from.&#xD;You can break into storage rooms of hospitals, pharmacies etc and sell drugs and items to make money.&#xD;The mod extends the crime options that the base game has. If offers turn based combat for (currently one) opponent(s) and will allow gang and prostitution management." 
-    LatestUpdate="28-05-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="" 
     ModderN="NickNo" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" ModContrib="Raddeck" Thumbnail="https://i.ibb.co/YZPMM90/nn-gl-deal-street.gif" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=440" LPmodType="Mod" LpTag1="Gang" LpTag2="Business" LpTag3="Remake"/>
 
-    <Mod Id="nn_VB_HomeExpander" Name="Home Extensions [Remake Only]" Version="1.0.6" 
-    Path="NickNo/nn_VB_HomeExpander-1.0.6.zip" 
+    <Mod Id="nn_VB_HomeExpander" Name="Home Extensions [Remake Only]" Version="1.0.7" 
+    Path="NickNo/nn_VB_HomeExpander-1.0.7.zip" 
     Description="Add more rooms and life to your home.&#xD;&#xD;This adds six 3D rooms to any Home - it also adds new scenes/locations for the bathroom.&#xD;Two additional bedrooms can be let to other contacts / random NPCs.&#xD;The two optional bedrooms can be rent to NPCs.&#xD;If you do so, you will have some more life in your home and... maybe some interesting encounters :)&#xD;Mod only compatible with the Remake!" 
-    LatestUpdate="19-03-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="The Remake Overhaul" Depends="rk_vin_Base" 
     ModderN="NickNo - Raddeck" ModPatreon="" ModUrlPage="https://github.com/NickNo-dev" Thumbnail="https://i.ibb.co/ssq7BPc/nn-he-intro.gif" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=439" LPmodType="Mod" LpTag1="Home" LpTag2="Improvement" LpTag3="Remake"/>
     
     <!-- Mysterious Modder's Mods (1) -->
-    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.16" 
-    Path="Meister/mm_Modules-1.0.16.zip" 
+    <Mod Id="mm_Modules" Name="Mysterious Modder's Additional Modules [Remake Only]" Version="1.0.17" 
+    Path="Meister/mm_Modules-1.0.17.zip" 
     Description="My additional hardcore Modules. If you know me, you know what it's all about!&#xD;&#xD;Let the application do the job for you..&#xD;&#xD;These mods are ONLY COMPATIBLE WITH THE REMAKE&#xD;These mods add more scenes and actions.&#xD;Use LewdPatcher for LifePlay vanilla version." 
-    LatestUpdate="28-05-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="The Remake Overhaul" Depends="rk_vin_Base"  
     ModderN="MysteriousModder" ModUrlPage="https://lewdpatcher.com/" Thumbnail="" 
     FullDescription="" LPmodType="Pack" LpTag1="Myst" LpTag2="Remake" LpTag3=""/>
     
     <!-- Mods (41) -->
-    <Mod Id="rk_vin_Base" Name="The LifePlay Remake [Overhaul]" Version="2.0.22" 
+    <Mod Id="rk_vin_Base" Name="The LifePlay Remake [Overhaul]" Version="2.0.23" 
     Path="Raddeck/Remake1Modules.zip" 
     Description="Total remake of the LifePlay content, containing more completed/fixed scenes, less popup scenes, menu user with fewer elements (group actions/scenes into a single element)&#xD;&#xD;- Almost all files inside vin_ folders have been edited.&#xD;- Contain 75% more content and 40% more items.&#xD;- Universities have a purpose.&#xD;- More items to buy/eat/sale or trade, most of them have a purpose.&#xD;- New stats (hunger, urge to pee, sexual,...).&#xD;- More actions, choices, consequence and possibilities&#xD;- More activities and jobs.&#xD;- You can buy an alarm system and/or train your dog to protect you.&#xD;- And a lot more...&#xD;- Updated almost every week." 
     Msg="Thanks for installing the Remake!&#xD;If you find any bugs, please report on forums Raider Knight or my Discord.&#xD;Thanks. - Raddeck" 
-    LatestUpdate="28-05-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight/RK-Vin-Base" Thumbnail="https://i.ibb.co/6nFzP5j/bigRlp.gif" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=399" LPmodType="Overhaul" LpTag1="Remake" LpTag2="" LpTag3=""/>
@@ -254,10 +254,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=45" LPmodType="Mod" LpTag1="NTR" LpTag2="Events" LpTag3=""/>
 
-    <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.13" 
-    Path="Raddeck/rk_My_Neighbors-1.0.13.zip" 
+    <Mod Id="rk_My_Neighbors" Name="My Neighbours Module [Ready for Remake]" Version="1.0.14" 
+    Path="Raddeck/rk_My_Neighbors-1.0.14.zip" 
     Description="New stories with your neighbours!&#xD;Add new interactions with your neighbours.&#xD;Contain 4 stories.&#xD;Contain 10 scenes.&#xD;Story about a naked gardener&#xD;Story about a new neighbour who need help for moving in.&#xD;Story about a neighbour who needs attention.&#xD;And more...&#xD;This mod will expand by time and also by suggestion made." 
-    LatestUpdate="01-05-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/8rt5d64/MoveIn.jpg" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=46" LPmodType="Mod" LpTag1="Neighbours" LpTag2="Events" LpTag3="Remake"/>
@@ -302,10 +302,10 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/SNCy3QL/Seafood-Shop.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=51" LPmodType="Mod" LpTag1="Shop" LpTag2="Food" LpTag3=""/>
 
-    <Mod Id="rk_Sex_Guru" Name="Sex-Guru Module [Ready for Remake]" Version="1.0.11" 
-    Path="Raddeck/rk_Sex_Guru-1.0.11.zip" 
+    <Mod Id="rk_Sex_Guru" Name="Sex-Guru Module [Ready for Remake]" Version="1.0.12" 
+    Path="Raddeck/rk_Sex_Guru-1.0.12.zip" 
     Description="Start your own religious community!&#xD;Start you own guru life by hiring disciple and earning money by selling special products.&#xD;This mod contain 52 scenes, 46 new characters and some events." 
-    LatestUpdate="06-05-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="rk_Home_Inventories,rk_Personal_Inventories" Depends="rk_Home_Inventories" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/dMLg8k2/guru1.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=52" LPmodType="Mod" LpTag1="Religion" LpTag2="Guru" LpTag3="Remake"/>
@@ -334,18 +334,18 @@
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/0MJgRQN/Vegan-Shop.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=55" LPmodType="Mod" LpTag1="Shop" LpTag2="" LpTag3=""/>
 
-    <Mod Id="rk_vin_Fantasy" Name="LifePlay Fantasy Module [Remake Only]" Version="1.0.8" 
-    Path="Raddeck/rk_vin_Fantasy-1.0.8.zip" 
+    <Mod Id="rk_vin_Fantasy" Name="LifePlay Fantasy Module [Remake Only]" Version="1.0.9" 
+    Path="Raddeck/rk_vin_Fantasy-1.0.9.zip" 
     Description="LifePlay fantasy folder turn into a mod for the Remake.&#xD;&#xD;This mod adds several scenes and actions to the game.&#xD;You can buy blood&#xD;You can drink blood&#xD;You got a blood stash" 
-    LatestUpdate="06-05-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="The Remake Overhaul" Depends="rk_vin_Base" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="" LPmodType="Mod" LpTag1="Fantasy" LpTag2="Remake" LpTag3=""/>
 
-    <Mod Id="rk_Weed_biz" Name="Weed Business Module [Ready for Remake]" Version="1.0.11" 
-    Path="Raddeck/rk_Weed_biz-1.0.11.zip" 
+    <Mod Id="rk_Weed_biz" Name="Weed Business Module [Ready for Remake]" Version="1.0.12" 
+    Path="Raddeck/rk_Weed_biz-1.0.12.zip" 
     Description="Start your own weed business, make more money!&#xD;&#xD;Start your own business as a dealer.&#xD;Contain 28 scenes.&#xD;You can hire employees to help you sell and protect your bunker.&#xD;A tutorial (wip) and cheats are included." 
-    LatestUpdate="06-05-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="nn_GangsOfLifePlay,rk_Home_Inventories,rk_Personal_Inventories" Depends="nn_GangsOfLifePlay" 
     ModderN="Raddeck" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="https://i.ibb.co/ZLF5nnY/Office-Bunker.png" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=57" LPmodType="Mod" LpTag1="Business" LpTag2="Crime" LpTag3="Remake"/>
@@ -374,10 +374,10 @@
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="https://forums.raiderknight.com/viewtopic.php?t=449" LPmodType="Mod" LpTag1="Beauty" LpTag2="Improvement" LpTag3=""/>
 
-    <Mod Id="sbrk_PimpYourGirl" Name="Pimp Your Girl (Sexwork Improvement) [Ready for Remake]" Version="1.4" 
-    Path="Raddeck/sbrk_PimpYourGirl-1.4.zip" 
+    <Mod Id="sbrk_PimpYourGirl" Name="Pimp Your Girl (Sexwork Improvement) [Ready for Remake]" Version="1.5" 
+    Path="Raddeck/sbrk_PimpYourGirl-1.5.zip" 
     Description="Rework of the mod PimpYourGirl and add base sexwork stuff..&#xD;No new files have been added, I only fixed all the bugs I found." 
-    LatestUpdate="08-01-2023" 
+    LatestUpdate="10-06-2023" 
     ModRequireMods="" 
     ModderN="Raddeck - SexyBastardo" ModPatreon="https://www.patreon.com/raiderknight" ModUrlPage="https://github.com/RaiderKnight" Thumbnail="" 
     FullDescription="" LPmodType="Mod" LpTag1="sexwork" LpTag2="Improvement" LpTag3="Remake"/>
