@@ -1,5 +1,6 @@
-Raddeck API Requests (since 3.17)
-****************
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&
+% Raddeck API Requests (since 3.17) %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&&
 
 This is a list of API calls that would help making LP modding easier / better.      
 
@@ -7,6 +8,7 @@ This is a list of API calls that would help making LP modding easier / better.
 #1
 
 What NickNo asked in nn_API_requests_3.19.txt - PornEmpire mod
+https://f95zone.to/threads/lifeplay-v4-6-vinfamy.11321/post-4881047
 
 
 *******************************************************************************
@@ -14,7 +16,7 @@ What NickNo asked in nn_API_requests_3.19.txt - PornEmpire mod
 
 We have energy for stat.
 In real to boost energy, we need to eat.
-So sleeping is not supppose to fill up my belly.
+So sleeping is not suppose to fill up my belly.
 
 I propose to have "Hunger" or something like that
 
@@ -31,7 +33,8 @@ hunger += 2
 animate(pray)
 Not working outside the church
 
-Remove the limitation on "animate()" animations. I want to work out in a church, pray in a park, do yoga at home,...
+Remove the limitation on "animate()" animations. 
+I want to work out in a church, pray in a park, do yoga at home,...
 
 
 *******************************************************************************
@@ -53,15 +56,32 @@ Having a command to go faster depending with what you used for travel
 *******************************************************************************
 #6
 
-Remove the limitation on having to live in an apartment/house. Living like a bum would be cool!
+Can you make an animated background to give the impression of driving a car/motorcycle/bicycle? To make them useful ...
+
+As we have cops
+A background showing us in the back/front seat, as policemen (front), as a prisoner (back) - inside a police car.
+
+As we have cars, motorcycle
+A background showing us driving a car (from inside the car and outside too)
+
+Be able to do crazy shit like, fucking my wife on motorcycle when riding on train road.
 
 
 *******************************************************************************
 #7
 
 Having new animate() & Filter()
-animate(wasted), animate(stoned), animate(drugged), animate(paralized)
+animate(wasted), animate(stoned), animate(drugged), animate(paralyzed)
+- Drunk (affects vision and mobility)
+- Drugged (affects vision and mobility)
+- Paralyzed (cannot move)
+- Too wasted to stay straight (for example. when we fuck, Actor can fall from the bed or some positions are not doable because of is state...) (affects mobility and vision)
+
+- Bending
+- Be on "four legs"
+
 And also be able to use any sex position separately
+A lots are not working on Trans.
 
 *******************************************************************************
 #8
@@ -82,7 +102,10 @@ eg.
 #9
 
 Allow the modder to set the business hours
-Remove the limitation on store hours.
+That's an another thing I hate the most, the limitation on the opening hours of stores and other.
+Ex: Public toilets close at 6:30pm ---> Useless
+
+Please, remove this useless limitation and let us configure it ourselves (in AI for example).
 
 
 *******************************************************************************
@@ -111,6 +134,8 @@ In LifePlay main menu (not in game)
 2- When starting a new game, choice to reset or to stay with old stats
 3- Add a button for Mods manager
 
+Because right now, when you start a new game, most of the old data is retained.
+
 *******************************************************************************
 #13
 
@@ -120,30 +145,34 @@ Having the possibility to create a table: To display paragraphs of text, imitate
 *******************************************************************************
 #14
 
-A way to add tooltips message on menu items in a lpscene.
+A way to add popover/tooltips message on menu items in a scene.
 
 
 *******************************************************************************
 #15
 
-solo(in fact all, not just solo) animations list for modders
+Having a new function called "hadSexWith()" to do something like: 
+If Player.hadSexWith(Actor69)
 
 
 *******************************************************************************
 #16
 
-a way to override existing lpaction from the game or from other mods
+A new function called "hadSexWithCreature()"  
+
+Ex: Because if the dog hadSex() with another dog, hadSex() become useless
 
 
 *******************************************************************************
 #17
 
-adding a door to rooms
+adding a working door to entrances and rooms connected with other rooms
+
 
 *******************************************************************************
 #18
 
-Be able to use our own variables inside conditions for lpaction and lpscene files
+Be able to use our own variables inside conditions (the header of the files) for lpaction and lpscene files
 
 
 *******************************************************************************
@@ -154,5 +183,262 @@ Allow the modder to take over business on some store/building.
 
 
 *******************************************************************************
+#20
+
+Replace the categories menu at the top of the actions menu for a horizontal scrolling menu, so modders can add their own category or just adding more categories.
+
+
+*******************************************************************************
+#21
+
+What's the purpose of "Watersports", if:
+1: Player/NPC cannot pee (no solo animation)
+2: No statistics for this sexual preference
+3: Player/NPC doesn't like receiving urine
+4: Player/NPC doesn't want to pee because there's no pee level.
+5: No pee level based on number of drinks drunk
+
+
+*******************************************************************************
+#22
+
+Having the possibility to add one block of houses (not 2), as decoration, when creating lpworld
+The one provided actually contains 2 block of houses and a street in the middle.
+
+
+*******************************************************************************
+#23
+
+Add a variable to be able to remove NPC generated automatically by the game. 
+
+Something like removeAllPersonHere()
+
+Because:
+If you want to create a fake room inside a shop or houses
+There is no way to remove the NPC's generated by the game. So, you can't be alone in your room....
+
+
+*******************************************************************************
+#24
+
+Do a duplicate of the animation "Shower" and create one called "Caress myself" or something alike.
+Without the toilet background
+
+
+*******************************************************************************
+#25
+
+Filter(RubPussy) - Can you add also RubPussyOnFace and RubPussyOnThigh
+
+*******************************************************************************
+#26
+Since we have isTrans(), please remove trans generation from isMale() and isFemale() that's really annoying.
+
+Set the gender like that, please:
+isFemale() = Female only or something female, no trans
+!isFemale() = Male only or something male, no trans
+isMale() = Male only or something male, no trans
+!isMale() = Female only or something female, no trans
+
+isTrans = A trans only - random m/f
+isFemale() && isTrans = A female trans only
+isMale() && isTrans = A male trans only
+OR isTrans(Female).... 
+
+Instead of doing generatePerson
+Actor.isFemale() || !Actor.isTrans().... for trying to find the right formula.
+
+Why not just use generatePerson for random NPC
+
+And create new variables for specific genders.
+Something like:
+generateMale()
+generateFemale()
+generateMaleTrans()
+generateFemaleTrans()
+generateHerma()
+
+
+*******************************************************************************
+#27
+
+How can we use the dog races?
+DogWhippet
+DogDobermann
+DogAustralianCattle
+DogBulldog
+DogDalmatian
+DogLabrador
+
+They exist in the game, so, how to use them separately?
+
+
+*******************************************************************************
+#28
+
+When the Player moves to an NPC, vice versa, he should use the shortest path. Instead of going around the room before sitting down.
+
+
+*******************************************************************************
+#29
+
+As we can buy binoculars, having a background showing us looking with. To spy on the neighbours! Will be better!
+
+ 
+
+*******************************************************************************
+#30
+
+A button to mute the music when we start the game or a way to change it would be even better!
+
+
+*******************************************************************************
+#31
+
+When starting a new game, having the possibility to activate mods before starting the game.
+
+
+*******************************************************************************
+#32
+
+Add an option to the main menu of the game, to open the background (lpworld files) editor without starting a new game.
+-...
+New game
+Save
+Background editor
+-...
+
+
+*******************************************************************************
+#33
+
+When editing a room with the editor, once finished, it would be cool to have an option to go back to the room I had before editing. 
+In addition to the already existing option to save it.
+
+
+*******************************************************************************
+#34
+
+partialUndress(true/false)
+So the game can detect if the player has wardrobe items set to "partial undress"
+
+
+*******************************************************************************
+#35
+
+Have a function : setAdoptiveRelativeType(Parent)
+Example : Having an asian mother, a black father, while I am white.
+
+*******************************************************************************
+#36
+
+Different background when visiting prison  ---> it can be police background
+Because it's not possible to set a different background at the moment. Looks like prison background is hardcoded inside imprison()
+OR
+Simply remove the prison background inside imprison() and let us set the background we wants.
+
+
+*******************************************************************************
+#37
+
+Having a function called "isInSameRoomAsPlayer()" or something alike, to prevent having a phone call from someone in the same room!
+
+
+*******************************************************************************
+#38
+
+getBuildingID() To get the ID of the current building.
+
+
+*******************************************************************************
+#39
+
+Would be great to have animation of hugging without sex: 
+Player(Hug)::"..."
+animatePair(Player, Actor, Hugging)
+Actor(Hug)::"..." 
+
+
+*******************************************************************************
+#40
+
+Shower scenes: Have animations for the player washing the NPC, for the NPC washing the player and also one where the player and the NPC take a shower together while the water is running...
+
+
+*******************************************************************************
+#41
+
+Having a variable called isSleeping(): to know if Player/Actor is really sleeping.
+
+
+*******************************************************************************
+#42
+
+An animation for Kissing only, no touching
+
+
+*******************************************************************************
+#43
+
+Having a variable called isSceneID() to trigger an event when we are on a specific lpscene
+
+
+*******************************************************************************
+#44
+
+Actor.animate(Standing) Because sometimes the NPC/MC talks while he is lying on the floor/bed, while he is at the water machine,....
+
+
+*******************************************************************************
+#45
+
+Have the option of using :
+A cucumber, banana, sausage, fish ... as a dildo
+An apple pie, a teddy bear, a sofa (slide our dick between the cushions) as a fleshlight.
+Some crazy ideas!
+
+
+*******************************************************************************
+#46
+
+A way to call a lpaction without having to click on the action name. ex: followUpAction(mylpactionFile)
+
+
+*******************************************************************************
+#47
+
+When starting a new game, it would be cool to have an option like:
+"Start with a family".
+If "Start with a family" option is enabled, you start the game with a mom and a dad.
+
+
+*******************************************************************************
+#48
+
+Not really a bug but these locations are missing in the "Locations Menu" + My suggestion if doable
+Parks (maybe using one of the smaller green spots on the city map)
+Forests (maybe using one of the big green spots on the city map)
+Festivals (maybe using one of the smaller green spots on the city map)
+Beaches (maybe using one of the big green spots on the city map)
+Rivers (maybe using one of the big green spots on the city map)
+Mountains (maybe using one of the big green spots on the city map)
+
+
+*******************************************************************************
+#49
+
+Will be cool to be able to create a female with no vagina but with a dick.
+Will be cool to be able to create a male with no dick but with a vagina.
+
+
+*******************************************************************************
+#50
+
+Remove "Vore" from random sex position animations, when Vore is not enable. Very annoying!
+
+
+*******************************************************************************
+#51
+A way to hide/remove "Inquire about a vacancy"
 
 
