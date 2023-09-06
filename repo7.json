@@ -982,23 +982,5 @@
         "LpTags": "lpcharacter, Presets",
         "AvatarM": "",
         "ModCategory": ""
-    },
-    {
-        "Idmod": "grim_HomeAssignment",
-        "Name": "Home Assignment module",
-        "Description": "Adds an Assign Home action to the PC menu which allows you to assign homes to NPCs",
-        "Version": "1.0.1",
-        "Path": "Grimm/grim_HomeAssignment-1.0.1.zip",
-        "LatestUpdate": "2022-10-01",
-        "ModRequireMods": "",
-        "ModderN": "Grimm",
-        "ModPatreon": "",
-        "ModUrlPage": "",
-        "Thumbnail": "",
-        "FullDescription": "",
-        "LPmodType": "Mod",
-        "LpTags": "Tool",
-        "AvatarM": "",
-        "ModCategory": ""
     }
 ]
